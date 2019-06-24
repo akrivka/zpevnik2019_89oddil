@@ -1,0 +1,29 @@
+\toftagthis{brontosauri}
+\song{Franky dlouhán}{Brontosauři}{40pt}{0.87}{
+\verse{1}Kolik je \C{}smutného, když \F{}mraky černé \C{}jdou\\
+lidem nad hla\G[7]{}vou, \F{}smutnou dála\C{}vou.\\
+Já slyšel příběh, který velkou pravdu měl,\\
+za čas odletěl, každý zapomněl.
+
+\vskip -1ex
+\chorus{}\C{}Měl kapsu \G[7]{}prázdnou Franky Dlouhán,\\
+po státech \F{}toulal se jen \C{}sám\\ 
+a že byl \F{}veselej, tak \C{}každej měl ho \G[7]{}rád.\\
+Tam ruce k \F{}dílu mlčky přiloží a \C{}zase jede \Am{}dál\\
+a \F{}každej, kdo s ním \G[7]{}chvilku byl,\\
+tak \F{}dlouho \G[7]{}se pak \C{}smál.
+
+\verse{2}Tam, kde byl pláč, tam Franky hezkou píseň měl,\\
+slzy neměl rád, chtěl se jenom smát.\\
+A když pak večer ranče tiše usínaj',\\
+Frankův zpěv jde dál, nocí s písní dál.\\
+\textbf{R:}
+
+\verse{3}Tak Frankyho vám jednou našli, přestal žít,\\
+jeho srdce spí, tiše smutně spí.\\
+Bůh ví jak, za co tenhle smíšek konec měl,\\
+farář píseň pěl, umíraček zněl.\\
+\textbf{R:}\\
+}
+
+

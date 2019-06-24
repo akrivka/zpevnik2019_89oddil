@@ -1,0 +1,20 @@
+\toftagthis{krestan}
+\song{Panenka}{Robert Křesťan}{70pt}{1}{
+\verse{1}Co \D{}skrýváš za \G{}víčky a \D{}plameny \G{}svíčky,\\
+snad \D{}houf bílých holubic nebo jen \A{}žal?\\
+Tak \G{}odplul ten \D{}prvý den, \G{}zmáčený \D{}krví,\\
+ani pouťovou panenku \A[7]{}nezane\D{}chal.
+
+\chorus{}Otevři \G{}oči, ty \D{}uspěcha\A{}ná,\\
+\G{}dámo \D{}uplaka\A{}ná,\\
+\G{}otevři \D{}oči, ta \G{}hloupá noc \D{}končí,\\
+a mír je \A[7]{}mezi ná\D{}ma.
+
+\verse{2}Už si oblékni šaty i řetízek zlatý\\
+a umyj se, půjdeme na karneval.\\
+A na bílou kůži ti napíšu tuší,\\
+že dámou jsi byla a zůstáváš dál.\\
+\textbf{R:}\\
+}
+
+

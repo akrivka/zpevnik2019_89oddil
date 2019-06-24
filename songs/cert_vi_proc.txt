@@ -1,0 +1,31 @@
+\toftagthis{navarova}
+\song{Čert ví proč}{Zuzana Navarová}{30pt}{1}{
+\verse{1}Kdo snídá \C{}špek a \F{}tlustě si ho krá\C{}jí,\hskip 0.3em \C{}\\
+kdo pořád \C{}slídí \F{}a nic nechce na\C{}jít,\hskip 0.3em \C{}\\
+kdo usne \G{}jenom, když má v dlani min\F{}ci,\\
+kdo \Bb{}z hlavy má jen stojan \F{}na čepici,\\
+\G{}přitom \C{}v nebi chtěl by housle \F{}hrát,\\
+ten \Am{}bude v pekle \G{}bubno\F{}vat.
+
+\verse{2}Kdo \G{}vždycky \C{}pro nic\CHORD{\ldots}{} za nic ztropí povyk,\\
+kdo pořád mluví a nic nevysloví,\\
+kdo za dvě zlatky vyměnil by duši,\\
+kdo hlavu má jen na nošení uší\\
+a přitom v nebi chtěl by housle hrát,\\
+ten bude v pekle bubnovat.
+
+\chorus{}\D{}Nekrmte čerty, \F{}co se krčí v křoví,\\
+\C{}stejně vám \Am{}nikdy, \F{}nikdy neodpo\G{}ví,\\
+proč \Am{}svět je jako kolo\F{}toč,\\
+a jenom \G{}řeknou: \uv{Čert ví \C{}proč!} 
+
+\verse{3}Kdo ze všech dveří poníženě couvá,\\
+kdo kozí nohu pod peřinu schoval,\\
+kdo v hlavě nemá a má pořád v gatích,\\
+kdo se ti směje, když jsi srdce ztratil\\
+a přitom v nebi chtěl by housle hrát,\\
+ten bude v pekle bubnovat.\\
+\textbf{R:}
+}
+
+

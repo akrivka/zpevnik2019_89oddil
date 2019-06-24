@@ -1,0 +1,21 @@
+\toftagthis{folk}
+\song{Sbohem, galánečko}{Vlasta Redl}{40pt}{1}{
+\verse{1}\G{}Sbohem, galá\Em{}nečko, \Am{}já už musím \D{}jí - \G{}ti, \hskip 0.4em \A[7]{}\\
+\D{}sbohem, galá\Hm{}nečko, \Em{}já už musím \A{}jí - \D{}ti\\
+\revrpt{}\Am{} Kyselé ví\D{}nečko,\G{} kyselé ví\C{}neč\D{}ko\\
+\G{}podalas mně k \C{}pi - \D{}i - \G{}tí. \rpt{}
+
+\verse{2}\revrpt{} Sbohem, galánečko, rozlučme sa v pánu, \rpt{}\\
+\revrpt{} Kyselé vínečko, kyselé vínečko\\
+Podalas mně v džbánu. \rpt{}
+
+\verse{3}\revrpt{} Ač bylo kyselé, přeca sem sa opil, \rpt{}\\
+\revrpt{} eště včil sa stydím, eště včil sa stydím,\\
+co jsem všechno tropil. \rpt{}
+
+\verse{4}\revrpt{} Ale sa nehněvám, žes mňa ošidila, \rpt{}\\
+\revrpt{} to ta moja žízeň, to ta moja žízeň,\\
+ta to zavinila. \rpt{}\\
+}
+
+

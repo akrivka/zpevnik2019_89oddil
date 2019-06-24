@@ -1,0 +1,37 @@
+\toftagthis{anglicke}
+\song{While My Guitar Gently Weeps}{The Beatles}{35pt}{1.05}{
+\medskip 
+
+\verse{1}I \Am{}look at you \Am[/G]{}all, see the \D[9/F$\sharp$]{}love there that's \F{}sleeping,\\
+\Am{}while my gui\G{}tar gently \D{}weeps.\E[7]{}\\
+I \Am{}look at the \Am[/G]{}floor and I \D[9/F$\sharp$]{}see it needs \F{}sweeping,\\
+\Am{}still my gui\G{}tar gently \C{}weeps.\E[7]{}
+
+\chorus{}\A{}I don't know \Csm{}why \hskip 0.8em \Fsm{} nobody \Csm{}told you\\
+\Hm{}how to unfold your \E{}love.\\
+I don't know how someone controlled you,\\
+they bought and sold you.
+
+\verse{2}I look at the world and I notice it's turning,\\
+while my guitar gently weeps.\\
+With every mistake we must surely be learning,\\
+still my guitar gently weeps.
+
+\chorus{}I don't know how you were diverted,\\
+you were perverted too.\\
+I don't know how you were inverted,\\
+no one alerted you.
+
+\clearpage
+\verse{3}I look from the wings at the play you are staging,\\
+while my guitar gently weeps.\\
+As I'm sitting here, doing nothing but ageing,\\
+still, my guitar gently weeps.
+
+\verse{4} I look at you all, see the love there that's sleeping,\\
+while my guitar gently weeps.\\
+Look at you all\ldots{}\\
+still my guitar gently weeps.\\
+}
+
+

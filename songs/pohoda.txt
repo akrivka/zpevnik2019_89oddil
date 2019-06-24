@@ -1,0 +1,42 @@
+\toftagthis{kabat}
+\song{Pohoda}{Kabát}{80pt}{1}{
+\vskip 8pt
+\CHORD{\revrpt{}}{} \hskip 0.7em \D{} \hskip 1em \A{} \hskip 1em \E{} \hskip 1em \Hm{} \hskip 2em \CHORD{\rpt}{}\\
+\verse{1}\Fsm{} Vezmu tě, má milá, \Csm{}rovnou k nám,\\
+\Fsm{} kolem louky, lesy, \Csm{}hejna vran,\\
+\Fsm{} všude samá \E{}kráva, samej \Hm{}vůl.
+
+\verse{2}Máme kino, máme hospodu,\\
+v obci všeobecnou pohodu,\\
+máme hujer, žito, chléb i sůl.
+
+\chorus{}\D{}Když se u nás chlapi \A{}poperou,\\
+tak jenom \E{}nožem anebo \Hm{}sekerou,\\
+v zimě tam \D{}dlouhý noci \A{}jsou\\
+a tuhej \Hm{}mráz.\Hm{}\\
+Jak jsou naše cesty zavátý,\\
+tak vezmem vidle anebo lopaty,\\
+když něco nejde, co na tom sejde,\\
+my máme čas.
+
+\newpage
+\verse{3}Chlapi někdy trochu prudký jsou,\\
+holky s motykama tancujou,\\
+s ranní rosou táhnou do polí.
+
+\verse{4} Nikdo se tam nikam nežene,\\
+máme traktory a ne, že ne,\\
+až to spatříš, ledy povolí.\\
+\textbf{R:}
+
+\verse{5}Hoří les a hoří rodnej dům,\\
+hoří velkostatek sousedům,\\
+to je smůla, drahá, podívej.
+
+\verse{6}Hasiči to stejně přejedou,\\
+oni si moc dobře nevedou,\\
+schovej sirky, ať je neviděj.\\
+\textbf{R: ($2\times$)}
+}
+
+

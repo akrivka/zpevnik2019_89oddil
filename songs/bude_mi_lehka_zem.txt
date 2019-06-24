@@ -1,0 +1,30 @@
+\toftagthis{hapka}
+\song{Bude mi lehká zem}{Petr Hapka / Michal Horáček}{30pt}{0.93}{
+\verse{1}{}\C{}Mám pěknou sirku v zubech, \Gm{}krempu do čela\\
+a \F{}bota zpuchřelá mi \Bb[7]{}vrásky nedělá.\\
+\C{}Jen tou svou sirkou škrtni, \G{}ať se ohřejem,\\
+až \C{}přikryje nás zem, \F{}tak už si neškrtnem! 
+
+\chorus{}Má lásko, jen ty smíš kázat mi nad hrobem.\\ 
+Má zem pak bude lehká, bude mi lehká zem,\\
+bude mi lehká zem, aáá\ldots{} 
+
+\verse{2}{}Mám tu svá vysvědčení, pohlednici z Brém\\
+a proti pihám krém, co s nimi -- čert je vem!\\
+Ten čert sám brzo zjistí, že má v podpaží\\
+moc těžké závaží a někde v poli rozpaží.\\
+\textbf{R:}
+
+\verse{3}{}Tak dobré ráno, milé myši v kostelích,\\
+tak ať vám chutná klíh všech křídel andělských.\\
+A dobrý večer, sovo, která myši jíš,\\
+ptáš se zdali i my vzali zavčas pali? Jářku, to si piš!\\
+\textbf{R:}
+
+\verse{4}{}Už nemám ani klobouk, pluje povětřím,\\
+jak zvony hledá Řím, či sebe sama -- co já vím!\\
+Jen to, že co mám tebe, už tíží necítím\\
+Áááá\ldots{}\\
+\textbf{R:}
+}
+

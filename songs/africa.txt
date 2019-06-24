@@ -1,0 +1,42 @@
+\toftagthis{anglicke}
+\song{Africa}{Toto}{20pt}{1}{
+\capo{2}
+\medskip
+\G{} \hskip 1.3em \Fsm{}\hskip 2.7em \Hm{}\\
+\verse{1}\A{}I hear the drums \Csm[7]{}echoin' to\Fsm{}night, but \A[/E]{}she hears only\\
+\G{}whispers of some \D{}quiet conver\D[maj7/F$\sharp$]{}sation.\hskip 2em \G{} \hskip 1.3em \Fsm{}\hskip 2.7em\Hm{}
+
+She's coming in, twelve-thirty flight, moonlit wings\\
+reflect the stars that guide me towards salvation.
+
+I stopped an old man along the way, hoping to find\\ 
+some old forgotten words or ancient melodies.
+
+\A{}He turned to \Csm[7]{}me as if to \Fsm{}say:\\
+\uv{Hurry boy, it's \G{}waiting there for you!} \Fsm{}\hskip 2.7em \Hm{}
+
+\chorus{}\Em{}It's gonna take a \C{}lot to drag me \G{}away from \D{}you,\\
+\scalebox{0.95}[1]{there's nothing that a hundred men or more could ever do.}\\
+I bless the rains down in Africa.\\
+\Em{}Gonna take some \C{}time to do the\\
+\G{}things we never \Hm{}had.\hskip 0.7em \D{}\hskip 1.3em \Em{}\hskip 2.2em \D[/F$\sharp$]{}\hskip 2.5em \G{}\hskip 1.3em \Fsm{}\hskip 2.7em \Hm{}
+
+\verse{2}The wild dogs cry out in the night, as they grow restless\\
+longing for some solitary company.
+\clearpage
+I know that I must do what's right, sure as Kilimanjaro\\
+rises like Olympus above the Serengeti
+
+I seek to cure what's deep inside,\\
+frightened of this thing that I've become.\\
+\textbf{R:}
+
+\uv{Hurry boy, she's waiting there for you!} 
+
+\chorus{}It's gonna take a lot to drag me away from you,\\
+\scalebox{0.95}[1]{there's nothing that a hundred men or more could ever do}\\
+\revrpt{} I bless the rains down in Africa. \rpt{} $^{4\times}$\\
+Gonna take some time to do the things we never had.\\
+}
+
+

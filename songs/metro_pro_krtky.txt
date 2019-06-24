@@ -1,0 +1,18 @@
+\toftagthis{nohavica}
+\song{Metro pro krtky}{Jaromír Nohavica}{70pt}{1}{
+\verse{1}\G{}Prvá, druhá, \C{}třetí, \D{}čtvrtá,\G{} \hskip 1em \G{} \hskip 1em \C{} \hskip 1em \D{}\\
+\G{}na za\G{}hradě \C{}krtek \D{}vrtá,\G{} \hskip 1em \G{} \hskip 1em \C{} \hskip 1em \D{}\\
+\Em{} drápy \Em{}má jak \C{}výv\C{}rtky, oho\G{}ho,\\
+\Am{} vrtá \Am{}metro \C{}pro krt\D{}ky, ohoho.\G{} \hskip 1em \G{} \hskip 1em \C{} \hskip 1em \D{}
+
+\chorus{}Rrr ...
+
+\verse{2}Každý, kdo si zaplatí, ohoho,\\
+smí se projet po trati, ohoho,\\
+od okurek po macešky, jé,\\
+dál už musí každý pěšky, jé.
+
+\chorus{}Rrr ...\\
+}
+
+

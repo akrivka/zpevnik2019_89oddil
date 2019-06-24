@@ -1,0 +1,26 @@
+\toftagthis{slovenske}
+\song{Voda, čo ma drží nad vodou}{Elán}{25pt}{0.86}{
+\crdheight=2.0ex
+\verse{1}\E{}Keby bolo \A{}niečo, \H[/D$\sharp$]{}čo sa ti dá \E{}zniesť,\\
+okrem neba \A{}nado mnou\Gsm{} a \hskip 1.7em \Fsm{} \hskip 2.2em \H{}miliónov \A[sus2]{}hviezd. \H{}\\
+\E{}Tak by som to \A{}zniesol, \H{}vždy znova a \Gsm{}rád,\\
+\A{}k tvojim nohám \E{}dobré veci\Fsm{} \hskip 0.3em ako \hskip 0.3em \H{}vodopád\A{}.
+
+\verse{2}Keby som mal kráčať, sám a zranený,\\
+šiel by som až tam, kde tvoja duša pramení.\\
+Keby som ten prameň našiel náhodou,\\
+bola by to voda, čo ma drží nad vodou.
+
+\verse{*}\Gsm{} Môžeš zabud\Csm{}núť, \hskip 0.7em \A{} stačí kým tu \E{}si,\\
+\Gsm{} iba ďalej \Csm{}buď, \hskip 0.5em \A{} nič viac nemu\H{}síš. \Gs[sus4]{}\\
+\chorus{}Chcem sa z teba \Csm{}napiť, \hskip 0.5em \E{} šaty odhoď \H{}preč,\\
+\Gs{} \hskip 1.2em \Gs[7]{}čo má byť sa \Csm{}stane, \H{}tak cez moje \A{}dlane\A[/G$\sharp$]{},\\
+ako \Fsm{}čistý prameň teč.\Gs{}\\
+Ak ťa ešte trápi smútok z rozchodov,\\
+ono sa to podá, ty si predsa voda,\\
+čo ma \Fsm{}drží nad vo\Fsm{}dou. \hskip 0.7em \H{}\\
+\vskip 8pt
+\verse{3}Keby bolo niečo\ldots\\
+\textbf{R:}
+}
+

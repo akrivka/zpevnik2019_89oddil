@@ -1,0 +1,44 @@
+\toftagthis{anglicke}
+\song{Boulevard of Broken Dreams}{Green Day}{30pt}{1}{
+\capo{3}
+\medskip
+\verse{1}\Am{}I walk a \C{}lonely road,\\
+\G{}the only one that \D{}I have ever \Am{}known.\\
+Don't know \C{}where it goes,\\
+but \G{}it's home to me \D{}and I walk a\Am{}lone. \C{} \hskip 1em \G{} \hskip 1em \D{} 
+
+\verse{2}I walk this empty street,\\
+on the Boulevard of broken dreams,\\
+where the city sleeps\\
+and I'm the only one and I walk a\Am{}lone. \C{}\\
+\G{} I walk a\D{}lone, I walk a\Am{}lone.\C{}\\
+\G{} I walk a\D{}lone, and I walk a-
+
+\chorus{}\F{}My \C{}shadow's \G{}the only one that \Am{}walks beside me\\
+My shallow heart's the only thing that's beating\\
+Sometimes I wish someone out there will find me\\
+\F{} 'Till \C{}then I \E[7]{}walk alone 
+
+Ah\ldots ah\ldots\\
+\clearpage
+\verse{3}I'm walking down the line,\\
+that divides me somewhere in my mind.\\
+On the border line of the edge\\
+and where I walk alone 
+
+\verse{4}Read between the lines,\\
+what's fucked up and everything's alright.\\
+Check my vital signs\\
+to know I'm still alive and I walk alone.\\
+I walk alone, I walk alone.\\
+I walk alone, I walk a-\\
+\textbf{R:}
+
+\verse{5}I walk this empty street\\
+on the Boulevard of broken dreams,\\
+where the city sleeps\\
+and I'm the only one and I walk a-\\
+\textbf{R:}\\
+}
+
+

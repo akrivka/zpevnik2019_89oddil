@@ -1,0 +1,26 @@
+\toftagthis{olympic}
+\song{Okno mé lásky}{Olympic}{60pt}{0.9}{
+\verse{1}\C{}Kdo tě líbá, když ne \F{}já,\\
+\C{}kdo tě hlídá, když ne \F{}já,\\
+\C{}okno v přízemí je \Bb{}zavřené i \F{}dnes, lásko \C{}má.
+
+\verse{2}Kdo ti zpívá, když ne já,\\
+kdo tě mívá, když ne já,\\
+okno v přízemí je zavřené i dnes, lásko má. 
+
+\chorus{}\Am{}A v jeho \G{}lesku vidím \F{}přicházet\\
+\Am{}sebe ve \G{}věku patnáct \F{}let\\
+\Am{}a znovu \G{}říkám spoustu \F{}něžných vět.\\
+\C{}Ty, \F{}já, \C{}jsme \F{}my, \C{}my a \G{}náš je \F{}svět.
+
+\verse{3}Kdo tě budí, když ne já,\\
+kdo tě nudí, když ne já,\\
+okno v přízemí je zavřené i dnes, lásko má.\\
+\textbf{R:}
+
+\verse{4}Kdo tě hladí, když ne já,\\
+kdo tě svádí, když ne já,\\
+kdo tě zradí, když ne já,\\
+ty, já, jsme my, my a náš byl svět.\\
+}
+

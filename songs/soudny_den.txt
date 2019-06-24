@@ -1,0 +1,40 @@
+\toftagthis{spiritual}
+\song{Soudný den}{Spirituál kvintet}{55pt}{1}{
+\verse{1}\Am{}Zdál se mi sen, že se nebe hroutí,\\
+\G{}zdál se mi sen o poslední pouti,\\
+\Am{}zdál se mi sen, že všechno seberou ti\\
+v ten \Em{}soudný \Am{}den.
+
+\verse{2}Kam běžet mám, Slunce rychle chladne,\\
+kam běžet mám, měsíc na zem spadne,\\
+kam běžet mám, moře už je na dně\\
+v ten soudný den.
+
+\verse{3}Stůj, nechoď dál, času už je málo,\\
+stůj, nechoď dál, míň, než by se zdálo,\\
+stůj, nechoď dál, otevři se, skálo,\\
+v ten soudný den.
+
+\verse{4}Pán tě zavolá, má pro každého místo,\\
+Pán tě zavolá, jen kdo má duši čistou,\\
+Pán tě zavolá, sám nedokázal bys to\\
+v ten soudný den.
+
+\verse{5}Soudí, soudí pány, slouhy,\\
+soudí, soudí hříšné touhy,\\
+\Am{}soudí, soudí, výčet pouhý, \Am{}á\ldots \hskip 0.5em  \A[sus2]{} \hskip 3em \E[sus4]{} \hskip 3em \E{}
+
+\verse{*}\Am{}Vtom se probudíš, to byl jen sen,\\
+\F{}vtom se probudíš, to byl jen sen,\\
+\Dm[6]{}vtom se probudíš, to byl jen sen,\\
+\Am{}jen \hskip 1em \E{}pouhý \Am{}sen.
+
+\verse{6} Zdál se mi sen, že se nebe hroutí \dots
+
+\verse{7}Zdál se mi sen, já stojím na svém místě,\\
+zdál se mi sen, mé svědomí je čisté,\\
+\Am{}zdál se mi sen, jen jedno vím \F{}jistě:\\
+\Am{} je \hskip 1em  \E{}soudný \Am{}den!
+~\\}
+
+

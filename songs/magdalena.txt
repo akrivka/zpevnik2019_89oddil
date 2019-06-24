@@ -1,0 +1,42 @@
+\toftagthis{ceskekapely}
+\song{Magdaléna}{Jelen}{40pt}{1}{
+\verse{1}\A{}Zapal ten oheň ve mně,\D[add9]{} čeho se bojíš,\\
+\A{}zápalkou škrtni jemně\D[add9]{}.\\
+Zapal ten oheň ve mně, čeho se bojíš,\\
+zimou se celá třeseš, proč venku stojíš?\\
+Pojď \A{}dál, prosím tě, \D[add9]{}nenech se prosit se \A{}dál,\\
+\D[add9]{}nenech se! 
+
+\verse{2}Sedíme na pavlači, přichází ráno,\\
+tobě se lesknou oči.\\
+Sedíme na pavlači, přichází ráno\\
+a mně se hlava točí.\\
+Pojď dál, prosím tě, nenech se prosit se dál,\\
+nenech se! 
+
+\chorus{}\Fsm{}Hodiny se zastaví a v \E{}devět třicet v pondělí,\\
+\A{}Magdaléno, \A{}tvoje vlasy\\
+leží pod mou postelí a i když jsme to nechtěli,\\
+oblíkáš se, pročpak asi.\\
+Hodiny se zastaví a v devět třicet v pondělí\\
+jsem\A{} sám.\D[add9]{}
+\clearpage
+\verse{3}Stojíme na rozcestí a zvony zvoní,\\
+daleko od bolestí.\\
+Stojíme na rozcestí a zvony zvoní,\\
+možná nás čeká štěstí.\\
+Pojď dál, prosím tě, nenech se prosit se dál,\\
+nenech se!\\
+\textbf{R:}
+
+\chorus{}Hodiny se zastaví a v devět třicet v pondělí,\\
+Magdaléno, tvoje vlasy,\\
+leží pod mou postelí a i když jsme to nechtěli,\\
+oblíkáš se, pročpak asi.\\
+Hodiny se zastaví a v devět třicet v pondělí\\
+máš těžký srdce a mokrý řasy,\\
+když vycházíš ze dveří, tak sama tomu nevěříš,\\
+nenech se!\\
+}
+
+

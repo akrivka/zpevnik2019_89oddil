@@ -1,0 +1,98 @@
+\toftagthis{nohavica}
+\song{Milionář}{Jaromír Nohavica}{35pt}{0.9}{
+U nás \D{}v domě říka\A[7]{}jí mi Franta \D{}Šiška,\D{}\\
+bo už \D{}od pohledu \G{}chytrý jsem jak \D{}liška.\D{}\\
+A když \D{}kery něco \Em{}neví nebo \A[7]{}když je na co \D{}levy,\\
+tak jde \D{}za mnu a ja \A[7]{}všecko najdu \D{}v knižkach.\D{}\\
+\D{} Ha \Em{}há, \hskip 0.5em \A[7]{}hahahá \D{}há,\\
+tak jde \D{}za mnu a ja \A[7]{}všecko najdu \D{}v knižkach.\D{}
+
+Raz mi říkal jeden známy dole v baře,\\
+že s tu hlavu moh' bych do Milionaře.\\
+Čemu ne, říkám si, brachu,\\
+však má Železný dost prachu\\
+no a Čechovi se podíváš do tváře.
+
+Dostal jsem se mezi partu uchazeču.\\
+Nikdo nemá šajnu jak tam nervy teču!\\
+Všecko viděl jsem to hněde\\
+tak jsem zmáčknul á, bé, cé, dé\\
+no a už mě, kurva, ke stolečku vleču.
+
+Čech to začal takým malým interiew,\\
+co prý robim jestli kuřim a co piju.\\
+Tak jsem řeknul, co jsem řeknul,\\
+on se evidentně leknul\\
+a už začly blikat světla ve studiu.\\
+
+\leftskip -15pt
+\large
+\begin{minipage}[t]{0.54\textwidth}
+\textls[-25]{První otázka, prý co je ukulele.\\
+\textls[-55]{Tož to se přiznam měl jsem bobky u prdele.}\\
+Tak jsem radši hlavu sklonil,\\
+abych to všecko nezkonil,\\
+říkám: \uv{Chtěl bych se obratit na přitele.}\\
+
+Lojza byl po hlasu silně nevyspalý,\\
+asi zase celu šichtu prochlastali.\\
+Bylo slyšet, jak tam dycha,\\
+ale třicet vteřin ticha.\\
+To je tak, když se vam kamarád navali.\\
+
+Moju staru zatím doma braly mory,\\
+lidi ohryzávali televizory.\\
+Tady nešlo nad čim plesat,\\
+tož padesat na padesat,\\
+ať vím, esi su to ty bulharské hory.\\
+
+A už jasně na tym komputuře sviti:\\
+buďto je to za A) vzácne lučni kviti,\\
+nebo za B) nástroj strunny,\\
+tu jde kurňa o koruny\\
+a ja stejně jak na začátku jsem v řiti.\\
+
+Čech tam zatím mával tymi svymi čisly.\\
+Tak si řikam: Franta napij se a mysli.\\
+Jake tudy sakypaky,\\
+obratiš se na divaky,\\
+však tu zatím za ty prachy enem kysli.}\\
+\end{minipage}
+\hskip 5pt
+\begin{minipage}[t]{0.46 \textwidth}
+\rightskip -25pt
+\textls[-35]{Sám jsem byl zvědavý co publikum zvoli,\\
+bo aj v obecenstvu možu sedět voli.\\
+Devadesát procent za B),\\
+ale to mi přišlo slabé,\\
+bo co není stopro to mě dycky smoli.\\
+
+Ještě že jsem chlap, co z boja neutika.\\
+Říkám: \uv{Pane Čechu, pujdem do rizika.}\\
+Měl jsem v gaťach nadělano,\\
+ale Čech zakřičel: \uv{Ano,\\
+máte pravdu, je to nástroj hudebnika!}\\
+(Ha há, hahahá há, měl sem pravdu,\\
+byl to nástroj hudebníka.)\\
+
+Lidi tleskali, bo úspěch to byl plný.\\
+Radosti zrobili dvě mexické vlny.\\
+A já co mam srdce skromné,\\
+jako všeci z Dolni Lomné,\\
+jsem byl spokojený, bo sem ukol splnil.\\
+
+\uv{\textls[-50]{Pane Čechu nerad přetáhnul bych strunu.}\\
+Končim hru a beru tisicikorunu.}\\
+Čech se jenom chytnul stolu,\\
+obočí mu spadlo dolu\\
+no a už se modry ku podlaze sunul.\\
+
+První třidu do Ostravy Intercity.\\
+V jidelňáku celu cestu valim kyty\\
+a ta stovka co mi zbude,\\
+to je přispěvek na chude,\\
+bo Ostrava je region razovity.}
+\end{minipage}
+~\\
+}
+

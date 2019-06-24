@@ -1,0 +1,26 @@
+\toftagthis{ceskekapely}
+\song{Malování}{Divokej Bill}{20pt}{0.82}{
+\crdheight=2.2ex
+\verse{1}\Dm{}Nesnaž se, \Dm{}znáš se,\Bb{} řekni mi, \C{}co je jiný,\\
+\Dm{} jak v kleci máš se\Bb{} \hskip 1.2em \C{}pro nevinný,\\
+\Dm{}noci dlouhý \Bb{}jsou plný \C{}touhy a \Dm{}lásky nás dvou. \Bb{}\\
+\C{}Všechno hezký \Dm{}za sebou mám,\Bb{} můžu \C{}si za to \Dm{}sám,\\
+\Bb{} v hlavě \C{}hlavolam,\\
+\Dm{}jen táta a máma\Bb{} jsou s \C{}náma, \Dm{}napořád s náma.\Bb{}
+
+\vskip -2ex
+\chorus{}To \C{}je to tvoje \Dm{}malování \Bb{}vzdušnejch z\C{}ámků,\\
+\Dm{}malování po \Bb{}zdech holejma \C{}rukama tě \Dm{}nezachrání,\\
+už \Bb{}máš na ka\C{}hánku, \Dm{}nezachrání, už jsi \Bb{}na zá\C{}dech,\\
+je to \Dm{}za náma, ty čteš \Bb{}poslední str\C{}ánku,\\
+\Dm{} za náma,\Bb{} na \C{}zádech, \Dm{}za náma, už \Bb{}máš na ka\C{}hánku,\\
+mezi\Dm{} náma,\Bb{} mi taky \Gm{}došel \Am{}dech\ldots{} 
+
+\Dm{} \hskip 2.1em \Bb{} \hskip 1.2em \C{} \hskip 1em \Dm{} \hskip 2.1em \Bb{} \hskip 1.2em \Gm{} \hskip 2em \Am{}\\
+\textbf{R:}
+
+\verse{2}Znáš se, řekni mi, co je jiný, jak v kleci máš se,\\
+pro nevinný noci dlouhý jsou plný touhy a lásky nás tří.
+}
+
+

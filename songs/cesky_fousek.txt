@@ -1,0 +1,45 @@
+\toftagthis{nohavica}
+\song{Český fousek}{Jaromír Nohavica}{20pt}{1}{
+\verse{1}Kočárem \Am{}z Vídně\Am[/G]{} přivezli\Am{} mě \hskip 0.5em \Am[/C]{}jednou \E[/H]v zimě,\E[/F]{} \hskip 1.8em \E{}\\
+do kupek sněhu na vltavském břehu vyhodili mě.\\
+Byl jsem \Dm{}hladový a \G{}vyzáblý jak \C{}lunt, \A[7]{}\\
+český \Dm{}fousek -- \E[7]{}der tschechische \Am{}Hund.\Am[/G]{} \hskip 3em \CHORD{\ldots}{}\\
+Haf haf.
+
+\verse{2}Všichni, kdo míjeli mě, odvraceli oči,\\
+jediný, kdo se slitoval, byl panský kočí.\\
+Z kozlíku zvolal: \uv{Hele, mladej, když máš\\
+ještě trochu sil, naskoč si!} -- a tak jsem naskočil.\\
+Haf haf.
+
+\verse{3}Ve stáji u koní je teplo i když venku praští mráz,\\
+za misku vody, za pár kostí, pane hrabě, hlídám vás.\\
+Diví vlci chodí lesem za zvěří\\
+a já sám jediný u dveří.\\
+Haf haf.
+
+\verse{4}Bez čísla, bez obojku a bez rodokmenu,\\
+daleko k národu a ještě dále k jménu.\\
+Chápu, že gróf mi neodpoví na pozdrav,\\
+snažím se ze všech sil,\\
+haf haf.
+\clearpage
+\verse{5}A léta jdou a já se snažím býti vděčen\\
+za podrbání od pána a jeho slečen.\\
+Už i ten kočí padnul kdesi v zákopech u Verdunu\\
+a já sám vyju tu na Lunu.\\
+Haf haf.
+
+\verse{6}Když zlátne listopad a z lesa slyším střílet\\
+a z nebe do jezera padaj' kachny bílé.\\
+U svého psího srdce cítím divný chlad,\\
+že bych rád, že bych rád, taky rád.\\
+Haf haf.
+
+\verse{7}Za rok či za dva, až to přijde, já to vím,\\
+na hrob mi dejte malý český vltavín.\\
+Ležet bez náhrobku by člověk neunes,\\
+natož pes, natož pes, natož pes.\\
+}
+
+

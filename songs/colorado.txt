@@ -1,0 +1,33 @@
+\toftagthis{kabat}
+\song{Colorado}{Kabát}{40pt}{0.9}{
+\verse{1}{}Táta \G{}vždycky říkal: \uv{Hochu, žádný \C{}strachy,\\
+seš kovboj \G{}v Coloradu, můžeš krávy \D{}pást.}\\
+Já radši \G{}utratil jsem psa a všechny \C{}prachy,\\
+do srdce \G{}Evropy já \D{}odjel v klidu \G{}krást.
+
+\vskip -2ex
+\verse{2}{}Narvaný kapsy, prsteny, řetězy zlatý,\\
+tam kolem krku místní indiáni maj'.\\
+A ty, co nemakaj', tak jsou nejvíc bohatý,\\
+musím si pohnout dokavaď tam rozdávaj'.
+
+\vskip -2ex
+\chorus{}Z Billa \G{}na Nováka změním si svý \C{}jméno\\
+a až tu \G{}malou zemi celou rozkra\D{}dem, \emph{(rozkradem!)}\\
+tak se \G{}vrátím ve svý rodný Colo\Em{}ra \hskip 0.3em - \hskip 0.3em \C{}do\\
+a o tý \G{}zlatý žíle \D{}řeknu doma \G{}všem. 
+
+\verse{3}{}Tam kradou všichni co blízko okolo bydlej,\\
+šerif se na ně jenom hezky usmívá,\\
+kdyby se nesmál, tak ho okamžitě zmydlej,\\
+házej mu kosti za to, že se nedívá.
+
+\vskip -2ex
+\verse{4}{}Místo krav tam, nelžu vám, prej pasou holky\\
+a když jim nezaplatíš, vyrazej ti dech,\\
+ale s IQ to tam nebude tak horký,\\
+místo na koních tam jezděj v medvědech.\\
+\textbf{R: $(2\times)$}
+}
+
+

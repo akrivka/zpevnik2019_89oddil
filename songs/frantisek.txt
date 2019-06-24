@@ -1,0 +1,54 @@
+\toftagthis{buty}
+\song{František}{Buty}{50pt}{0.95}{
+\verse{1}{}\G{}Na hladinu rybníka svítí sluníč\C{}ko\\
+\Em{}a kolem stojí v hustém kruhu \G{}topoly,\\
+\Am{}které tam zasadil jeden hodný \Hm{}člověk,\\
+\Am{}jmenoval se František \D{}Dobrota.
+
+\vskip -2ex
+\verse{2}{}František Dobrota, rodák z blízké vesnice,\\
+měl hodně dětí a jednu starou babičku,\\
+která, když umírala, tak mu řekla: \uv{Františku,\\
+teď dobře poslouchej, co máš všechno udělat.}
+
+\vskip -2ex
+\chorus{}\revrpt{} \C{}Balabambam, balabambam\C{} \hskip 1em \D{} \rpt{} $^{3\times}$\\
+a \Am{}kolem rybníka nahusto nasázet \D{}topoly. 
+
+\verse{3}{}František udělal všechno, co mu řekla,\\
+a po snídani poslal děti do školy.\\
+Žebřiňák s nářadím dotáhl od chalupy k rybníku,\\
+vykopal díry a zasadil topoly.
+
+\vskip -2ex
+\verse{4}{}Od té doby vítr na hladinu nefouká,\\
+takže je klidná jako velké zrcadlo,\\
+sluníčko tam svítí vždycky rádo,\\
+protože tam vidí Františkovu babičku.\\
+\textbf{R:}\\
+\noexport{
+\vskip 5pt
+\leftskip 0pt
+\textbf{\emph{\large Flétna:}}
+\setlength\parindent{0pt}
+\begin{minipage}[m]{\textwidth}
+\begin{music}
+\input musixext
+\instrumentnumber{1}
+\generalsignature1
+\nobarnumbers
+\setsize 1\smallvalue
+\hsize 247pt
+\generalmeter\meterC
+\nostartrule
+\startpiece
+\notes\hsk\ibl0h{0}\qb0n\nbbl0\qb0l\tbl0\qb0n\ibl1h0\qb1l\tbl1\qb1j\enotes
+\notes\qlp{g} \hsk \ca{f}\enotes\bar
+\notes \ibl2h0\qb2g\qb2j\qb2l\tbl2\qb2n\ibl3h{0}\qb3m\nbbl3\qb3n\tbl3\qb3m\cl{l}\ds\enotes
+\endpiece
+\end{music}
+\end{minipage} 
+}
+}
+
+

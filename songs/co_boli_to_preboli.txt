@@ -1,0 +1,28 @@
+\toftagthis{slovenske}
+\song{Čo bolí, to prebolí}{Miroslav Žbirka}{35pt}{0.95}{
+\crdheight=2.5ex
+\verse{1}\Dm{}Čo bolí, to \Gm{}prebolí, \A[7]{}už to skrýva \Dm{}tvár,\\
+dvaja blázni na mori, niekto nám veslo vzal.\\
+\Bb{}Čln sa láme \A{}napoly, \Bb{}keď topíš sa, \A{}vieš,\\
+\Dm{}čo bolí, to \Gm{}prebolí \A[7]{}a odpláva \Dm{}preč.\\
+\chorus{}Tie tajoms\C{}tvá\F{}, pod hladi\A[7]{}nou\Dm{},\\ 
+chcem v tebe \C{}ná\F{}jsť, ale s i\A[7]{}nou\Dm{}.
+
+\verse{2}Co bolí, to přebolí, nepředbíhej čas,\\
+co necháme v tom moři, jednou zkrásní v nás.\\
+Z trosek, víš, člun nestvoříš, z moře stoupá dým,\\
+co bolí, to přebolí, možná víš, co s tím.\\
+\chorus{}To tajemství pod hladinou\\
+hledáš už dál někde s jinou.
+
+\verse{*}\Dm{}Smutek šel \Gm{}sám se \A[7]{}smíchem \Dm{}spát \Dm{} \hskip 2em \Gm{}\hskip 2.3em \A[7]{} \hskip 1.5em \Dm{}\\
+a z člunu víc už nejde brát. 
+
+\verse{3}Co bolí, to přebolí, co neznáš, to znáš,\\
+přijdeš k poušti po moři, tam čekám tě zas.\\
+Nezhasínej co hoří, ať hoří to dál,\\
+co bolí, to přebolí, proč bys sám to vzdal?\\
+\chorus{}Tie tajomstvá pod hladinou\\
+hľadáš už rád niekde s inou.\\
+}
+

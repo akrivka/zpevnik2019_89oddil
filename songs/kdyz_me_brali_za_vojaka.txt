@@ -1,0 +1,34 @@
+\toftagthis{nohavica}
+\song{Když mě brali za vojáka}{Jaromír Nohavica}{20pt}{0.86}{
+\verse{1}{}\Am{}Když mě brali za vo\C{}jáka, \G{}stříhali mě doho\C{}la,\\
+\Dm{}vypadal jsem jako \Am{}blbec, \E{}jak i všichni doko\F{}la,\\
+-\G{}la, -\C{}la, -\G{}la, \Am{}jak i všichni \E{}doko\Am{}la.
+
+\vspace{-0.2cm}
+\verse{2}{}Zavřeli mě do kasáren, začali mě učiti,\\
+jak mám správný voják býti a svou zemi chrániti,\\
+-ti, -ti, -ti a svou zemi chrániti.
+
+\verse{3}{}Na pokoji po večerce ke zdi jsem se přitulil,\\
+vzpomněl jsem si na svou milou, krásně jsem si zabulil,\\
+-lil, -lil, -lil, krásně jsem si zabulil.
+
+\verse{4}{}Když přijela po půl roce, měl jsem zrovna zápal plic,\\
+po chodbě furt někdo chodil, tak nebylo z toho nic,\\
+nic, nic, nic, tak nebylo z toho nic.
+
+\verse{5}{}Neplačte, vy oči moje, ona za to nemohla,\\
+mladá holka lásku potřebuje a tak si k lásce pomohla,\\
+-la, -la, -la, tak si k lásce pomohla.
+
+\verse{6}{}Major nosí velkou hvězdu, před branou ho potkala,\\
+\textls[-10]{řek' jí, že má zrovna volný kvartýr, tak se sbalit nechala,}\\
+-la, -la, -la, tak se sbalit nechala.
+
+\verse{7}{}Co je komu do vojáka, když ho holka zradila,\\
+\textls[-5]{na shledanou, pane Fráňo Šrámku, písnička už skončila,}\\
+-la, -la, -la, jakpak se Vám líbila?\\
+-la, -la, -la, no nic moc extra nebyla.\\
+}
+
+

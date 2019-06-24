@@ -1,0 +1,27 @@
+\toftagthis{chinaski}
+\song{První signální}{Chinaski}{35pt}{1}{
+\verse{1}Až si \G{}zejtra ráno \C{}řeknu zase \Em{}jednou provždy dost,\\
+\G{}právem se mi \C{}budeš tiše \Em{}smát.\\
+Jak omluvit si svoji slabost, nenávist a zlost,\\
+když za všechno si můžu vlastně sám.
+
+\chorus{}Za \Am{}spoustu dní, možná za \C{}spoustu let,\\
+až se mi \G{}rozední, budu ti \D{}vyprávět\\
+na první signální, jak jsem vobletěl svět,\\
+jak tě to vomámí a nepustí zpět.\\
+Jaký si to \F{}uděláš, \Bb{}takový to \Dm{}máš.\\
+Jaký si to \F{}uděláš, \Bb{}takový to \Dm{}máš.
+
+\verse{2}Až se dneska večer budu tvářit zas jak Karel Gott,\\
+budu zpívat vampam tydam pam.\\
+Všechna sláva, polní tráva, ale peníz přijde vhod,\\
+jak jsem si to udělal, tak to mám.
+
+\chorus{}Za spoustu dní \dots{}\\
+\dots jak tě to vomámí a nepustí zpět.\\
+Ná nana \Am{}ná naná, ná nana \C{}ná naná \dots
+
+\revrpt{} Jaký si to uděláš, takový to máš. \rpt{}\\
+}
+
+

@@ -1,0 +1,30 @@
+\toftagthis{kabat}
+\song{Na sever}{Kabát}{50pt}{0.85}{
+\verse{1}\G{}No tak mi \Em{}zatancuj, ať \D{}náladu \G{}mám.\\
+A dej mi celou noc, já nechci bejt sám,\\
+hlavní je neuhnout, dobře zvolit svůj směr,\\
+já teď, holka, musím jít až tam na sever.\\
+\chorus{}\revrpt{} Cestu \G{}znám a \C{}neměním \G{}směr,\\
+\G{}dojdu k ře\Em{}ce plný ryb až \D{}tam na se\G{}ver. \rpt{}
+
+\verse{2} Procházím krajinou a lidi mě zvou,\\
+čím těžší víno, lehčí holky tu jsou,\\
+jedna z nich povídá -- dokud dávám, tak ber,\\
+já ji jenom políbil a šel na sever.\\
+\textbf{R:}
+
+\verse{3} Mám nohy bolavý, už nechtěj' se hnout,\\
+tou temnou vodou nechám tělo svý plout,\\
+zakončím s noblesou ze všech poslední den,\\
+kam mě vlny donesou, tam vsákne mě zem.\\
+\textbf{R:}
+
+\verse{*}Ta \D{}cesta byla rovná, místy rozbitá,\\
+\C{}číše vína plná, jindy celá vylitá,\\
+už \D{}nevrátím se zpátky, ubejvá mi sil,\\
+tak \C{}řekněte jí, prosím, že \D{}jsem tady byl.
+
+\chorus{}\textbf{\sffamily (A D A F$\sharp$mi E A)} 4$\times$
+}
+
+

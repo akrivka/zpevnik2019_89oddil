@@ -1,0 +1,39 @@
+\toftagthis{ceskekapely}
+\song{Nikdy nic nebylo}{Sto zvířat}{50pt}{1}{
+\capo{3}
+\verse{1}Nikdy jsi \Em{}nebyla a naše seznámení\\
+proběhlo, \C{}má milá, před kinem, který není,\\
+nepil jsem \Cs[dim]{}Tequilu a ne že bych se šklebil,\\
+\D{}netlačil na pilu v tom baru, kterej nebyl.
+
+\verse{2}Nikdy jsem neříkal, kolik mě čeká slávy,\\
+nehrála muzika, ze který jsem se dávil,\\
+nechtěl jsem na závěr Ti vyblejt celej život\\
+a ztratit charakter a všechno oběživo.
+
+\chorus{}\revrpt{} Nebylo \Em{}nic, já jen \G{}kdybys měla chvíli,\\
+\A{}můžem si někam \Em{}sednout.\\
+Nebylo nic, pár let jsme spolu nemluvili\\
+a předtím taky ani jednou. \rpt{}
+
+\verse{3}Nikdy nic nebylo, noc jako horská dráha,\\
+vsadím se o kilo, že prostě nejsi drahá,\\
+je to jen chiméra a žádný že jsem brečel\\
+a měl jsem hysterák -- ty už mi neutečeš.
+
+\verse{4}Scénář se nekoná, my dva ho nenapsali\\
+a někdo místo nás prázdnej papír spálil,\\
+\clearpage
+nic není, ani já, ani tvý zlatý oči,\\
+jen jsme šli na biják, co nikdo nenatočil\\
+\textbf{R:}
+
+\verse{5}Nikdy jsi nebyla a naše seznámení\\
+proběhlo, má milá, před kinem, který není,\\
+nic není, ani já, ani tvý zlatý oči,\\
+jen jsme šli na biják co nikdo nenatočil.\\
+\textbf{R:}\\
+}
+
+
+

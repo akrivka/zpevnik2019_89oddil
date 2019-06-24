@@ -1,0 +1,19 @@
+\toftagthis{cechomor}
+\song{Hruška}{Čechomor}{90pt}{1}{
+\verse{1}\D{}Stojí hruška v širém poli,\\
+vršek se jí zelená.\\
+\revrpt{} Pod ní se pase kůň vraný,\\
+pase ho má milá. \rpt{}
+
+\verse{2}Proč \D{}má milá dnes \A{}pasete,\\
+z ve\D{}čera \G{}do rá\A{}na?\\
+\revrpt{} Kam, \D{}můj mi\G{}lý, po\A{}jede\D{}te,\\
+já \D{}poje\A{}du s v\D{}áma. \rpt{}
+
+\verse{3}Ó, já pojedu daleko,\\
+přes vody hluboké.\\
+\revrpt{} Kéž bych byl nikdy nepoznal\\
+panny černooké. \rpt{}\\
+}
+
+

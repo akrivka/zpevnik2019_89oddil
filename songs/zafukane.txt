@@ -1,0 +1,26 @@
+\toftagthis{folk}
+\song{Zafúkané}{Fleret}{20pt}{1}{
+\verse{1}\Am{}Větr sněh \A[sus2]{}zanésl z \Am{}hor do po\A[sus2]{}lí,\\
+\Am{}já idu \C{}přes kopce, \G{}přes údo\Am{}lí,\\
+\C{}idu k tvej \G{}dědině \G{}zatúla\C{}nej,\\
+\F{}cestičky \C{}sněhem sú \E{}zafúka\Am{}né.\hskip 1em \F[maj]{}\hskip 3em \Am{} \hskip 2em \E[sus4]{}
+
+\chorus{}\Am{}Zafúka\C{}né, \G{}zafúka\C{}né, \F{}kolem mňa \C{}všecko je \Dm{}zafúka\E{}né,\\
+\Am{}zafúka\C{}né, \G{}zafúka\C{}né, \F{}kolem mňa \C{}všecko je \E{}zafúka\Am{}né.
+
+\verse{2}Už vašu chalupu z dálky vidím,\\
+srdce sa ozvalo, bit ho slyším.\\
+Snáď enom pár kroků mi zostává,\\
+a budu u tvého okénka stát.
+
+\chorus{}\revrpt{} Ale zafúkané, zafúkané, okénko k tobě je zafúkané \rpt{}
+
+\verse{3}Od tvého okna sa smutný vracám,\\
+v závějoch zpátky dom cestu hledám.\\
+Spadl sněh na srdce zatúlané,\\
+aj na mé stopy -- sú zafúkané.
+
+\chorus{}\revrpt{} Zafúkané, zafúkané, mé stopy k tobě sú zafúkané. \rpt{}\\
+}
+
+

@@ -1,0 +1,32 @@
+\toftagthis{filmove}
+\song{Oliver twist}{Rebelové}{60pt}{0.8}{
+\crdheight=2.2ex
+\verse{1}\G{}Raději jsem neměla ten \Em{}román,\\
+\Am{}raději jsem \D[7]{}neměla ho \G{}číst, \D[7]{}snad ani list.\\
+\G{}Hrdina byl v tom románě \Em{}schován,\\
+\Am{}miluji ho, \D[7]{}jmenuje se \G{}Twist, \C{}Oliver \G{}Twist.
+
+\vskip -1.8ex
+\chorus{}\Hm{}Takový muž na zemi už není,\\
+jenom v knihách nebo dívčím snění,\\
+\F{}přirovnám ho směle bez prodlení,\\
+k \G{}to\F{}re\E{}rům, \G{}špa\F{}něls\E{}kým. \D[7]{}
+
+\verse{2}Raději jsi neměla ten román,\\
+raději jsi neměla ho číst, snad ani list.\\
+Navždy měl tam zůstat v knize schován,\\
+hrdina, co jmenuje se Twist, Oliver Twist.
+
+\vskip -1.8ex
+\chorus{}Namísto mne on ti ruší snění,\\
+stále vzdycháš, proč jen živý není,\\
+kdyby žil, tak dám se do učení\\
+k torerům, španělským.\
+
+\verse{3} Raději jsem neměla\dots
+
+\verse{4}\Am{}Proč jsem se jen \D[7]{}naučila \G{}číst, \Em{}\\
+\Am{}proč já blázen \D[7]{}dával ti to \G{}číst,\\
+\Cs{}číst, \Bb{}ááá, \C{}ja-da-da-\G{}dam.
+}
+

@@ -1,0 +1,34 @@
+\toftagthis{lucie}
+\song{Amerika}{Lucie}{70pt}{0.96}{
+\setlength{\parskip}{1.5ex} % vertical space between paragraphs
+\crdheight=2.2ex
+\verse{1}{}\C{}Nandej mi \G{}do hlavy tvý \Dm{}brouky\\
+\Dm{}a bůh nám seber bezna\C{}děj.\\
+V duši zbylo světlo z jedný holky,\\
+tak mi teď za to vynadej. 
+
+\verse{2}{}Zima a promarněný touhy,\\
+do vrásek stromů padá déšť.\\
+Zbejvaj' roky asi ne moc dlouhý,\\
+\Dm{}do vlasů mi zabrou\F{}kej -- pá papá \C{}pá.\\
+\revrpt{} Pá \C[/H]{}pá pá \Am{}pááá, pá papá \C{}pá \rpt
+
+\verse{3}{}Tvoje oči jenom žhavý tóny,\\
+dotek slunce zapadá.\\
+Horkej vítr rozezní mý zvony,\\
+do vlasů ti zabrouká -- pá papá pá.\\
+\revrpt{} Pá pá pá pááá, pá papá pá \rpt 
+
+\verse{4}{}Na obloze křídla tažnejch ptáků,\\
+tak už na svý bráchy zavolej.\\
+Na tváře ti padaj' slzy z mraků\\
+a bůh nám sebral beznaděj.
+
+\verse{5}{}V duši zbylo světlo z jedný holky,\\
+do vrásek stromů padá déšť.\\
+Poslední dny, hodiny a roky,\\
+do vlasů ti zabrouká -- pá papá pá.\\
+\revrpt{} Pá pá pá pááá, pá papá pá \rpt\\
+}
+
+

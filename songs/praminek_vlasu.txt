@@ -1,0 +1,29 @@
+\toftagthis{suchyslitr}
+\song{Pramínek vlasů}{Jiří Suchý}{50pt}{0.95}{
+\verse{1}Když měsíc \C{}rozlije\Am{} světlo své \F[6]{}po kraji\G[6]{}\\
+a hvězdy řeknou, že čas je jít spát,\\
+pramínek vlasů jí ustřihnu potají,\\
+komu --  no \C{}přece té,\F[7]{} kterou mám \C{}rád.\G[7]{}
+
+\verse{2}Pramínek vlasů jí ustřihnu potají,\\
+já blázen pod polštář chci si ho dát.\\
+Ačkoliv sny se mi zásadně nezdají,\\
+věřím, že dnes v noci budou se zdát.
+
+\chorus{}O sny mě \Bb{}připraví teprve \C{}svítání,\\
+zpěv ptáků v \Bb{}oblacích a modré \C{}nebe.\\
+Od vlasů, \F{}jichž jsem se dotýkal \C{}ve spaní,\\
+nový den \Ab[7]{}nůžkama odstřihne \G{}tebe.
+
+\verse{3}A na bílém polštáři, do kroužku stočený,\\
+zbude tu po tobě pramínek vlasů.\\
+Já nebudu vstávat, dál chci ležet zasněný,\\
+je totiž neděle a mám dost času.\\
+\textbf{R:}
+
+\verse{4}A na bílém polštáři\dots\\
+\revrpt{}\ldots{}je totiž neděle a mám dost času. \rpt{}\\
+}
+
+
+

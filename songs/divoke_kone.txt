@@ -1,0 +1,37 @@
+\toftagthis{nohavica}
+\song{Divoké koně}{Jaromír Nohavica}{15pt}{1}{
+\capo{5}
+\verse{1}\revrpt{} \Em{}Já viděl divoké koně, \G{}běželi \Am{}soumra\Em{}kem, \rpt{}\\
+\Am{}vzduch \Em{}těžký \Am{}byl a divně \Em{}voněl\Ds[dim]{} \hskip 1em tabá\C{}kem,\\
+\Am{}vzduch \Em{}těžký \Am{}byl a divně \Em{}voněl \H[7]{}tabá\Em{}kem.
+
+\vskip -1ex
+\verse{2}\revrpt{} Běželi, běželi, bez uzdy a sedla, krajinou řek a hor, \rpt{}\\
+\revrpt{} sper to čert, jaká touha je to vedla za obzor. \rpt{}
+
+\vskip -2ex
+\verse{3}\revrpt{} Snad vesmír nad vesmírem, snad lístek na věčnost, \rpt{}\\
+\revrpt{} naše touho ještě neumírej, sil máme dost. \rpt{}
+
+\vskip -2ex
+\verse{4}\revrpt{} V nozdrách sládne zápach klisen na břehu jezera, \rpt{}\\
+\revrpt{} milování je divoká píseň večera. \rpt{}
+
+\vskip -2ex
+\verse{5}\revrpt{} Stébla trávy sklání hlavu, staví se do šiku, \rpt{}\\
+\revrpt{} král s dvořany přijíždí na popravu zbojníků. \rpt{}
+
+\vskip -2ex
+\verse{6}\revrpt{} \scalebox{0.97}[1]{\textls[-40]{Chtěl bych jak divoký kůň běžet běžet, nemyslet na návrat,\,}}\rpt{}\\
+\revrpt{} s koňskými handlíři vyrazit dveře, to bych rád. \rpt{}
+
+\vskip -1ex
+Já viděl divoké koně!\\
+\vskip 12pt
+\begin{figure}[h!]
+\includegraphics[width=365pt ]{res/divoke.pdf}
+\end{figure}
+\vskip -40pt
+}
+
+

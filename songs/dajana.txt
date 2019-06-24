@@ -1,0 +1,22 @@
+\toftagthis{folk}
+\song{Dajána}{Paul Anka / Zdeněk Borovec}{30pt}{1}{
+\verse{1}{}\C{}Lidé o ní \Am{}říkají,\F{} že je v lásce \G[7]{}nevěrná,\\
+ona zatím potají jediného v mysli má,\\
+na toho, kdo klid jí vzal, dnem i nocí čeká dál,\\
+krásná, bláhová Dajána. 
+
+\verse{2}{}Ten, kdo jí klid navždy vzal, odešel si bůhvíkam,\\
+Dajána má v srdci žal, žije marným vzpomínkám,\\
+předstírá-li ve dne smích, pláče v nocích bezesných,\\
+krásná, bláhová Da\C{}jána\C[7]{}. 
+
+\verse{*}{}\F{}Srdce, které \Fm{}zasteklo si, \C{}s úsměvem teď \C[7]{}žal svůj nosí,\\
+\F{}stále čeká, \Fm{}čeká dál\ldots{}Ó\G{}o óo ó\G[7]{}ooo oooo 
+
+\verse{3}{}Ospalá jde ulicí, nezbaví se lásky pout,\\
+sny, jež voní skořicí, sny, jež nelze obejmout,\\
+navždy bude sama snít, nenalezne nikdy klid,\\
+krásná, bláhová Dajána.\\
+}
+
+

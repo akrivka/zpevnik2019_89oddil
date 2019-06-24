@@ -1,0 +1,16 @@
+\toftagthis{kryl}
+\song{Miško raper}{Michal Ševeček, Robin Smékal}{30pt}{1}{
+\verse{1}{}
+\Em{}Na hlídce repoval a \D{}čínským proda\Hm{}vačem se \Em{}stal,\\
+kanálem prolézal a \D{}dříví v dešti \Hm{}sekal\Em{}.\\
+
+\chorus{} \D{}M\Hm{}iško \D{}rá\Em{}per! \Em{}Těžký \D{}rapy Míško \Em{}musí už \D{}zvládat,\\
+\Hm{}s raperem \D{}Kubou \Hm{}si čínskou \D{}párty \Em{}dává.\\
+\D{}M\Hm{}iško \D{}rá\Em{}per! \Em{}Raperské \D{}legen\Em{}dy.\\
+
+%\verse{2}{}
+
+%\textbf{R: }
+}
+
+

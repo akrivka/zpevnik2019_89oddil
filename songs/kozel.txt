@@ -1,0 +1,21 @@
+\toftagthis{nohavica}
+\song{Kozel}{Jaromír Nohavica}{70pt}{1}{
+~\\
+\verse{1}{}Byl jeden \G{}pán, ten kozla \C{}měl,\\
+velice \D{}si s ním rozu\G{}měl.\\
+Měl ho moc rád, opravdu moc,\\
+hladil mu fous na dobrou noc.
+
+\verse{2}{}Jednoho dne se kozel splet,\\
+rudé tričko pánovi sněd.\\
+Jak to pán zřel, zařval: \uv{Jéjé!},\\
+svázal kozla na koleje.
+
+\verse{3}{}Zapískal vlak, kozel se lek'.\\
+\uv{To je má smrt,} mečel, \uv{mek, mek!}\\
+Jak tak mečel, vykašlal pak\\
+rudé tričko, čímž stopnul vlak.
+
+Ná ná ná na\ldots{}
+}
+

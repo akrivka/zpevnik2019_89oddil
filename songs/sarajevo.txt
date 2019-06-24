@@ -1,0 +1,30 @@
+\toftagthis{nohavica}
+\song{Sarajevo}{Jaromír Nohavica}{70pt}{0.89}{
+\verse{1}\Em{}Přes haličské pláně \Am[/F$\sharp$]{}vane vítr zlý,\\
+to \H[7]{}málo, co jsme měli, nám \Em{}vody sebraly.\\
+Jako tažní ptáci, jako rorýsi\\
+letíme nad zemí, dva modré dopisy.
+
+\chorus{}\Em{}Ještě hoří oheň a \Am{}praská dřevo,\\
+\D{}ale už je čas jít \G{}spát, \H[7]{}\\
+\Em{}tamhle za kopcem je \Am{}Sarajevo,\\
+tam \H[7]{}budeme se zítra ráno \Em{}brát.
+
+\verse{2}Farář v kostele nás sváže navěky,\\
+věnec tamaryšku pak hodí do řeky,\\
+voda popluje zpátky do moře,\\
+my dva tady dole a nebe nahoře.\\
+\textbf{R:}
+
+\verse{3}Postavím ti dům z bílého kamení,\\
+dubovými prkny on bude roubený,\\
+aby každý věděl, že jsem tě měl rád,\\
+postavím ho pevný, navěky bude stát.
+
+\chorus{}Ještě hoří oheň a praská dřevo,\\
+ale už je čas jít spát,\\
+tamhle za kopcem je Sarajevo,\\
+tam zítra budeme se, lásko, brát.\\
+}
+
+

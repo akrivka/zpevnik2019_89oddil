@@ -1,0 +1,62 @@
+\toftagthis{nedvedi}
+\song{Sally Gray}{Nedvědi}{30pt}{1}{
+\verse{1}{} \Em{}Pojďte, lidi poslou\D{}chejte, \Em{}pojďte lidi ke mně \D{}blíž \\
+\Em{}já vám povím historii \C{}o tom, že je \D{}s láskou \Em{}kříž. \\
+
+\vspace{1mm}
+
+\verse{2}{}Žil jest v Yorku jeden párek, jeden párek blaženej, \\
+mladej pán byl Wiliam Taylor a slečinka Sally Gray. \\
+
+\vspace{1mm}
+
+\verse{3}{} On byl jinoch tuze švarnej, ona zas ja z růže květ, \\
+no a tak se měli rádi, celičkej jim patřil svět. \\
+
+\vspace{1mm}
+
+\verse{4}{} Jenže po tý pěkný Sally začal koukat jeden pán, \\
+Wiliam byl mu trnem v oku, tak byl k vojsku povolán. \\
+
+\vspace{1mm}
+
+\verse{5}{}~V~krátkým~čase~rozkřiklo~se,~kdo~v~tom~skutku~prsty~měl,\\
+ale to už milej Taylor s granátníckým plukem šel. \\
+
+\vspace{1mm}
+
+\verse{6}{} Jeho milá nezoufala, že má život zmařenej, \\
+kdo si myslí že to vzdala, ten zná málo Sally Gray. \\
+
+\vspace{1mm}
+
+\verse{7}{} Sally vlasy zkrátíla si, prstýnek si schovala, \\
+v kalhotách a režný blůze zverbovat se nechala. \\
+
+\vspace{1mm}
+
+\verse{8}{} Cvičili ji levá - pravá, šturmem běhat blíž a dál, \\
+prstýnek ji přitom vypad, zrovna u ní seržant stál. \\
+
+\vspace{1mm}
+
+\verse{9}{} Ty přec nejsi žádný vojín, ty si holka z růže květ, \\
+jěště bys tu došla škody, zejtra půjdeš k mámě zpět. \\
+
+\vspace{1mm}
+
+\verse{10}{}Já tu hledám bratra svého, nikde ho tu nevidím, \\
+Wiliam Taylor jméno jeho, to je vše, co o něm vím. \\
+
+\vspace{1mm}
+
+\verse{11}{}Jestli ty jsi sestra jeho, mám pro tebe smutnou zvěst, \\
+sám si nožem život zkrátil, sedum dnů už mrtev jest. \\
+
+\vspace{1mm}
+
+\verse{12}{}Dívka v mžiku bodák tasí, bodák dvakrát broušenej, \\
+vlastní srdce probodla si, tak skončila Sally Gray.\\
+}
+
+

@@ -1,0 +1,25 @@
+\toftagthis{ceskekapely}
+\song{Proklínám}{Janek Ledecký}{20pt}{1}{
+\verse{1}
+Prázdnej \Am{}byt je jako \F{}past, 
+kde \Dm{}růže uvad\C{}nou. \G{}\\
+\Am{}Potisící\F{} čtu tvůj dopis \Dm{}na rozlouče\G{}nou.\\\
+\C{}Píšeš že \Am{}odcházíš, když \F{}den se s nocí \C{}stří\G{}dá.\\
+\Am{}Vodu z vína\F{} udělá, kdo \Dm{}dobře nehlí\G{}dá. Píšeš:
+
+\chorus{}\C{}Proklíná\G{}m,\hskip 0.3em \Am{} ty tvoje \F{}ústa, proklíná\C{}m\\
+tvoje \G{}oči ledo\Am{}vý,
+v \F{}srdci jen sníh,\C{} sám a sá\G{}m.\\
+\Am{}Ať nikdy \F{}úsvit nespatř\C{}íš,
+na ústa mř\G{}íž,  oči oslep\Am{}nou.\\
+Ať \F{}do smrti seš s\C{}ám.
+
+\verse{2}Tvoje oči jsou jak stín a tvář -- den, když se stmívá.\\
+Stromy rostou čím dál výš a pak je čeká pád.\\
+Sám s hlavou skloněnou,všechny lásky budou zdání.\\
+Potisící čtu tvůj dopis na rozloučenou. Píšeš:\\
+\textbf{R:} \dots ať \F{}do smrti seš s\C{}ám a sá\G{}m.\\
+Ať nikdy úsvit nespatříš\dots\\
+}
+
+

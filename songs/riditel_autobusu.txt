@@ -1,0 +1,72 @@
+\toftagthis{ceskekapely}
+\song{Řiditel autobusu}{The Tap Tap}{20pt}{1}{
+\capo{4}
+\vskip 8pt
+\crdheight=2.3ex
+\setlength{\parskip}{1.3ex} % vertical space between paragraphs
+\verse{1}Můj novej \Am{}vozejk je rychlej jako vítr a silnej jako \F{}bejk,\\
+svět s ním \G{}chutná zas jak \Am{}propečenej stejk,\\
+život má spád, připadám si jako bych měl aspoň\\ 
+metr šedesát a všechno je tak, jak má bejt.
+
+\verse{2}To není vozejk, mladej, tohleto je ňákej fejk,\\
+to je kolo a s tím nesmíš do autobusu,\\
+jó, ten, kdo má kolo, tak musí jít z kola ven,\\
+tak s Pánem Bohem, pac a pusu.
+
+\verse{*}Jsem \E{}řiditel tohohle autobusu,\\
+\Dm{}mám svý pravidla a svý \E{}know-how.\\
+Jsi \E{}řiditel tohohle autobusu\\
+\Dm{} a je to autobus \E{}do stanice ouha, \F{}ou\E{}ha.
+
+\verse{3}S kolem svým sem nesmíš, máš to tady černý na bílým,\\
+nechtěj, abych tu řval na celý kolo,\\
+prostě si piš, že když s tím kolem ihned nezmizíš\\
+tak něco uvidíš,  nestrpím tady žádnou svoloč.
+
+\verse{4}Mám malý boty, ale práva mám úplně stejně\\
+velký jako ty, tak na to taky myslet začni,\\
+co máš černý na bílým není až tak černobílý,\\
+pro tebe je to kolo, pro mě pomůcka kompenzační.
+\clearpage
+\linespread{0.84} \selectfont
+\verse{*} Jsi řiditel tohohle autobusu,\\
+svět ale nejsou jízdní pruhy.\\
+Jsem řiditel tohohle autobusu,\\
+a ty mi se svým kolem neruš moje kruhy.
+
+\vskip -1.3ex
+\chorus{}\F{}Kolo je \G{}kolo a \C{}kolem zůstane,\\
+tak \Dm{}to bylo a je a nic se \E{}na tom nezmění.\\
+\F{}Blbec je \G{}blbec a \C{}blbcem zůstane,\\
+ně\Dm{}kdo má krátký nohy, někdo \G{}dlouhý vedení.
+
+\vskip -1.3ex
+Kolo je kolo a kolem zůstane,\\
+z těch tvejch argumentů zůstává rozum stát.\\
+Blbec je blbec a blbcem zůstane,\\
+když máváš předpisy, tak měl by jsi je znát.
+
+\rec{Smluvní přepravní podmínky, článek 6, odstavec 15:\\
+\uv{Jiné pojízdné kompenzační pomůcky se považují za\\
+vozíky pro invalidy, pokud jsou svými rozměry\\
+a vahou s nimi srovnatelné.}}
+
+\verse{5}Nechci jednat kách a nijak zvlášť netoužím po hádkách,\\
+chci jen to, na co mám nárok, na to vem jed.\\
+Lidi jako já nežijou jenom v pohádkách,\\
+jedem v tom všichni spolu, tak nás nechte jet.
+
+\verse{6}\textls[-17]{Pustím tě sem s kolem a má autorita bude rázem skolena,}\\
+jak to uděláš jednou, každej to pak chce,\\
+pravidla jsou pravidla a to uzná i každej vidlák,\\
+jestli chceš výjimku, vrať se ke Sněhurce.
+
+\verse{*}Jsem řiditel tohohle autobusu,\\
+odvolávej se třeba k Bohu.\\
+Jsi řiditel tohohle autobusu,\\
+příště mi vezmeš bílou hůl nebo dřevěnou nohu.\\
+\textbf{R:}\\
+}
+
+

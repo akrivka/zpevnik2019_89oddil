@@ -1,0 +1,25 @@
+\toftagthis{nohavica}
+\song{Zatímco se koupeš}{Jaromír Nohavica}{20pt}{0.95}{
+\verse{1}Zatímco se \Hm{}koupeš,\D{} umýváš si záda,\\
+\G{}na největší \A[7]{}loupež ve mně se \D{}střádá,\D{}\\
+\G[dim]{}tak, jako se \Hm{}dáváš vodě, \F[dim]{}vezmu si tě\A[7]{} já, já -- zloděj.
+
+\verse{2}Už v tom vážně plavu, za stěnou z umakartu\\
+piju druhou kávu a kouřím třetí spartu\\
+a za velmi tenkou stěnou slyším, jak se mydlíš pěnou.
+
+\chorus{}Nechej vodu \D{}vodou\Em{}, \hskip 1em jen \G{}ať si klidně \D{}teče,\D{}\\
+chápej, že \Em{}touha je touha a \G{}čas se pomalu \D{}vleče,\D{}\\
+cigareta \Em{}hasne, káva \G{}stydne, krev se \D{}pění,\D{}\\
+bylo by to \Em{}krásné, kdyby srdce bylo \G{}klidné,\\
+ale ono \D{}není, hmm \Em{}hmm\ldots{}
+
+\verse{3}\A{}Zatímco se \Hm{}koupeš, \CHORD{\ldots}{}umýváš si záda,\\
+svět se se mnou houpe, všechno mi z rukou padá,\\
+a až budeš stát na prahu,\\
+všechny peníze dal bych za odvahu.
+
+\chorus{}+ hm \Em{}hmm, \G{}nebylo a \D{}není, hm \Em{}hmm, \A[7]{}zatímco se \D{}koupeš.\\
+}
+
+

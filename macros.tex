@@ -1,0 +1,134 @@
+% typeset song title, add to ToC
+
+\newcommand{\songTitle}[1]{%
+  \begin{spacing}{1.5}
+    % {\Huge\sffamily\bfseries\MakeUppercase{#1}}
+    {\skautfont\Huge\MakeUppercase{#1}}
+  \end{spacing}%
+  % add song name to ToC (truncate if necessary)
+  % \noindent\addcontentsline{lem}{song}{\truncate{0.5\textwidth}{#1}}
+  % for use of tagged toc with package tableof
+  \noindent\addcontentsline{toc}{song}{\truncate{0.5\textwidth}{#1}}
+}
+
+% author name
+\renewcommand{\author}[1]{
+  \hskip -10pt
+  {\LARGE #1}
+}
+
+% verse number before lyrics
+\renewcommand{\verse}[1]{
+  \hskip -20pt
+  \scalebox{.9}[1.0]{\LARGE\bfseries #1.}
+  \hskip 2pt 
+}
+
+% `R:' before lyrics
+\newcommand{\chorus}{
+  \hskip -23pt \textbf{\Large R:}\hskip 5pt
+}
+
+\newcommand{\chorusAlt}[2]{
+  \hskip #2 \textbf{#1}\hskip 5pt
+}
+
+% Rec (recitativ)
+\newcommand{\rec}[1]{
+  \emph{\hskip -36pt \textbf{Rec:} #1}
+}
+
+% beginning of repeat
+\newcommand{\revrpt}{
+  \raisebox{-.4ex}{\rule{.3ex}{2.5ex}\,\rule{.1ex}{2.5ex}}%
+  \raisebox{.2ex}{:}}
+
+% end of repeat
+\newcommand{\rpt}{
+  \raisebox{.2ex}{:}%
+  \raisebox{-.4ex}{\rule{.1ex}{2.5ex}\,\rule{.3ex}{2.5ex}}}
+
+% capo placement
+\newcommand{\capo}[1]{
+  \vskip -10pt 
+  \hfill \textsl{Capo #1}\\
+}
+
+% optional verse in parenthesis
+\newcommand\optVerse[4]{
+  \hskip #1
+  $\left(
+    \parbox{0.9\textwidth}{
+      \leftskip = #2
+      #4
+    }
+    \hskip #3
+  \right)$
+}
+
+% song
+\newcommand{\song}[5]{
+  \begin{minipage}[c]{\textwidth}
+    \centering
+    \songTitle{#1}
+    \author{#2}
+  \end{minipage} 
+  \begin{center}
+    \leftskip=#3
+    \linespread{#4}\selectfont 
+    #5
+  \end{center} 
+\clearpage
+}
+
+\newcommand{\categoryHeader}[1]{
+  \needspace{5\baselineskip}
+  \begin{center}
+    \hrulefill
+    \bfseries\large
+    \ #1\ 
+    \hrulefill
+  \end{center}
+}
+
+\newcommand{\subcategoryHeader}[1]{
+  \vskip -10pt
+  \needspace{3\baselineskip}
+  \textbf{\normalsize #1}
+  \vskip -5pt
+}
+
+\newcommand{\categoryToc}[2]{
+  \etocmulticolstyle[1]{\subcategoryHeader{#1}}
+  \nexttocwithtags*{#2}{}
+  \tableofcontents
+}
+
+\newcommand{\noexport}[1]{#1}
+
+\newcommand{\noprint}[1]{}
+
+
+\newcommand{\songWithTranslation}[4]{
+  #2
+  \clearpage
+  #4
+  \clearpage
+}
+
+
+\newcommand{\originalVersion}[5]{
+  \begin{minipage}[c]{\textwidth}
+    \centering
+    \textbf{Originál (#2 -- #1):}\\
+  \end{minipage} 
+  \begin{center}
+    \large
+    \leftskip=#3
+    \linespread{#4}\selectfont 
+    #5
+    \Large
+    \leftskip 0pt
+  \end{center} 
+\clearpage
+}

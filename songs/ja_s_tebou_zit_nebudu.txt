@@ -1,0 +1,35 @@
+\toftagthis{nerez}
+\song{Já s tebou žít nebudu}{Nerez}{45pt}{0.9}{
+\verse{1}\Em{}Bylas jak poslední hlt \Fs{}vína,\\
+\H[7]{}sladká a k ránu bola\Em{}vá, \hskip 0.8em \E[dim]{} \hskip 2.7em \H[7]{}\\
+\Em{}za nehty výčitky a \Fs{}špína,\\
+\H[7]{}říkalas: \uv{Dnešní noc je \Em{}tvá.}\hskip 0.3em \E[dim]{} \hskip 2.7em \H[7]{}
+
+\chorus{}\G{}Co my dva z lásky vlastně \H{}máme,\\
+\Am{}hlubokou \E[dim]{}šachtou padá \H[7]{}zdviž, já říkám \uv{kiš-kiš},\\
+\Em{}navrch má vždycky těžký \Fs{}kámen\\
+\H[7]{}a my jsme v koncích čím dál \Em{}blíž,\hskip 0.5em  \E[dim]{} \hskip 2.7em \H[7]{}\\
+\revrpt{} \Em{}a me tu ha nadži vava \Am{}jaj dar\E[dim]{}i dari \H[7]{}daj. \rpt{}
+
+\verse{2}Zejtra tě potkám za svým stínem,\\
+neznámí známí v tramvaji,\\
+v cukrárně kávu s harlekýnem,\\
+hořká a sladká splývají.\\
+\textbf{R:}
+
+\verse{3}Bylas jak poslední hlt vína,\\
+zbývá jen účet zaplatit a jít,\\
+za nehty výčitky a špína\\
+a trapný průchod banalit.
+
+\chorus{}Co my tři z lásky vlastně máme,\\
+hlubokou šachtou padá zdviž, co čumíš, kiš-kiš,\\
+navrch má vždycky těžký kámen\\
+a my jsme v koncích čím dál blíž,\\
+\revrpt{} a me tu ha nadži vava jaj dari dari daj. \rpt{}
+
+\revrpt{} \Em{}Navrch má vždycky těžký \Fs{}kámen\\
+\H[7]{}a my jsme v koncích čím dál \Em{}blíž \hskip 0.5em \E[dim]{} \hskip 2.7em \H[7]{} \rpt{} $^{4\times}$\\
+}
+
+

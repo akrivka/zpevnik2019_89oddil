@@ -1,0 +1,25 @@
+\toftagthis{anglicke}
+\song{Perfect Day}{Lou Reed}{40pt}{1}{
+\E{} \hskip 1em \Am{} \hskip 2em \E{} \hskip 1em \Am{}\\
+\verse{1}\Am{}Just a \D{}perfect day,\G{} drink sangria \C{}in the park,\\
+\F{}then later when \Dm{}it gets dark we go\E{} home.
+
+\verse{2}Just a perfect day, feed animals in the zoo,\\
+then later a movie, too, and then home.
+
+\chorus{}Oh, \A{}it's such a \D{}perfect day,\\
+\Csm{}I'm glad I spent it with \D{}you.\\
+\A{}Oh, such a \E{}perfect day,\\
+\revrpt{} you just \Fsm{}keep me \E{}hanging \D{}on, \rpt{}
+
+\verse{3}Just a perfect day, problems all left alone,\\
+weekenders on our own, it's such fun.
+
+\verse{4}Just a perfect day, you made me forget myself,\\
+I thought I was someone else, someone good.\\
+\textbf{R:}
+
+\revrpt{} \Csm{}You're gonna \G{}reap just what you \D{}sow.\A{} \hskip 1em \rpt{}\\
+}
+
+

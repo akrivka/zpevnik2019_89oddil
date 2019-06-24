@@ -1,0 +1,61 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\babel@toc {czech}{}
+\@ifundefined {tof@begin}{\global \let \tof@begin \relax \global \let \tof@finish \@empty \global \let \tof@starttags \@gobble \global \let \tof@stoptags \@gobble \global \let \tof@tagthis \@gobble \global \let \tof@untagthis \@gobble }{}
+\tof@begin 
+\tof@tagthis {kryl}
+\contentsline {song}{\truncate {0.5\textwidth }{Anděl}}{}{etoc@tocid.1}% 
+\tof@tagthis {spiritual}
+\contentsline {song}{\truncate {0.5\textwidth }{Batalion}}{}{etoc@tocid.1}% 
+\tof@tagthis {olympic}
+\contentsline {song}{\truncate {0.5\textwidth }{Bon soir, mademoiselle Paris}}{}{etoc@tocid.1}% 
+\tof@tagthis {olympic}
+\contentsline {song}{\truncate {0.5\textwidth }{Dej mi víc své lásky}}{}{etoc@tocid.1}% 
+\tof@tagthis {anglicke}
+\contentsline {song}{\truncate {0.5\textwidth }{Hallelujah}}{}{etoc@tocid.1}% 
+\tof@tagthis {schelinger}
+\contentsline {song}{\truncate {0.5\textwidth }{Holubí dům}}{}{etoc@tocid.1}% 
+\tof@tagthis {anglicke}
+\contentsline {song}{\truncate {0.5\textwidth }{House of the Rising Sun}}{}{etoc@tocid.1}% 
+\tof@tagthis {ceskekapely}
+\contentsline {song}{\truncate {0.5\textwidth }{Hrobař}}{}{etoc@tocid.1}% 
+\tof@tagthis {zalman}
+\contentsline {song}{\truncate {0.5\textwidth }{Jdem zpátky do lesů}}{}{etoc@tocid.1}% 
+\tof@tagthis {mladek}
+\contentsline {song}{\truncate {0.5\textwidth }{Jožin z bažin}}{}{etoc@tocid.1}% 
+\tof@tagthis {nohavica}
+\contentsline {song}{\truncate {0.5\textwidth }{Když mě brali za vojáka}}{}{etoc@tocid.1}% 
+\tof@tagthis {anglicke}
+\contentsline {song}{\truncate {0.5\textwidth }{Knockin' on Heaven's Door}}{}{etoc@tocid.1}% 
+\tof@tagthis {nohavica}
+\contentsline {song}{\truncate {0.5\textwidth }{Kometa}}{}{etoc@tocid.1}% 
+\tof@tagthis {nohavica}
+\contentsline {song}{\truncate {0.5\textwidth }{Kozel}}{}{etoc@tocid.1}% 
+\tof@tagthis {nedvedi}
+\contentsline {song}{\truncate {0.5\textwidth }{Královna z Dundrum Bay}}{}{etoc@tocid.1}% 
+\tof@tagthis {cechomor}
+\contentsline {song}{\truncate {0.5\textwidth }{Mezi horami}}{}{etoc@tocid.1}% 
+\tof@tagthis {kryl}
+\contentsline {song}{\truncate {0.5\textwidth }{Miško raper}}{}{etoc@tocid.1}% 
+\tof@tagthis {hlas}
+\contentsline {song}{\truncate {0.5\textwidth }{Na kolena}}{}{etoc@tocid.1}% 
+\tof@tagthis {buty}
+\contentsline {song}{\truncate {0.5\textwidth }{Nad stádem koní}}{}{etoc@tocid.1}% 
+\tof@tagthis {plihal}
+\contentsline {song}{\truncate {0.5\textwidth }{Nagasaki, hirošima}}{}{etoc@tocid.1}% 
+\tof@tagthis {nohavica}
+\contentsline {song}{\truncate {0.5\textwidth }{Ostravo}}{}{etoc@tocid.1}% 
+\tof@tagthis {kabat}
+\contentsline {song}{\truncate {0.5\textwidth }{Pohoda}}{}{etoc@tocid.1}% 
+\tof@tagthis {folk}
+\contentsline {song}{\truncate {0.5\textwidth }{Pověste ho vejš}}{}{etoc@tocid.1}% 
+\tof@tagthis {traband}
+\contentsline {song}{\truncate {0.5\textwidth }{O malém rytíři}}{}{etoc@tocid.1}% 
+\tof@tagthis {nedvedi}
+\contentsline {song}{\truncate {0.5\textwidth }{Sally Gray}}{}{etoc@tocid.1}% 
+\tof@tagthis {sverakuhlir}
+\contentsline {song}{\truncate {0.5\textwidth }{Severní vítr}}{}{etoc@tocid.1}% 
+\tof@tagthis {folk}
+\contentsline {song}{\truncate {0.5\textwidth }{Tři kříže}}{}{etoc@tocid.1}% 
+\tof@tagthis {folk}
+\contentsline {song}{\truncate {0.5\textwidth }{Zafúkané}}{}{etoc@tocid.1}% 
+\tof@finish 

@@ -1,0 +1,24 @@
+\toftagthis{krestan}
+\song{Ještě jedno kafe}{Robert Křesťan \& Druhá tráva}{25pt}{1}{
+\verse{1}Máš \Em{}sladkej dech a oči, kterým \D{}patří svatozář,\\
+\C{}a vlasy máš jak hedvábí, když je \H[7]{}hodíš na polštář,\\
+ale já se o tvou lásku ani vděčnost neprosím,\\
+ty děkuješ jen hvězdám a jseš věrná jenom jim. 
+
+\chorus{}\C{}Ještě jedno kafe bych si \H[7]{}dal,\\
+\C{}ještě jedno kafe, kruci\H[7]{}nál, než pojedu \Em{}dál. 
+
+\verse{2}Tvůj táta, to je vandrák a od přírody zběh\\
+a místo písmen učí tě jen dorovnávat dech,\\
+a taky házet nožem a držet pospolu\\
+a brada se mu třese, když se nosí ke stolu.\\
+\textbf{R:} 
+
+\verse{3}Tvá sestra hádá z ruky a tvá máti jakbysmet\\
+a ty sama umíš všechno, co je mimo tenhle svět,\\
+a tvá rozkoš nezná hranic, děvče s hlasem skřivana,\\
+jen tvý srdce je jak moře -- samý tajemství a tma.\\
+\textbf{R:}\\
+}
+
+

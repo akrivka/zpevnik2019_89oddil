@@ -1,0 +1,31 @@
+\toftagthis{zalman}
+\song{Kdyby tady byla taková panenka}{Pavel Lohonka Žalman}{12pt}{1.05}{
+\vskip 8pt
+\textls[-25]{\verse{1}\revrpt{} \D{}Kdyby tady byla taková panenka,
+\A[7]{}která by mě \D{}chtěla, \rpt{}\\
+\revrpt{}\textls[-35]{ \G{}která by mě chtěla, \D{}syna vychovala,
+\A[7]{}přitom pannou by\D{}la. }\rpt{}
+
+\verse{2}\revrpt{} Kdybych já ti měla syna vychovati,
+přitom pannou býti, \rpt{}\\
+\revrpt{} ty by jsi mi musel kolébku dělati,
+do dřeva netíti. \rpt{}
+
+\verse{3}\revrpt{} Kdybych já ti musel kolébku dělati,
+do dřeva netíti, \rpt{}\\
+\revrpt{} ty bys mi musela košiličku šíti
+bez jehly a nití. \rpt{}
+
+\verse{4}\revrpt{} Kdybych já ti měla košiličku šíti
+bez jehel a nití, \rpt{}\\
+\hskip -1pt\revrpt{} ty by jsi mně musel žebřík udělati
+až k nebeské výši. \rpt{}
+
+\verse{5}\revrpt{} Kdybych já ti musel žebřík udělati
+až k nebeské výši, \rpt{}\\
+lezli bysme spolu, spadli bysme dolů, byl by konec všemu,\\
+lezli bysme spolu, spadli bysme dolů,\\
+byl by konec vše\Hm{}mu.\hskip 1em  \G{} \hskip 1em  \A[7]{} \hskip 1.5em \D{}}\\
+}
+
+

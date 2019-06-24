@@ -1,0 +1,32 @@
+\toftagthis{plihal}
+\song{Akordy}{Karel Plíhal}{40pt}{1}{
+\verse{1}\E{}Nejkrásnější akord bude \A[maj]{}Amaj,\\
+\E{}prstíky se při něm nepo\C{}lámaj',\\
+\A{}pomohl mi \H[7]{}k pěkné holce\Gsm{} s absolutním \Csm{}sluchem,\\
+\A{}každý večer \C{}naplníme \E{}balón horkým \A[maj]{}vzduchem.
+
+\verse{2}{}V stratosféře hrajeme si Amaj,\\
+i když se nám naši známí chlámaj'.\\
+Potom, když jsme samým štěstím opilí až namol,\\
+stačí místo Amaj jenom zahrát třeba \Am{}Amoll. 
+
+\verse{3}{}Amoll všechny city rázem zchladí,\\
+dopadneme na zem na pozadí.\\
+Lehneme si do trávy a budem koukat vzhůru,\\
+dokud nás čas nenaladí aspoň do A\A{}duru. 
+
+\verse{*}{}\A{}Od Adur je jenom kousek k \A[maj]{}Amaj,\\
+\Fsm{}proto všem těm, \Fsm[/F]{}co se v lásce \Fsm[/E]{}zklamaj', \Fsm[/D$\sharp$]{}\\
+\A{}vyždímejte \H[7]{}kapesníky\Gsm{} a nebuďte \Csm{}smutní,\\
+\A{}každá holka \C{}pro někoho \E{}má sluch abso\A[maj]{}lutní. 
+\clearpage
+\verse{4}{}V každém akord zní, aniž to tuší,\\
+zkusme tedy nebýt k sobě hluší.\\
+Celej svět je jeden velkej koncert lidských duší,\\
+jenže jako Amaj nic tak srdce nerozbuší. 
+
+\E{}Pro ty, co to Amaj v lásce \A[maj]{}nemaj',\\
+\E{}moh' bych zkusit zahrát třeba \C[maj]{}Cmaj\ldots{}
+
+}
+

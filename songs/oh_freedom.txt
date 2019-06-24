@@ -1,0 +1,26 @@
+\toftagthis{spiritual}
+\song{Oh, Freedom}{americká lidová / Spirituál kvintet}{85pt}{1}{
+\verse{1}\F{}Oh, Freedom, \C{}oh, \F{}Freedom,\Bb{} \hskip 1.2em \C{}\\
+\F{}oh, \Dm{}Freedom, over me\G[7]{}. \hskip 1.5em \C{}\\
+\chorus{}Be\A{}fore I'll be a \Dm{}slave,\\
+I'd be \Bb{}buried in my \G[7]{}grave\\
+and go \F{}home to my \C{}Lord\\
+and be \Bb{}free!\F{}
+
+\verse{2}No more weeping\ldots\\
+\textbf{R:}\\
+\verse{3}No more crying\ldots\\
+\textbf{R:}\\
+\verse{4}There'll be singing\ldots\\
+\textbf{R:}
+
+\verse{5}Jménem lásky, jménem hněvu\\
+zpívám tobě, lide můj.
+
+\chorus{}Nejvíc svobody si važ,\\
+a čím víc ji postrádáš,\\
+o to blíž v dobách zlých\\
+při ní stůj!\\
+}
+
+

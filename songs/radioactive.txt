@@ -1,0 +1,31 @@
+\toftagthis{anglicke}
+\song{Radioactive}{Imagine Dragons}{50pt}{1}{
+\medskip
+\verse{1}\Am{}I'm waking u\C{}p to ash and du\G{}st\\
+I wipe my \D{}brow and I sweat my \Am{}rust\\
+I'm breathing in the chemicals\\
+I'm breaking in, shaping up,\\
+then checking out on the prison bus\\
+This is it, the apocalypse, whoa
+
+\chorus{}I'm waking up, I feel it in my bones\\
+Enough to make my systems blow\\
+Welcome to the new age, to the new age\\
+Welcome to the new age, to the new age\\
+Whoa, whoa, I'm radioactive, radioactive\\
+Whoa, whoa, I'm radioactive, radioactive
+
+\verse{2}I raise my flags, don my clothes\\
+It's a revolution, I suppose\\
+We're painted red to fit right in, whoa\\
+I'm breaking in, shaping up,\\
+then checking out on the prison bus\\
+This is it, the apocalypse, whoa\\
+\textbf{R:}
+
+\verse{*}All systems go, sun hasn't died\\
+Deep in my bones, straight from inside\\
+\textbf{R:}
+}
+
+

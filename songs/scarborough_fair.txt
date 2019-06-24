@@ -1,0 +1,28 @@
+\toftagthis{anglicke}
+\song{Scarborough Fair}{Simon \& Garfunkel}{45pt}{1}{
+\capo{5}
+\verse{1}\Am{}Are you going to \G{}Scarborough \Am{}Fair?\\
+\C{} Parsley, \Am{}sage, rose\C{}ma\D{}ry and \Am{}thyme.\\
+Re\Am{}member \C{}me to \C{}one \G[/H]{}who \Am{}lives \G{}there.\\
+\Am{}She once \G{}was a \G{}true \Am{}love \G{}of \Am{}mine.
+
+\verse{2}Tell her to make me a cambric shirt.\\
+Parsley, sage, rosemary and thyme;\\
+Without no seams nor needle work,\\
+then she'll be a true love of mine.
+
+\verse{3}Tell her to find me an acre of land.\\
+Parsley, sage, rosemary and thyme;\\
+Between the salt water and the sea strand,\\
+then she'll be a true love of mine.
+
+\verse{4}Tell her to reap it with a sickle of leather.\\
+Parsley, sage, rosemary and thyme;\\
+And gather it all in a bunch of heather,\\
+then she'll be a true love of mine.
+
+\verse{5}Are you going to\dots
+}
+
+
+

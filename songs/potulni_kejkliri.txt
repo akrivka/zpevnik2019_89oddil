@@ -1,0 +1,32 @@
+\toftagthis{nohavica}
+\song{Potulní kejklíři}{Jaromír Nohavica}{40pt}{0.8}{
+\verse{1}\Am{} Potulní kejklíři \Em{}jdou zasněženou plá\Am{}ní, \hskip 1em \Em{}\\
+\Am{} v obitém talíři \Em{}vaří vítr ke snída\Am{}ni. \hskip 1em \Em{}\\
+\C{} S cvičenou opičkou \G{}na rameni,\\
+\Am{}životem\Dm{} malin\G{}ko \C{}unave\E[7]{}ni,\\
+\Am{}potulní kejklíři \Em{}jdou bílou plá\Am{}ní. \hskip 1em \Em{}
+
+\verse{2}V kovárně na kraji vsi všechen sníh už ztál,\\
+dobrý kovář odžene psy a pozve je dál,\\
+sláma je postelí i peřinou\\
+a oni jeden k druhému se přivinou\\
+a zítra na návsi začíná candrbál.
+
+\chorus{}\revrpt{} \Am{}Kejklíři, \Em{}kejklíři \Am{}jdou\ldots{}\Em{} \hskip 1.5em \rpt{} 
+
+\verse{3}Po schodech kostela poskakuje míč,\\
+muž s tváří anděla ohýbá železnou tyč.\\
+A krásná dívka jménem Marína\\
+zatančí tanec pohanského bůžka Odina\\
+a zítra po polednách budou zase pryč.\\
+\textbf{R:}
+
+\verse{4}Vozíček z lipových dřev po hlíně drkotá,\\
+červená nepokojná krev je erbem života,\\
+všechno, co chceme, leží před námi\\
+za devatero poli, devatero řekami,\\
+nad zimní krajinou slunce blikotá.\\
+\textbf{R: $(2\times)$}\\
+}
+
+

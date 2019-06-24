@@ -1,0 +1,25 @@
+\toftagthis{bsp}
+\song{Země vzdálená}{BSP}{20pt}{1}{
+\verse{1}\G{}Smutnej déšť a \D{}město v kouři,\Am{} ticho prázdnejch \C{}rán,\\
+\Em{}noční můry \D{}pijou silnej \A{}čaj.\\
+Smutnej déšť, oči mhouříš, už v nich nejsem sám,\\
+ještě málo žijou, když se ptaj'.
+
+\chorus{}Znám tě mnohem víc, země vzdálená,\\
+spát s tajemnou závratí.
+
+\verse{2}Roky ztratí sílu, když ti dál šeptám:\\
+While my guitar gently wheeps.\\
+Pod správnou hvězdou v malým ráji chtěl jsem říct:\\
+Stil my guitar gently wheeps.
+
+\verse{*}\F{}Den chová stín v \C{}záclonách,\G{} toulavejch pár \D{}koček strach,\\
+\F{}sen ti skrývá \C{}na víčkách, že jsi \G{}mou.\\
+\F{}Bláznům se jen \C{}může smát,\G{} když nám ráno \D{}dává mat,\\
+\F{}chtěl jsem dál jen \C{}poslouchat, že jsi \D{}má, že jsi \E{}má\ldots{} 
+
+\chorus{}\revrpt{} \A{}Znám tě mnohem \E{}víc, země \Hm{}vzdálená,\D{}\\
+\Fsm{}spát s tajem\E{}nou závra\H{}tí. \rpt{}\\
+}
+
+

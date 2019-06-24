@@ -1,0 +1,30 @@
+\toftagthis{nohavica}
+\song{Ježíšek}{Jaromír Nohavica}{30pt}{0.9}{
+\crdheight=2.3ex
+\verse{1}{}Dal sem na plotnu \Am{}vodu, zapnul \Dm{}plyn,\\
+nasypal \G{}černou mletou kávu do \C{}hrníčku.\E{}\\
+Pustil sem \Am{}desku -- trojku \Dm{}Queen,\\
+zapálil \E{}na stromečku nejhořejší \Am{}svíčku.
+
+\chorus{}\Am{}Na stěnách skotačí černé \Dm{}stíny,\\
+nechytneš\E{} je, nepolapíš, je to \Am{}marné, když se trápíš.\\
+Z vánočních koled jsou ever\Dm{}greeny\\
+a co \E{}ty, Ježíšku, ještě \Am{}spíš.
+
+\verse{2}{}Celý svět čeká na boží znamení\\
+a On si zatím kdesi lítá v Mléčné dráze.\\
+A dole v městě za Domem umění\\
+jde Santa Claus převlečený za Dědu Mráze.\\
+\textbf{R:}
+
+\vskip -1ex
+\verse{3}{}Pokojem voní čerstvé konopí,\\
+z ledničky vytáhnul jsem kapra sněhuláka.\\
+Až se mi celý roztopí,\\
+z balkónu do tmy z plných plic si zahulákám.
+
+Pa pa ra, pa pa ra paparara\ldots{}\emph{(melodie jako refrén)}
+
+\textbf{R:}\\
+}
+

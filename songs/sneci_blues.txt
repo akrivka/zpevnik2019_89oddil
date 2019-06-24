@@ -1,0 +1,29 @@
+\toftagthis{nohavica}
+\song{Šnečí blues}{Jaromír Nohavica}{60pt}{0.95}{
+\verse{1}\G{}Jednou \C[7]{}jeden \G{}šnek \D[7]{}\\
+\G{}šíle\C{}ně se \G{}lek',\D[7]{}\\
+\G{}nikdo už dnes \G[7]{}neví, z \C{}čeho se tak \Cm{}zjevil,\\
+že se\G{} dal hned \D{}na ú\G{}těk.\D[7]{}
+
+\verse{2}Přes les a mýtinu\\
+rychlostí půl metru za hodinu,\\
+z ulity pára, ohnivá čára,\\
+měl cihlu na plynu.
+
+\verse{3}Ale v jedné zatáčce,\\
+tam v mechu u svlačce,\\
+udělal šnek chybu, nevyhnul se hřibu,\\
+nevyhnul se bouračce.
+
+\verse{4}Hned seběhl se celý les\\
+a dali šneka pod pařez,\\
+tam v tom lesním stínu, jestli nezahynul,\\
+tak leží ještě dnes.
+
+\verse{5}A kdyby použil vůz\\
+anebo autobus,\\
+\revrpt{} nebylo by nutné zpívat tohle smutné,\\
+smutné šnečí blues. \rpt{}\\
+}
+
+

@@ -1,0 +1,41 @@
+\toftagthis{kabat}
+\song{Malá dáma}{Kabát}{80pt}{0.955}{
+\verse{1}\Am{}Utrhla trávu a začla \D[sus2]{}hrát,\\
+ta malá dáma z předměs\F{}tí,\\
+co umí \E[7]{}lidem z dlaní \Am{}číst.\\
+Tam kočky z rána mívaj' hlad,\\
+po noci plný neřestí\\
+je pohladí a dá jim jíst.
+
+\verse{*}\Dm{}Po tmě se \D[sus2]{}toulá a ve dne \Am{}spí\\
+a její oči vědí víc než \Dm{}mý,\\
+došly mi \D[sus2]{}slova, já stál tam \F{}jen,\\
+s touhle \E[7]{}jedinou bych \Am{}zemřel.
+
+\chorus{}\Am{}S touhle bych \F{}zemřel v jedinej \C{}den\\
+a jestli \E[7]{}vám to\E[7sus4]{} ne - sta - \Am{}čí,\\
+kdyby tam \F{}stála stovka \C{}žen,\\
+vyzvu ji \E[7]{}k tanci, a to \E[+]{}netan\Am{}čím.
+
+\verse{2}Tam za tratí svý doupě má,\\
+mince po kašnách posbírá\\
+a pak je skládá na kolej.\\
+Staví si chrám, plechovej most,\\
+už po něm kráčí první host,\\
+tak ať ho nohy nebolej.
+
+\verse{*}Prošla si peklem a kouzla zná,\\
+přejetý mince počítá\\
+a kdo ji spatří je zatracen,\\
+s touhle jedinou bych zemřel.\\
+\textbf{R:}
+
+
+\hskip -7pt \verse{\Large Br}Budu si \Am{}pamatovat na tu \C{}chvíli,\\
+když hrála, \F{}znělo to jak Paga\E[7]{}nini.\\
+A já už \Am{}věděl, že jsem ztrace\C{}nej,\\
+zeptal se \F{}za kolik, s pocitem \E[7]{}viny.\\
+\textbf{R: ($2\times$)}
+}
+
+

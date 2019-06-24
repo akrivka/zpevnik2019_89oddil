@@ -1,0 +1,39 @@
+\toftagthis{nohavica}
+\song{Milionář 2}{Jaromír Nohavica}{30pt}{1}{
+\verse{1}Pane \D{}Nohavica, \A[7]{}znamý zpěva\D{}ku,\D{}\\
+v živo\D{}tě jsem polknul \G{}křivdu kdeja\D{}ku,\D{}\\
+ale \D{}to co vy jste \Em{}zrobil, tak to \A[7]{}jste mě fakt roz\D{}zlobil,\\
+bo vy \D{}nemate cti \A[7]{}ani za ma\D{}ku.\D{}
+
+\verse{2}Svévolně jste užil mého osudu,\\
+zrobil jste ze mě hlupeho pobudu,\\
+využil jste moji krize, jak jsem jel do televize,\\
+v cele Dolní Lomné mám teď ostudu.
+
+\verse{3}Stare baby, ba aj děcka nedospěle\\
+po mně pokřikuji \uv{Franta ukulele!}\\
+Zřekla se mě vlastní mama, musim chodit kanalama,\\
+citim se jak sporťák Carda v TeleTele.
+
+\verse{4}No a vy se zatím flákáte po TESCU,\\
+mate velké auto, děcka, robu hezku,\\
+za barakem modry bazen a ja stary cip a blázen\\
+enem prazdnu kapsu a gatě na přezku.
+
+\verse{5}Sto padesát tisíc prodaných cédeček,\\
+tolik peněz, že se z toho chce až bečet,\\
+natřískané kulturaky, baby ječí, chlapi taky,\\
+no a za mnu se jen nouze s bídu vleče.
+
+\verse{6}Napišu ten případ do krajského tisku,\\
+že mě Nohavica okrad o část zisku,\\
+buď se se mnou vyrovnáte, patřičný obnos mi dáte,\\
+nebo dostanete u branky do pysku.
+
+\verse{7}S úctou podepsany Franta Xaver Šiška,\\
+sto osmdesát tři centimetrů výška,\\
+boty dvanáct, vaha sto pět, jezdim v TIRu po Evropě\\
+no a boxerky jsem dostal od Ježíška.\\
+}
+
+

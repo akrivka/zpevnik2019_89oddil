@@ -1,0 +1,39 @@
+\toftagthis{anglicke}
+\song{Nothing Else Matters}{Metallica}{70pt}{0.79}{
+\vskip 5pt
+\verse{1}So close, no matter how far,\\
+couldn't be much more from the heart,\\
+forever trustin' who we are\\
+and nothing else matters.
+
+\verse{2}Never opened myself this way,\\
+life is ours, we live it our way,\\
+all these words I don't just say\\
+and nothing else matters.
+
+\verse{3}Trust I seek and I find in you,\\
+everyday for us something new,\\
+open mind for a different view\\
+and nothing else matters.
+
+\chorus{}Never cared for what they do,\\
+never cared for what they know\\
+but I know.
+
+\verse{4}So close\ldots{}\\
+\textbf{R:} + \emph{acoustic solo}
+
+\verse{5}Never opened\ldots{}
+
+\verse{6}Trust I seek\ldots{} 
+
+\chorus{}Never cared for what they say,\\
+never cared for games they play,\\
+never cared for what they do,\\
+never cared for what they know,\\
+and I know.\\
++ \emph{electric solo}
+
+\verse{7}So close\ldots{}
+}
+

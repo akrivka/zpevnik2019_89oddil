@@ -1,0 +1,47 @@
+\toftagthis{anglicke}
+\song{Wonderwall}{Oasis}{20pt}{1}{
+\vskip 10pt
+\crdheight=2.5ex
+\verse{1}\Em[7]{}Today is \G{}gonna be the day\\
+that they're \D[sus4]{}gonna throw it back to \A[sus4]{}you.\\
+By now, you should've somehow\\
+realized what you gotta do.\\
+I don't believe that anybody\\
+feels the way I do about you \C[add9]now. \hskip 1.2em \D[sus4]{} \hskip 3em \A[7sus4]{}
+
+\verse{2} Backbeat, the word is on the street\\ 
+that the fire in your heart is out.\\
+I'm sure you've heard it all before,\\
+but you never really had a doubt.\\
+I don't believe that anybody\\
+feels the way I do about you now.
+
+\verse{*}And \C[add9]{}all the roads we \D{}have to walk are \Em{}winding\\
+and \C[add9]{}all the lights that \D{}lead us there are \Em{}blinding.\\
+\C[add9]{}There are many \D{}things that I would \G{}like to \G[/F$\sharp$]{}say to \Em{}you,\\
+but I don't know \A[7sus4]{}how.
+
+\clearpage
+\chorus{}Because \C[add9]{}maybe \hskip 0.7em \Em[7]{} \hskip 2.3em \G{}you're \Em[7]{}gonna be the one that\\
+\C[add9]{}saves me\Em[7]{} \hskip 2.3em \G{}and \Em[7]{}after \hskip 0.5em \C[add9]{}all,\hskip 2em  \Em[7]{} \hskip 2.3em \G{}\\
+you're my \Em[7]{}wonder\C[add9]{}wall. \hskip 1em \Em[7]{} \hskip 2.4em \G{} \hskip 1em \Em[7]{}
+
+\verse{3}Today was gonna be the day,\\
+but they'll never throw it back to you.\\
+By now, you should've somehow\\
+realized what you're not to do.\\
+I don't believe that anybody\\
+feels the way I do about you now.
+
+\verse{*}And all the roads that lead you there were winding\\
+and all the lights that light the way are blinding.\\
+There are many things that I would like to say to you,\\
+but I don't know how.
+
+\textbf{R: $(2\times)$}~\\
+I said maybe you're gonna be the one that saves me.\\
+You're gonna be the one that saves me.\\
+You're gonna be the one that saves me.\\
+}
+
+

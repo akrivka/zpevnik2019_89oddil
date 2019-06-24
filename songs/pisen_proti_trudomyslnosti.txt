@@ -1,0 +1,14 @@
+\toftagthis{sverakuhlir}
+\song{Píseň proti trudomyslnosti}{J. Uhlíř / Z. Svěrák}{13pt}{1}{
+\textls[-10]{\D{}Polární noc má zvláštní moc, každého přepadne smu\A[7]{}tek,\\
+Němec i Brit, křesťan i Žid, každý by nejradši ute\D{}k',\\
+ba i ti \G{}šikovní Žapon\D{}ci se sila\E[7]{}mi jsou na kon\A[7]{}ci,\\
+jen jeden z \D{}národů nesko\G{}ná, hrůzy seve\D{}ru slavně \A[7]{}překo\D{}ná!\\}
+~\\
+Tam, kde hy-, tam, kde hy-, tam, kde hynou vl\A[7]{}ci,\\
+tam, kde hy-, tam, kde hy-, tam kde hynou vl\D{}ci,\\
+tam, kde hy-, tam, kde hy-, tam kde hynou so\G{}bi,\\
+\A[7]{}Čech se přizpůso\D{}bí! \A[7]{}Čech se přizpůso\D{}bí!\A[7]{}\hskip 1.8em \D{}\\
+}
+
+

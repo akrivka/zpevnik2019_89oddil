@@ -1,0 +1,55 @@
+%\toftagthis{anglicke}
+%\song{Stairway to Heaven}{Led Zeppelin}{10pt}{1}{
+%\vskip 8pt
+%\verse{1}There's a lady who's sure, all that glitters is gold\\
+%and she's buying a stairway to heaven.\\
+%\textls[-17]{When she gets there she knows, if the stores are all closed}\\
+% with a word she can get what she came for.\\
+% Ooh, ooh, and she's buying a stairway to heaven.
+%
+%\verse{2}There's a sign on the wall but she wants to be sure,\\
+% 'cause you know sometimes words have two meanings.\\
+% In a tree by the brook, there's a songbird who sings,\\
+% sometimes all of our thoughts are misgiven.
+%
+% Ooh, it makes me wonder,\\
+%ooh, it makes me wonder.
+%
+%\verse{3}There's a feeling I get when I look to the west\\
+%and my spirit is crying for leaving.\\
+%\textls[-25]{In my thoughts I have seen rings of smoke through the trees}\\
+%and the voices of those who stand looking.
+%
+% Ooh, it makes me wonder,\\
+% ooh, it really makes me wonder.
+%
+%\verse{4}And it's whispered that soon, if we all call the tune,\\
+% then the piper will lead us to reason.\\
+% And a new day will dawn for those who stand long,\\
+%and the forests will echo with laughter.
+%\clearpage
+%\verse{5}\textls[-15]{If there's a bustle in your hedgerow, don't be alarmed now,}\\
+% it's just a spring clean for the May queen.\\
+%\textls[-15]{Yes, there are two paths you can go by, but in the long run}\\
+% there's still time to change the road you're on.\\
+% And it makes me wonder.
+%
+%\verse{6}\textls[-45]{Your head is humming and it won't go, in case you don't know,}\\
+% the piper's calling you to join him.\\
+%\textls[-15]{Dear lady, can you hear the wind blow and did you know}\\
+%your stairway lies on the whispering wind?
+%
+%\verse{7} And as we wind on down the road,\\
+% our shadows taller than our soul.\\
+%There walks a lady we all know,\\
+%who shines white light and wants to show,\\
+%how everything still turns to gold\\
+%and if you listen very hard,\\
+%the tune will come to you at last,\\
+%when we all are one and one is all,\\
+%to be a rock and not to roll.
+%
+% And she's buying the stairway to heaven.\\
+%}
+
+

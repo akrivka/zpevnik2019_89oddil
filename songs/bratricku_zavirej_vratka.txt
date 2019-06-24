@@ -1,0 +1,27 @@
+\toftagthis{kryl}
+\song{Bratříčku, zavírej vrátka}{Karel Kryl}{50pt}{1}{
+\verse{1}{}\Em{}Bratříčku, nevzlykej, to nejsou \G{}bubáci,\\
+\D{}vždyť už jsi velikej, to jsou jen \H[7]{}vojáci,\\
+\C{}přijeli v hranatých železných maringot\H[7]{}kách. 
+
+\verse{2}{}Se slzou na víčku hledíme na sebe,\\
+buď se mnou, bratříčku, bojím se o tebe,\\
+na cestách klikatých, bratříčku v polobotkách. 
+
+\chorus \Em{}Prší \hskip 0.3em \Hm{}a \hskip 1.3em \Em{}venku \Hm{}se \hskip 1em \Em{}setmě\Hm{}lo,\hskip 1.5em \Em{} \hskip 2em \Hm{}\\
+\Em{}tato \Hm{}noc \hskip 0.3em \Em{}nebu\Hm{}de \hskip 1em \Em{}krátká\Hm{}. \hskip 1.5em \Em{} \hskip 2em \Hm{}\\
+\Em{}Berán\Hm{}ka \hskip 1em \C{}vlku \Hm{}se \hskip 1em \Em{}zachtě\Em{}lo,\\
+\C{}bratříč\Hm{}ku, \hskip 1em \Em{} \hskip 1em zav\Fermataup{4}řel jsi \H[7]{}vrát\Fermataup{4}ka?\\
+\hskip 5em \emph{(\ldots zavírej vrátka! \normalsize \textbf{Fine})} 
+
+\verse{3}{}Bratříčku, nevzlykej, neplýtvej slzami,\\
+nadávky polykej a šetři silami,\\
+nesmíš mi vyčítat, jestliže nedojdeme. 
+
+\verse{4}{}Nauč se písničku, není tak složitá,\\
+opři se, bratříčku, cesta je rozbitá,\\
+budeme klopýtat, zpátky už nemůžeme.\\
+\textbf{R:}
+}
+
+

@@ -1,0 +1,26 @@
+\toftagthis{plihal}
+\song{Nagasaki, hirošima}{Karel Plíhal}{35pt}{1}{
+\verse{1}\C{}Tramvají \G{}dvojkou \F{}jezdíval jsem \G{}do Žide\C{}nic\G{}, \hskip 0.8em \F{} \hskip 0.8em \G{}\\
+\C{}z tak velký \G{}lásky\F{} většinou \G{}nezbyde nic\Am{}, \hskip 2em \Am{}\\
+\F{}z takový \C{}lásky \F{}jsou kruhy \C{}pod očima\G{} \hskip 1em \G{}\\
+a dvě \C{}spálený \G{}srdce -- \F{}Nagasaki, \G{}Hiroši\C{}ma.\G{} \hskip 0.8em \F{} \hskip 0.8em \G{}\\
+
+\verse{2}Jsou jistý věci, co bych tesal do kamene,\\
+tam, kde je láska, tam je všechno dovolené,\\
+a tam, kde není, tam mě to nezajímá,\\
+jó, dvě spálený srdce -- Nagasaki, Hirošima.
+
+\verse{3}Já nejsem svatej, ani ty nejsi svatá,\\
+ale jablka z ráje bejvala jedovatá,\\
+jenže hezky jsi hřála, když mi někdy bylo zima,\\
+jó, dvě spálený srdce -- Nagasaki, Hirošima.
+
+\verse{4}Tramvají dvojkou jezdíval jsem do Židenic,\\
+z tak velký lásky většinou nezbyde nic,\\
+Z takový lásky jsou kruhy pod očima\\
+a dvě spálený srdce -- Nagasaki, Hirošima.\\
+a dvě \C{}spálený \G{}srdce -- \F{}Nagasaki, \G{}Hiroši\C{}ma,\G{}, \hskip 0.8em \F{} \hskip 0.8em \G{}\\
+a dvě \C{}spálený \G{}srdce -- \F{}Nagasaki, \G{}Hiroši\C{}ma.
+}
+
+

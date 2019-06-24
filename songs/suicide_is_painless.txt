@@ -1,0 +1,46 @@
+\toftagthis{anglicke}
+\song{Suicide is Painless}{M*A*S*H theme}{60pt}{1.05}{
+\vskip 8pt
+\verse{1}Through \Dm[7]{}early morning \G[7]{}fog I see\\
+\C[maj]{}visions of the \Am[7]{}things to be,\\
+the \Dm[7]{}pains that are with\G[7]{}held for me,\\
+I \C{}realize and \Am[7]{}I can see\A[7]{}.
+
+\chorus{}That \Dm[7]{}suicide is \G[7]{}painless,\\
+it \C[maj]{}brings on many \Am[7]{}changes\\
+and \F[maj]{}I can \Am{}take or \Dm[7]{}leave it \G[7]{}if I \Am{}please.
+
+\verse{2}Try to find a way to make\\
+all our little joys relate\\
+without that ever present hate,\\
+but now I know that it's too late.\\
+And\ldots{}+ \textbf{R:}
+
+\verse{3}The game of life is hard to play,\\
+I'm going to lose it anyway,\\
+the losing card I'll someday lay,\\
+so this is all I have to say.\\
+That\ldots{}+ \textbf{R:}
+\clearpage
+\verse{4}The only way to win is cheat\\
+and lay it down before I'm beat\\
+and to another give a seat\\
+for that's the only painless feat.\\
+'Cause\ldots{}+ \textbf{R:}
+
+\verse{5}The sword of time will pierce our skins,\\
+it doesn't hurt when it begins,\\
+but as it works it's way on in,\\
+the pain grow stronger watch it grin.\\
+For\ldots{}+ \textbf{R:}
+
+\verse{6}A brave man once requested me\\
+to answer questions that are key,\\
+is it to be or not to be\\
+and I replied \uv{Oh, why ask me.}\\
+'Cause\ldots{}+ \textbf{R:}
+
+And you can do the same thing if you please.\\
+}
+
+

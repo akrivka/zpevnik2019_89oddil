@@ -1,0 +1,30 @@
+\toftagthis{anglicke}
+\song{Falling Slowly}{Glen Hansard \& Markéta Irglová}{20pt}{1}{
+\verse{1}
+\C{}I don't know you, \F{}but I want you\\
+\C{}all the more for \F{}that.\\
+Words fall through me and always fool me\\
+and I can't react.
+
+\verse{*}\Am{}Games that \G{}never a\F{}mount
+to \G{}more than they \Am{}meant,\\
+will \G{}play themselves \F{}out.
+
+\chorus{}\C{}Take this sinking \F{}boat and point it \Am{}home,\\
+we've still got \F{}time.\\
+Raise your hopeful voice, you had the choice,\\
+you've made it now.
+
+\verse{2}Falling slowly, eyes that know me\\
+and I can't go back,\\
+Moods that take me and erase me\\
+and I'll paint it black.
+
+\verse{*}You have suffered enough and warred with yourself,\\
+it's time that you won.\\
+\textbf{R:}\\
+Falling slowly, sing your melody,\\
+I'll sing along.\\
+}
+
+

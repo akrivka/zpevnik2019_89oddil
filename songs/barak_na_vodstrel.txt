@@ -1,0 +1,33 @@
+\toftagthis{brichta}
+\song{Barák na vodstřel}{Aleš Brichta}{15pt}{1}{
+\textls[0]{
+\hskip -10pt \verse{1}{}\Em{}V tom šeru \D{}dvorů trpěly\Am{} místy zbytky \C{}trávy,\\
+z pavlačí dolů visely stonky zvadlejch květin,\\
+jen vokna zaprášený s čarami teď už prošlý zprávy,\\
+\Em{}dvě srdce nakresle\D{}ný, písmena, \Am{}co měl dávno \C{}smazat \Em{}déšť.
+}
+
+\textls[-10]{
+\hskip -7pt \chorus{}Tenhle \C{}barák na vod\G{}střel je dopis\D{} promlčený \Am{}lásky,\\
+tenhle barák na vodstřel, kam večer chodilo se na zeď psát,\\
+tenhle barák na vodstřel, co odpovídat měl nám na otázky,\\
+tenhle \C{}barák na vod\G{}střel, už nebu\D{}deš se jeho \C{}stínů \Em{}bát. 
+
+}
+\textls[0]{
+\hskip -5pt \verse{2}{}Dav čumilů civí, těší se, až ta barabizna zmizí,\\
+někdo se diví, že tu mohla takhle dlouho stát.\\
+Vzpomínky mávaj' a ty procházíš svou malou krizí,\\
+času se nedostává, na pohled zbejvá už jen vteřin pár.\\
+}
+\textbf{R: } 
+
+\textls[-30]{
+\hspace{-35pt}{\bfseries R2:} Tenhle barák na vodstřel a na Tvý tváři pár let starý vrásky,\\
+tenhle barák na vodstřel, kde ze zdí čiší vyklizenej chlad,\\
+tenhle barák na vodstřel, co půvab má už jenom pro obrázky,\\
+tenhle barák na vodstřel, proč najednou už se Ti vůbec nechce smát?\\
+}
+}
+
+

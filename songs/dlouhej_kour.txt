@@ -1,0 +1,31 @@
+\toftagthis{chinaski}
+\song{Dlouhej kouř}{Chinaski}{25pt}{1}{
+\verse{1}\D{}Když budeš hodná, naučím tě \C{}číst, naučím tě \G{}číst\\
+mezi řádky.\\
+To pokušení znáš, tak zapomeň cestu zpátky.\\
+Hmm\ldots cestu zpátky.\\
+Naše noc je mladá, vane jižní vítr,\\
+papírový křídla vzduchem víří.\\
+Řekni, co bys ráda, než nám ráno plány zkříží.
+
+\verse{*}Půjdem nekonečně dlouhou sametově černou tmou.\\
+Půjdem nekonečně dlouhou sametově černou\ldots
+
+\chorus{}Vam pam tyda pam, dám si ruce do kapes.\\
+vam pam tyda pam, dlouhej kouř a pohoda jazz.\\
+vam pam tyda pam, neštěkne po mě ani pes.\\
+padám a nevím kam, nečekej, že ti zavolám.
+
+\verse{2}Když budeš hodná, moje hodná holka,\\
+ukážu ti všechny svoje tajný skrýše.\\
+Poletíme vejš, chvíli budem řvát, chvíli budem tiše.\\
+Úplně tiše\ldots\\
+Vezmu si tě celou, budem se mít rádi\\
+a když ne, tak se ti něco zdálo.\\
+A když budem chtít, šlápnem na zmizík,\\
+všechno bude málo.
+
+\verse{*}Půjdem nekonečně dlouhou\ldots + \textbf{R:}\\
+}
+
+

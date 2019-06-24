@@ -1,0 +1,21 @@
+\toftagthis{ceskekapely}
+\song{Svařák}{Harlej}{50pt}{1}{
+\verse{1}\G{}Když jsem sám doma, \Am{}poslouchám Vávra,\\
+\C{}starýho vola, \D{}pořád dokola.\\
+\G{}Chce to mít nápad, \Am{}a né pořád chrápat,\\
+\C{}já dostal jsem nápad, \D{}udělat mejdan.
+
+\chorus{}Mám \G{}rád svařené \Am{}víno červené,\\
+já mám \C{}rád, rád sva\G{}řák.\\
+Mám \G{}rád svařené \Am{}víno červené,\\
+já mám \C{}rád, rád sva\G{}řák.
+
+\verse{2}Se známou partou, domluva krátká,\\
+zejtra v 6 hodin, vstup jedna lampa.\\
+Začíná mejdan, na 200 \%,\\
+my plníme plány, rostou nám blány.\\
+\textbf{R: $(2\times)$}\\
+}
+
+
+

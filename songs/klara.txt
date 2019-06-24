@@ -1,0 +1,50 @@
+\toftagthis{chinaski}
+\song{Klára}{Chinaski}{30pt}{0.9}{
+\H{}Ná nanana\Gsm{}nanananananana \E{}ná \Em{}\\
+\H{}Ná nanana\Gsm{}nanananananana \E{}ná aa\Em{}áá
+
+\verse{1}\H{}Kláro, jak to s \Dsm{}tebou vypadá,\\
+od půl \Csm{}devátý, do osmi \Em{}ráno,\\
+co nám \H{}brání bejt spolu \Dsm{}jenom ty a já,\\
+\Csm{}nebuď včerejší, no tak, \Em{}Kláro.
+
+Pro tebe \H{}slibuju, žaluju, denně \Dsm{}piju jak Dán,\\
+\Csm{}ve skrytu duše marně \Em{}tajně doufám,\\
+že \H{}já, jenom \Gsm{}já jsem ten tvůj vysněný \E{}pán\ldots{}\Em{}\\
+\H{}Ná nanana\Gsm{}nanananananana \E{}ná aa\Em{}áá
+
+\verse{2}Já se prostě nekontroluju a plácám a plácám,\\
+jsi vážně úžasná, já tě nejspíš miluju,\\
+no ty mi dáváš, jééé!
+
+Zabalit, vyrazit, rychle frčíme dál,\\
+bereme čáru, šup do kočáru!\\
+Já, jenom já jsem ten tvůj vysněný pán,\\
+inženýr -- šarlatán.
+
+\chorus{}\C{}Koukám na tebe, Kláro, už několik dní\Dm[7]{}, \hskip 2.5em \Db[maj]{}\\
+nejsem nějakej ten chlápek, jsem solidní.\\
+Kláro, stačí jen málo a budeme pár.\\
+Královno má, ty to víš, co bych si přál.\\
+\revrpt{} \C{}Ná nanana\Am{}nanananana\F{}naá aáá\Fm{}aáa \rpt{}
+
+\verse{3}\C{}Hele, kotě, na co tě \Em{}nalákám?\\
+\Dm{}Mám doma sbírku cinknu\Fm{}tejch srdcovejch králů,\\
+\C{}naslouchám, následně \Em{}vím, kudy kam,\\
+\Dm{}dáme si partičku a \Fm{}skončíme k \C{}ránu.
+
+Počkám a\Em{}ž usneš\Dm{}\ldots{} \hskip 0.8em a \Fm{}budu se ti \C{}zdát,\\
+jenom já \Am{}jsem ten tvůj vysněný \F{}pán,\\
+inže\Fm{}nýr -- šarlatán.
+
+\chorus{}\Cs{}Koukám na tebe, Kláro, už několik dní\Dsm[7]{}, \hskip 3em \D[maj]{}\\
+nejsem nějakej ten chlápek, jsem solidní.\\
+Kláro, stačí jen málo a budeme pár.\\
+Královno má, ty to víš, co bych si přál.
+
+\Cs{}Ná nananananananana\Dsm[7]nááá áá\D[maj]{}á\\
+Ná nananananananananááá ááá\\
+\Cs{}Ná nananananananana\Dsm[7]{}ná nanana\D[maj]{}nanananá ná \Cs{}nááá\\
+}
+
+

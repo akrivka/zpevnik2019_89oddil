@@ -1,0 +1,43 @@
+\toftagthis{ceskekapely}
+\song{Svaz českých bohémů}{Wohnout}{20pt}{1}{
+\capo{1}
+\medskip
+\chorus\E{}Vracím se domů nad rá\Hm{}nem, kvalitním vínem omá\Fsm{}men,\\
+z přímek se stávaj zatá\D{}čky, točí se \A{}svět, jsem na sra\E{}čky.\\
+Vedle mě zvrací princezna, nastavím dlaň a požehnám,\\
+pro všechny jasný poselství - tomu se říká přátelství. 
+
+\verse{1}Mám tisíc otázek na žádnou vzpomínku,\\
+skládám si obrázek kámen po kamínku.\\
+Včerejší produkce šla do bezvědomí,\\
+nastává dedukce, co na to svědomí. 
+
+\verse{2}A už si vzpomínám, já byl jsem na srazu,\\
+s kumpány který mám, patříme do svazu,\\
+vlastníme doménu, tak si nás rozklikni,\\
+svaz českejch bohémů\dots{}\\
+\textbf{R:}
+
+\verse{3}Stačí pár večírků, společně s bohémy,\\
+za kterými se táhnou od školy problémy.\\
+V partě je Blekota, Jekota, Mekota,\\
+dost často hovoříme o smyslu života.
+
+\verse{4}Jako je třeba teď, mám tisíc otázek,\\
+na žádnou vzpomínku, si skládám obrázek.\\
+Z těžkejch ran lížu se, včera jsme slavili,\\
+svatýho Vyšuse.\\
+\textbf{R:}\\
+
+\verse{5}Svět zrychluje svý otáčky, sousedka peče koláčky.\\
+Hlášen stav nouze nejvyšší, Hapkové volaj Horáčky.\\
+Zástupy českejch bohému, vyráží ven do terénů\\
+šavlí z kvalitního vína bojovat proti systému.
+
+\revrpt{} Tak jsme se tu všichni sešli, co myslíš, osobo?\\
+Na to nelze říci než \uv{Co je ti do toho?}\\
+Tak jsme se tu všichni sešli, co myslíš, osude?\\
+Na to nelze říci než \uv{Jinak to nebude.} \rpt\\
+}
+
+

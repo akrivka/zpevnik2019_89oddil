@@ -1,0 +1,32 @@
+\toftagthis{folk}
+\song{Montgomery}{Savana / tradicionál}{80pt}{0.94}{
+\verse{1} \D{}Déšť ti, holka, smáčel \G{}vlasy, \Em{}\\
+z \A[7]{}tvých očí zbyl prázdný \D{}kruh,\A[7]{}\\
+kde je zbytek tvojí krásy,\\
+to ví dneska jenom Bůh.
+
+\chorus{}Z celé jižní eskadrony,\\
+nezbyl ani jeden muž,\\
+v Montgomery bijou zvony,\\
+déšť ti smývá ze rtů růž.
+
+\verse{2} Tam na kopci v prachu cesty,\\
+leží i tvůj generál,\\
+v ruce šátek od nevěsty,\\
+ale ruka leží dál.\\
+\textbf{R:}
+
+\verse{3} Tvář má zšedivělou strachem,\\
+zbylo v ní pár těžkých chvil,\\
+proužek krve stéká prachem,\\
+déšť mu slepil vlas jak jíl.\\
+\textbf{R:}
+
+\verse{4} Déšť ti šeptá jeho jméno,\\
+šeptá ho i listoví,\\
+lásku měl rád víc než život,\\
+to ti nikdy nepoví.\\
+\textbf{R:}\\
+}
+
+

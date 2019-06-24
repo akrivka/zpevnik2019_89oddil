@@ -1,0 +1,40 @@
+\toftagthis{zlutypes}
+\song{Sametová}{Žlutý pes}{18pt}{1}{
+\verse{1}\G{}Vzpomínám, když tehdá \C{}před lety \G{}začaly lítat \C{}rakety,\\
+\G{}zdál se to bejt\C{} docela dobrej nápad\D{}. \hskip 1em \D{}\\
+\G{}Saxofony hrály \C{}unyle a \G{}frčely švédský \C{}košile,\\
+\G{}někdo se moh'\Em{} docela dobře \C{}flákat.\D{}
+
+\verse{2}\textls[-25]{Když tam stál rohatej u školy, my neměli podepsaný úkoly,}\\
+už tenkrát rozhazoval svoje sítě.\\
+\textls[-20]{Poučen z předchozích nezdarů sestrojil elektrickou kytaru}\\
+a rock'n'roll byl zrovna narozený dítě.
+
+\chorus{}\G{}Vzpomínáš, takys tu \D{}žila a \Em{}nedělej, že jsi \C{}jiná,\\
+taková \G{}malá pilná \D{}včela, taková \C{}celá\D{} sametová\G{}.
+
+\verse{3}Přišel čas a jako náhoda byla tu bigbeatová pohoda\\
+kytičky a úsmevy sekretárok.\\
+Sousedovic bejby Milena je celá blbá z Boba Dylana,\\
+ale to nevadí, já mám taky nárok.
+
+\verse{4}Starý, mladý nebo pitomý mlátili do toho jako my,\\
+hlavu plnou Londýna nad Temží.\\
+Starej dobrej satanáš hraje u nás v hospodě mariáš,\\
+pazoura se mu trumfama jenom hemží.
+\clearpage
+\chorus{}\G{}Vzpomínáš, už je to \D{}jinak a \Em{}jde z toho na mě \C{}zima,\\
+ty jsi \G{}holka tehdá \D{}byla, taková \C{}celá\D{} sametová\G{}.
+
+\verse{5}A do toho tenhle Gorbačov, co ho znal celej Dlabačov,\\
+kopyta měl jako z Arizóny.\\
+Přišel a zase odešel a nikdo se kvůli tomu nevěšel\\
+a po něm tu zbyly samý volný zóny.
+
+\chorus{}\G{}Vzpomínáš, jak jsi se \D{}měla, \Em{}když jsi nic nevě\C{}děla,\\
+byla to \G{}taková krásná \D{}cela a byla \C{}celá\D{}\ldots{}\\
+\G{}Vzpomínáš, jak jsi se \D{}měla, \Em{}když jsi nic nevě\C{}děla,\\
+byla to \G{}taková krásná \D{}cela a byla \C{}celá\D{} sameto\G{}vá.\\
+}
+
+

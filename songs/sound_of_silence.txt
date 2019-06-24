@@ -1,0 +1,46 @@
+\toftagthis{anglicke}
+\song{Sound of Silence}{Simon \& Garfunkel}{45pt}{1}{
+\capo{6}
+\verse{1}\Am{}Hello darkness, my old \G{}friend,\\
+I've come to talk with you \Am{}again,\\
+because a vision softl\F{}y cree\C{}ping\\
+left its seeds while I w\F{}as slee\C{}ping\\
+and the \F{}vision that was planted in my \C{}brain\\
+still re\C{}mains\Am{}\\
+\C{}within the \G{}sound of \Am{}silence.
+
+\verse{2}In restless dreams I walked alone,\\
+narrow streets of cobblestone.\\
+'Neath the halo of a street lamp,\\
+I turned my collar to the cold and damp,\\
+when my eyes were stabbed by\\
+the flash of a neon light,\\
+that split the night\\
+and touched the sound of silence.
+
+\verse{3}And in the naked light I saw\\
+ten thousand people, maybe more.\\
+People talking without speaking,\\
+people hearing without listening,\\
+people writing songs that voices never share\\
+and no one dared\\
+disturb the sound of silence.
+
+\verse{4}\uv{Fools,} said I, \uv{You do not know,\\
+silence like a cancer grows.\\
+Hear my words that I might teach you,\\
+take my arms that I might reach you.}\\
+But my words like silent raindrops fell\\
+and echoed in the wells of silence
+
+\verse{5}And the people bowed and prayed\\
+to the neon god they made.\\
+And the sign flashed out its warning\\
+in the words that it was forming.\\
+And the sign said: `The words of the prophets\\
+are written on the subway walls\\
+and tenement halls\\
+and whispered in the sound of silence.'\\
+}
+
+

@@ -1,0 +1,37 @@
+\toftagthis{anglicke}
+\song{Otherside}{Red Hot Chilli Peppers}{48pt}{1.1}{
+\vskip 20pt
+
+\chorus{}\Am{}How long, how \F{}long will I \C{}slide,\\
+\G{}separate my \Am{}side,\hskip 0.5em \F{}\\
+I \C{}don’t, I \G{}don’t believe it’s \Am{}bad,\hskip 0.5em \F{}\\
+\C{}slittin' my throat, it’s \G{}all I ever\ldots
+
+\verse{1}\Am{}I heard your voice through a \Em{}photograph,\\
+\Am{}I thought it up it brought \Em{}up the past,\\
+\Am{}once you know you can \Em{}never go back,\\
+I’ve got to \G{}take it on the \Am{}otherside.
+
+\verse{2}Centuries are what it meant to me,\\
+a cemetery where I marry the sea,\\
+stranger things could never change my mind,\\
+I’ve got to take it on the otherside,\\
+\G{}take it on the \Am{}otherside,\\
+\G{}take it on, \Am{}take it on.\\
+\textbf{R:}
+
+\clearpage
+\verse{3}Pour my life into a paper cup,\\
+the ashtray’s full and I’m spilling my guts,\\
+she wants to know am I still a slut,\\
+I’ve got to take it on the otherside.
+
+\verse{4}Scarlet starlet and she’s in my bed,\\
+a candidate for my soul mate bled,\\
+push the trigger and pull the thread,\\
+I’ve got to take it on the otherside,\\
+take it on the otherside,\\
+take it on, take it on.\\
+\textbf{R: $(2\times)$}
+}
+

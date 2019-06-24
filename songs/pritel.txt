@@ -1,0 +1,66 @@
+\toftagthis{nohavica}
+\song{Přítel}{Jaromír Nohavica}{30pt}{0.9}{
+\vskip -5pt
+\capo{2}
+\crdheight=2.2ex
+\verse{1}Jestlipak \G{}vzpomínáš si ještě na ten \D[/F$\sharp$]{}čas,\\
+táhlo nám \Am[7/E]{}na dvacet a slunko bylo v \D{}nás,\\
+\Am{}vrabci nám jedli z ruky, \C{}život šel bez záruky,\\
+\G{} ale taky bez pří\D[/F$\sharp$]{}kras.
+
+\verse{2}Možná, že hloupý, ale krásný byl náš svět,\\
+zdál se nám opojný jak dvacka cigaret\\
+a všechna tajná přání plnila se na počkání\\
+anebo rovnou hned.
+
+\chorus{}\Am{}Kam jsme se poděli, \C{}kam jsme se to poděli,\\
+\G{}kde je ti \D[/F$\sharp$]{}konec, m\Em[7]{}ůj jediný příteli,\\
+\Am{}zmizels mi, nevím \D{}kam,\\
+\C[add9]{}sám, sám, sám, jsem tady \G{}sám.\D[/F$\sharp$]{} \hskip 2.5em \Am[7/E]{} \hskip 3.7em \D{}
+
+\verse{3}Jestlipak vzpomínáš si ještě na tu noc,\\
+jich bylo pět a tys mi přišel na pomoc,\\
+jó, tehdy nebýt tebe, tak z mých dvanácti žeber\\
+nezůstalo příliš moc.
+
+\verse{4}Dneska už nevím, jestli přiběh' by jsi zas,\\
+jak tě tak slyším, máš už trochu vyšší hlas,\\
+a vlasy, vlasy kratší, jó, bývali jsme mladší,\\
+no a co, vem to ďas.
+
+\chorus{}Kam jsme se poděli, kam jsme se to poděli,\\
+kde je ti konec, můj jediný příteli,\\
+zmizels mi, nevím kam,\\
+sám, sám, sám, peru se teď sám.
+
+\verse{5}Jestlipak vzpomínáš si ještě na ten rok,\\
+každá naše píseň měla nejmíň třicet slok\\
+a my dva jako jeden ze starých reprobeden\\
+přes moře jak přes potok.
+
+\verse{6}Tvůj děda říkal: \uv{Ono se to uklidní,}\\
+měl pravdu, přišla potom spousta malých dní\\
+a byla velká voda, vzala nám, co jí kdo dal,\\
+a tobě i to poslední.
+
+\chorus{}Kam jsme se poděli, kam jsme se to poděli,\\
+kde je ti konec, můj jediný příteli,\\
+zmizels mi, nevím kam,\\
+sám, sám, sám, zpívám tady sám.
+
+\verse{7}Jestlipak vzpomínáš si na to, jakýs byl,\\
+jenom mi netvrď, že tě život naučil,\\
+člověk, to není páčka, kterou si, kdo chce, mačká,\\
+to už jsem dávno pochopil.
+
+\verse{8}A taky vím, že srdce rukou nechytím,\\
+jak jsem se změnil já, tak změnil ses i ty,\\
+a přesto líto je mi, že už nám nad písněmi\\
+společný slunko nesvítí.
+
+\chorus{}Kam jsme se poděli, kam jsme se to poděli,\\
+kde je ti konec, můj bývalý příteli,\\
+zmizels mi, nevím kam,\\
+sám, sám, sám, dýchám tady sám.\\
+}
+

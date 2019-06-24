@@ -1,0 +1,27 @@
+\toftagthis{nedvedi}
+\song{Podvod}{Jan Nedvěd}{15pt}{0.9}{
+\capo{2}
+\verse{1}\Em{}Na dlani jednou z tvých řas, do tmy se \Am{}koukám,\\
+\D{}hraju si písničky tvý, co sem ti \G{}psal.\\
+Je skoro \Am{}půlnoc a z kostela \Am[/C]{}zvon mi noc připo\Em{}míná,\\
+půjdu se \Am{}mejt a pozhasí\Am[/C]{}nám, co bude \H[7]{}dál?
+
+\verse{2}Pod polštář dopisů pár, co poslalas dávám,\\
+píšeš, že ráda mě máš a trápí tě stesk.\\
+Je skoro půlnoc a z kostela zvon mi noc připomíná,\\
+půjdu se mejt a pozhasínám, co bude dál?
+
+\chorus{}Chtěl jsem to \Am{}ráno, kdy naposled snídal jsem s tebou,\\
+ti \Em{}říct, že už ti nezavolám,\\
+pro jednou pitomou \Am{}holku, pro pár noci \D{}touhy,\\
+podved' jsem \G{}všechno, o čem doma si \H[7]{}sníš,\\
+teď je mi to \Em{}líto.
+
+\verse{3}Kolikrát člověk může mít rád tak opravdu z lásky,\\
+dvakrát či třikrát -- to ne, i jednou je dost.\\
+Je skoro půlnoc a z kostela zvon mi noc připomíná,\\
+půjdu se mejt a pozhasínám, co bude dál?\\
+\textbf{R: ($2\times$)}
+}
+
+

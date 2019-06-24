@@ -1,0 +1,35 @@
+\toftagthis{krestan}
+\song{Jeruzalém ze zlata}{Pavlína Jíšová / Naomi Šemer}{17pt}{0.95}{
+~\\
+\verse{1}{}\A[ \noexport{$(\sfrac{3}{4})$}]{}Horský vzduch čistý jak \Dm[ \noexport{$(\sfrac{4}{4})$}]{}víno, ve větru \A[ \noexport{$(\sfrac{3}{4})$}]{}stmívání,\A[ \noexport{$(\sfrac{3}{4})$}]{}\\
+\A{}přináší borovou \Dm{}vůni a ze všech \Am{}míst \E{}zvony \Am{}zní.\\
+Ticho stromů a bílý kámen ve spánku objímá\\
+to město až k bolesti krásné, co v srdci svém zeď má. 
+
+\chorus{}Jeruza\Dm{}léme \G{}ze zla\C{}ta, z mědi a \F{}záře tajems\Am{}tví,\\
+pohleď, i \F{}já jsem jeden \C{}z tónů \E{}všech \Am{}pí \hskip 0.2em - \hskip 0.2em s\E{}ní \Am{}tvých.\\
+Jerušalajim šel zahav, vešel nechošet vešel or\\
+halo lechol -- širjájich, ani kinor 
+
+\verse{2}{}Smutek sedá na trh prázdný a k vyschlým cisternám,\\
+\textls[-10]{jen lítost chodí starým městem k hoře, kde stával chrám.}\\
+V jeskyních tisíc sluncí zhaslých jen vítr rozdmýchá,\\
+nemohu jít k Mrtvému moři, nemohu jít do Jericha.\\
+\textbf{R:}
+
+\vskip -2ex
+\verse{3}{}Ať mi jazyk můj na patro přilne a ruce neslouží,\\
+\textls[-35]{když zapomenu tvoje jméno, budu pít hořkou vodu z kaluží.}\\
+Jak sabra, která vprostřed pouště vždy znovu rozkvétá,\\
+tak budu já o tobě zpívat, Jeruzaléme ze zlata.\\
+\textbf{R:}
+
+\vskip -2ex
+\verse{4}{}Tak málokdy a přece zázrak, zeď je zhroucená,\\
+šofar volá na horu chrámu, na trh a k plným cisternám.\\
+V jeskyních tisíc sluncí září, až téměř nedýchám,\\
+a mohu jít k Mrtvému moři a mohu jít do Jericha.\\
+\textbf{R:}\\
+}
+
+

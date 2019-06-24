@@ -1,0 +1,28 @@
+\toftagthis{spiritual}
+\song{Starý příběh}{Spirituál kvintet}{50pt}{0.89}{
+\verse{1}Řek' \D{}Mojžíš jednou lidu svému: Přišel čas,\\
+dnes v noci tiše \Fsm{}vytratí se \G{}každý \A[7]{}z vás,\\
+\D{}mává\D[7]{}, \hskip 1em \G{}mává\Gs[dim]{} \hskip 1em nám \D{}všem \A[7]{}svobodná \D{}zem.
+
+\verse{2}Já říkám rovnou, každý ať s tím počítá,\\
+že naše cesta ke štěstí je trnitá,\\
+mává, mává nám všem svobodná zem.\\
+\chorus{}\revrpt{} A \D{}kdo se bojí vodou jít,\\
+ten podle tónů faraónů musí \A[7]{}žít,\\
+\D{}mává\D[7]{}, \hskip 1em  \G{}mává\Gs[dim]{} \hskip 1em  nám \D{}všem \A[7]{}svobodná \D{}zem. \rpt{}
+
+\verse{3}Až první krůček bude jednou za námi,\\
+už nikdo nesmí zaváhat, dát na fámy,\\
+mává, mává nám všem svobodná zem.
+
+\verse{4}Pak tenhle vandr všem potomkům ukáže,\\
+že šanci má jen ten, kdo má dost kuráže,\\
+mává, mává nám všem svobodná zem.\\
+\textbf{R:}
+
+\verse{5}Ten starý příběh z bible vám tu vykládám,\\
+ať každý ví, že rozhodnout se musí sám,\\
+mává, mává nám všem svobodná zem.\\
+\textbf{R:}\\
+}
+

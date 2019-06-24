@@ -1,0 +1,46 @@
+\toftagthis{nohavica}
+\song{Cukrářská bossanova}{Jaromír Nohavica}{45pt}{1.05}{
+\crdheight=2.9ex
+
+\verse{1}{}Můj \C[maj]{}přítel\ \Cs[dim]{} snídá sedm \Dm[7]{}kremrolí\G[7]{}\\
+a když je spořádá, dá si repete -- cukrlátko.\\
+On totiž říká: \uv{Dobré lidi zuby nebolí\\
+a je to paráda, chodit po světě a mít,\\
+mít v ústech sladko.} 
+
+\chorus{}Sláva, cukr a káva a půl litru becherovky,\\
+hurá, hurá, hurá, půjč mi bůra\\
+útrata dnes dělá čtyři stovky.\\
+Všechny cukrářky z celé republiky\\
+na něho dělají slaďounké cukrbliky\\
+a on jim \Em[7]{}za odměnu zpívá \A[7]{}zas a znovu\\
+\Dm[7]{}tuhletu\G[7]{} cukrářskou bossanovu.
+
+\verse{2}{}Můj přítel Karel pije šťávu z bezinek,\\
+říká, že nad ni není, že je famózní, glukózní,\\
+monstrózní, ať si taky dám.\\
+Koukej, jak mu roste oblost budoucích maminek,\\
+a já mám podezření, že se zakulatí jako míč\\
+a až ho někdo kopne, odkutálí se mi pryč\\
+a já zůstanu sám, úplně sám.\\
+\textbf{R: } 
+\clearpage
+\verse{3}{}Můj přítel Karel Plíhal už na špičky si nevidí,\\
+postava fortelná se mu zvětšuje, výměra tři ary.\\
+On ale tvrdí, že glycidy jsou pro lidi.\\
+Je prý v něm kotelna, ta cukry spaluje,\\
+někdo se zkáruje, někdo se sfetuje\\
+a on jí bonpari, bon bon bon bon bon pari. 
+
+\chorus{}Sláva, cukr a káva a půl litru becherovky,\\
+hurá, hurá, hurá, půjčte nám bůra\\
+útrata dnes dělá čtyři stovky.\\
+Všechny cukrářky z obou republik\\
+na něho dělají veliký cukrblik\\
+a on jim \Em[7]{}za odměnu zpívá \A[7]{}zas a znovu\\
+\Dm[7]{}tuhletu\G[7]{} cukrářskou bossanovu,\C[maj]{} \hskip 2.8em \Cs[dim]{} \hskip 3em \Dm{}\\
+\G[7]{} cukrářskou bossanovu,\C[maj]{} \hskip 2.8em \Cs[dim]{} \hskip 3em \Dm{}\\
+\G[7]{} cukrářskou bossanovu.\C[maj]{}\\
+}
+
+

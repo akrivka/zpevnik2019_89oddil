@@ -1,0 +1,27 @@
+\toftagthis{klus}
+\song{Do nebe}{Tomáš Klus}{20pt}{1}{
+\transposeFiveDown 
+\verse{1}Haló, \C{}pane,\G{} vy s \Am{}výhledem na celej svět,\F{}\\
+co se \C{}stane,\G{} když \Am{}neumím dát odpo\F{}věď?\\
+Snad se \C{}nezlobíte,\G{} snad mi to \Am{}odpustíte,\F{}\\
+vždyť \F{}víte, \F{}že chci\ldots
+
+\chorus{}\revrpt{} Do nebe, do nebe, do nebe, do nebe, do nebe,\\
+do nebe, do nebe, do nebe, do nebe,\\
+do nebe, do nebe, do nebe, do nebe, do nebezpečna. \rpt{}
+
+\verse{2}Haló, pane, nad střechami paneláků,\\
+až déšť ustane, až uschnou křídla ptáků,\\
+budu relativně štastný, budu žádaný a krásný,\\
+budu obdivován v očích půvabných dam, ale sám\\
+půjdu\ldots\\
+\textbf{R:}
+
+\verse{3}Haló, pane, vy s šedivými vousy,\\
+jak poznat nepoznané, jak štěstí nevytrousit,\\ 
+jak se nadechnout a zůstat živ a zdráv\\
+a jestli jít či plout, to bych taky věděl rád,\\
+vždyť chci\ldots\\
+\textbf{R:}\\
+}
+

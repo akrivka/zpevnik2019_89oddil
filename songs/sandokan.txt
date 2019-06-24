@@ -1,0 +1,27 @@
+\toftagthis{filmove}
+\song{Sandokan}{Barel Rock}{20pt}{0.95}{
+\capo{3}
+\verse{*}\Em{}Měl jsem hračku Igra, \Am{}plyšového \Em{}tygra,\\
+on mi \D{}chcípnul, teď jsem \C{}sám, \H[7]{}rozpáral mi ho Sando\E{}kan.
+
+\verse{1}\Em{}Italiáno seriálo, \Am{}betelné borec Sandokano,\\
+\Em{}v pátek večer, v sobotu ráno \Am{}o zábavu postaráno \Em{}máš.\\
+Na Momp\D{}ráčem doplul \C{}zmáčen, la Manche \D{}kanál\\
+líp než \C{}Venclovský by přepla\H[7]{}val - a kdo to byl?
+
+\chorus{}Sando\Em{}kan, Sandokan – buldo\Am{}zér do srdcí našich \Em{}dívek,\\
+Sando\Em{}kan, Sandokan – \Am{}Mariana byla panna,\\
+než poznala Sandokana, \Em{}joj!\\
+Sandokan, Sandokan – nádherný romantický snílek,\\
+Sandokan, Sandokan – míval plány velikánský\\
+a pak vedl partyzánský boj.
+
+\chorus{}Sandokan, Sandokan – chtěl bych být jako on, jako král,\\
+Sandokan, Sandokan – boháčům bral, chudým dával,\\
+na Mompráčem měl pak nával víc.\\
+Sandokan, Sandokan – nádherný italský seriál,\\
+Sandokan, Sandokan – doufám, že koupíme další díly,\\
+na tu chvíli těší se nás víc.\\
+}
+
+

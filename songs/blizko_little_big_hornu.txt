@@ -1,0 +1,35 @@
+%\toftagthis{folk}
+%\song{Blízko Little Big Hornu}{Greenhorns}{25pt}{0.8}{
+%\vskip -8pt
+%\setlength{\parskip}{1ex} % vertical space between paragraphs
+%\crdheight=2.2ex
+%\verse{1}{}Tam, \Am{}kde leží Little Big Horn, je indiánská zem,\\
+%tam přijíždí generál Custer \Dm{}se svým praporem,\\
+%mod\Am{}rý kabáty jezdců, stíny \Dm{}dlouhých karabin\\
+%a z \Am{}indiánských signálů po nebi letí \A{}dým.\\
+%\chorus{}\A{}Říkal to Jim Bridger, já měl jsem v noci \E{}sen,\\
+%pod sedmou kavalérií, jak krví rudne \A{}zem.\\
+%Kmen Siouxů je statečný a \A[7]{}dobře svůj kraj \D{}zná,\\
+%proč \E{}Custer neposlouchá ta \A{}slova varov\Am{}ná. 
+%
+%\linespread{0.85} \selectfont
+%\verse{2}{}Tam blízko Little Big Hornu šedivou prérií\\
+%táhne generál Custer se sedmou kavalérií,\\
+%marně mu stopař Bridger radí: \uv{Zpátky povel dej!\\
+%Jedinou možnost ještě máš, život si zachovej.}\\
+%\textbf{R:}
+%
+%\verse{3}{}Tam blízko Little Big Hornu se vznáší smrti stín,\\
+%padají jezdci z koní, výstřely z karabin,\\
+%límce modrých kabátů barví krev červená,\\
+%kmen Siouxů je statečný a dobře svůj kraj zná.\\
+%\textbf{R:}
+%
+%\verse{4}{}Pak všechno ztichlo a jen tam-tam duní nad krajem,\\
+%v oblacích prachu mizí Siouxů vítězný kmen,\\
+%cáry vlajky hvězdnatý, po kopcích vítr vál,\\
+%tam uprostřed svých vojáků leží i generál.\\
+%\textbf{R:}
+%}
+
+

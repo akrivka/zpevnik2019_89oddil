@@ -1,0 +1,33 @@
+\toftagthis{chinaski}
+\song{1970}{Chinaski}{20pt}{1}{
+\capo{4}
+\setlength{\parskip}{1.5ex} % vertical space between paragraphs
+\crdheight=2.0ex
+\vskip 5pt
+\verse{1}\A[sus2]{}Nevim jestli je to \Hm[7]{}znát, možná by bylo lepší \A[sus2/C$\sharp$]{}lhát,\\
+jsem silnej ročník \D{}sedmdesát, tak začni počí\A[sus2]{}tat.\\
+Nechci tu hloupě vzpomínat, koho taky dneska zajímá\\
+silnej ročník sedmdesát, tak začni počítat.\\
+Tenkrát tu bejval jinej stát a já byl blbej na kvadrát,\\
+jsem silnej ročník \D{}sedmdesát, třeba napří\E{}klad.
+
+\chorus{}\E{}Naši mi vždycky říka\Fsm{}li, jen nehas co tě nepá\D{}lí,\\
+jakej pán takovej \A{}krám.\\
+Naši mi vždycky říkali, co můžeš sleduj z povzdálí\\
+a nikdy nebojuj sám.
+
+\verse{2}Nevim jestli je to znát, možná by bylo lepší lhát,\\
+jsem silnej ročník sedmdesát, nemohl jsem si vybírat.\\
+Tak mi to přestaň vyčítat, naříkat co jsem za případ,\\
+jsem silnej ročník sedmdesát a možná, že jsem rád.\\
+\textbf{R:} \ldots a nikdy nebojuj \E{}sám.
+
+\verse{*}Čas \D{}pádí, čas letí, těžko ta \E{}léta vrátíš zpět\\
+a tak i \A{}Husákovy děti dospěly \H{}do Kristových let.\\
+Čas pádí, čas letí a je to zvláštní svět\\
+a tak i Husákovy děti dospěly do Kristových let.\\
+Čas pádí, čas letí.
+}
+
+
+

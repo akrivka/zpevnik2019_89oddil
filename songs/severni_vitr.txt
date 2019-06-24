@@ -1,0 +1,28 @@
+\toftagthis{sverakuhlir}
+\song{Severní vítr}{J. Uhlíř / Z. Svěrák}{30pt}{0.95}{
+\verse{1}Jdu \D{}s děravou patou, mám \Hm{}horečku zlatou,\\
+jsem \G{}chudý, jsem sláb, nemo\D{}cen.\\
+\D{}Hlava mě pálí a \Hm{}v modravé dáli\\
+se \G{}leskne a \A{}třpytí můj \D{}sen.
+
+\verse{2} Kraj pod sněhem mlčí, tam stopy jsou vlčí,\\
+tam zbytečně budeš mi psát.\\
+Sám v dřevěné boudě sen o zlaté hroudě\\
+já nechám si tisíckrát zdát.
+
+\chorus{}\D{}Severní \D[7]{}vítr je \G{}krutý, \D{}počítej, lásko má, s\A[7]{} tím.\\
+\D{}K nohám ti \D[7]{}dám zlaté \G{}pruty, nebo se \D{}vůbec \A[7]{}nevrá\D{}tím.
+
+\verse{3}Tak zarůstám vousem a vlci už jdou sem,\\
+už slyším je výt blíž a blíž.\\
+Už mají mou stopu, už větří, že kopu\\
+svůj hrob, a že stloukám si kříž.
+
+\verse{4}Zde leží ten blázen, chtěl dům a chtěl bazén\\
+a opustil tvou krásnou tvář.\\
+Má plechovej hrnek a pár zlatejch zrnek\\
+a nad hlavou polární zář.\\
+\textbf{R:}
+}
+
+

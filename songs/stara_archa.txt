@@ -1,0 +1,38 @@
+\toftagthis{spiritual}
+\song{Stará archa}{Spirituál kvintet}{60pt}{0.9}{
+\chorus{}\revrpt{} Já mám \D{}kocábku náram-, \A[7]{}náram-, \D{}náram-,\\
+kocábku náram-, \A[7]{}náram\D{}nou. \rpt{}
+
+\verse{1}\D{}Pršelo a blejskalo se sedm neděl,\\
+kocábku náram-, \A[7]{}náram\D{}nou,\\
+Noe nebyl překvapenej, on to věděl,\\
+kocábku náram-, \A[7]{}náram\D{}nou.\\
+\textbf{R:}
+
+\verse{*}\D{}Archa má cíl, archa má směr,\\
+plaví se k Araratu \A[7]{}na se\D{}ver.\\
+\textbf{R:}
+
+\verse{2}Šem, Nam a Jafet byli bratři rodní,\\
+kocábku náram-, náramnou,\\
+Noe je zavolal ještě před povodní,\\
+kocábku náram-, náramnou.
+
+\verse{3}Kázal jim naložiti ptáky, savce,\\
+kocábku náram-, náramnou.\\
+\uv{Ryby nechte, zachrání se samy hladce,}\\
+kocábku náram-, náramnou.\\
+\textbf{R:, *., R:}
+
+\verse{4}Přišla bouře, zlámala jim pádla, vesla,\\
+kocábku náram-, náramnou,\\
+tu přilétla holubice, snítku nesla,\\
+kocábku náram-, náramnou.
+
+\verse{5}Na břehu pak vyložili náklad celý,\\
+kocábku náram-, náramnou,\\
+ještě že tu starou dobrou archu měli,\\
+kocábku náram-, náramnou.\\
+\textbf{R:, *., R:, R:}\\
+}
+

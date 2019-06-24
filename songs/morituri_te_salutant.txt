@@ -1,0 +1,37 @@
+\toftagthis{kryl}
+\song{Morituri te salutant}{Karel Kryl}{24pt}{0.87}{
+\crdheight=2.3ex
+\verse{1}Cesta je \Am{}prach a \G{}štěrk a \Dm{}udusaná \Am{}hlína\\
+\C{}a šedé \F{}šmouhy \G[7]{}kreslí do vla\C{}sů\\
+\revrpt{} a z hvězdných \F{}drah má \G{}šperk, co \C{}kamením se \E{}spíná,\\
+\Am{}a pírka \G{}touhy z \Em{}křídel pega\Am{}sů. \rpt{}
+
+\vskip -2ex
+\verse{2}Cesta je bič, je zlá, jak pouliční dáma,\\
+má v ruce štítky, v pase staniol\\
+\revrpt{} a z očí chtíč jí plá, když háže do neznáma\\
+dvě křehké snítky rudých gladiol. \rpt{}
+
+\vskip -2ex
+\chorus{}Seržante, \G{}písek je bílý, jak paže Daniely,\\
+\Am{}počkejte chvíli, mé oči uviděly\\
+\G[7]{}tu strašně dávnou vteřinu zapomnění,\\
+\Am{}seržante, mávnou \G[7]{}a budem zasvěceni!\\
+\C{}Morituri te salutant\E{}, morituri te salutant\ldots{}
+
+\vskip -2ex
+\verse{3}Tou cestou dál jsem šel, kde na zemi se zmítá\\
+a písek víří křídla holubí\\
+\revrpt{} a marš mi hrál zvuk děl, co uklidnění skýtá,\\
+a zvedá chmýří, které zahubí. \rpt{}
+
+\vskip -2ex
+\verse{4}Cesta je tér a prach a udusaná hlína,\\
+mosazná včelka od vlkodlaka,\\
+\revrpt{} rezavý kvér -- můj brach a sto let stará špína\\
+a děsně velká bíla oblaka. \rpt{}\\
+\textbf{R:}
+}
+
+
+

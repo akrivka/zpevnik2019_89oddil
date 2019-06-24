@@ -1,0 +1,26 @@
+\toftagthis{hlas}
+\song{Na kolena}{Ivan Hlas}{45pt}{1}{
+\verse{1}Táhněte \C{}do háje, všichni \Am{}pryč,\\
+chtěl jsem jít \C{}do ráje a nemám \Am{}klíč,\\
+jak si tu \C{}můžete takhle \Am{}žrát,\\
+ztratil jsem \F{}holku, co ji mám \G{}rád. 
+
+\verse{2}Napravo, nalevo, nebudu mít klid,\\
+dala mi najevo, že mě nechce mít,\\
+zbitej a špinavej tancuju sám,\\
+váš pohled káravej už dávno znám.\\
+~\\
+\chorus{}Pořád jen:\\
+\revrpt{} \F{}na kolena, na kolena, \rpt{} \ \C{}jé jé jé, pořád jen\\
+\revrpt{} \F{}na kolena, na kolena, \rpt{} \ \C{}jé jé jé, pořád jen\\
+\revrpt{} \F{}na kolena, na kolena, \rpt{} \ \C{} je to \Am{}tak,\\
+a vaše \F{}saka vám posere \G{}pták.\\
+~\\
+\newpage
+\verse{3}Cigáro do koutku si klidně dám,\\
+tuhletu pochoutku vychutnám sám,\\
+kašlu vám na bonton, vejmysly chytrejch hlav,\\
+sere mě Tichej Don a ten váš tupej dav.\\
+\textbf{R: }+ \ldots{}a tenhle barák vám posere pták.\\
+}
+

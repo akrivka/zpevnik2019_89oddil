@@ -1,0 +1,23 @@
+\toftagthis{ceskekapely}
+\song{Voda živá}{Aneta Langerová}{15pt}{1}{
+\verse{1}Když \F{}končí se den a usne má zem, pak \C{}na malou chvíli\\
+\F{}vrací se zpět můj niterný svět, co \C{}osud tvůj sdílí.\\
+Do všech \Gm{}světových stran, do všech koutů co znám\Bb{} \hskip 1em \C{}\\
+vo\F{}lám.
+
+\verse{2}\textls[-10]{Když přichází noc, tak cítím, jak moc tvé světlo mi schází,}\\
+\textls[-15]{promítne krátce svůj stín někde v dálce, tvá duše se ztrácí.}\\
+Zdá se nezbylo nic, jenže čím dál tím víc\ldots{}
+
+\chorus{}Ve mně navždy z\F{}ůstává tvoje voda živ\C{}á,\\
+uvnitř odpočív\Dm{}á, čistá a důvěřiv\Bb{}á.\\
+Ve mně navždy z\F{}ůstává tvoje voda živ\C{}á,\\
+tiše odplouv\Dm{}á, čistá a důvěřiv\Bb{}á. \hskip 0.5em \C{}
+
+\verse{3}Když končí se den a usne má zem, nevnímám čas,\\
+vrací se zpět můj niterný svět, snad probudí nás.\\
+Zdá se nezbylo nic, jenže čím dál tím víc\ldots{}\\
+\textbf{R: $(2\times)$}
+}
+
+

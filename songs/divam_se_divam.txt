@@ -1,0 +1,48 @@
+\toftagthis{hapka}
+\song{Dívám se, dívám}{Petr Hapka / Michal Horáček}{12pt}{1}{
+\verse{1}\D{}Dívám se, dívám a ty \A{}spíš, matně se leskne malý \G{}kříž.\\
+Stoupá a klesá tvoje hruď\\
+a já si říkám: \uv{Bůh jen \D{}suď, Bůh jen \A{}suď.}
+
+\verse{2}Zdali, až jednou blýskne se a vítr liják přinese,\\
+vezmeš mě k teplu pod svůj plášť.\\
+Jestli to pro mě uděláš?
+
+\verse{*}\D{}Když budu sedět nehnu\A{}tě a zase \D[maj]{}znovu zklamu \E{}tě\\
+svým dojmem, že jsem na pouš\D{}ti\\
+a že mě štěstí opouš\A{}tí,\hskip 1em \E{}
+
+\verse{3}\D{}Zeptáš se: \uv{Kam jsi oči \A{}dal? Tvá šťastná hvězda svítí \G{}dál!\\
+Jdi za ní, já tu držím stráž\ldots}\\
+\chorus{}\revrpt{} \D{}Tak se \G[maj]{}ptám, jestli to \A{}uděláš, \rpt{}\\
+pro mě \D{}uděláš.
+
+\verse{4}\F{}Co když se těžce zadlu\C{}žím? I ten kříž prodáš? Co já \Bb{}vím.\\
+Když mě mé masky unaví,\\
+stáhneš mě k sobě do trá\F{}vy, do trá\C{}vy.
+
+\verse{5}\uv{A klidně řekneš hroznou lež: Na svoje léta hezkej seš.\\
+Před sebou ještě všechno máš\ldots}\\
+Jestli to pro mě uděláš?
+
+\verse{*}\F{}Co když mě zapřou přáte\C{}lé a budu s \F[maj]{}cejchem na \G{}čele\\
+podroben strašné žalo\F{}bě? Vzkážeš mi: \uv{Stojím při to\C{}bě!\\
+Jen při to\G{}bě.
+
+\verse{6}Jediná vždycky budu stát i když ti celý svět dá mat.\\
+Věřím ti všecko. Braň se, snaž\ldots}\\
+\chorus{}\revrpt{} \F{}Jen se \Bb[maj]{}ptám, zda to \C{}uděláš. \rpt{}\\
+Pro mě udě\F{}láš.
+
+\verse{7}\D{}Stou\CHORD{\ldots}{}pá a klesá tvoje hruď, tak spolehlivě jako rtuť,\\
+na teploměru našich dní,\\
+ráno svět zuby vycení, vycení.
+
+\verse{8}A mně se mnohé nezdaří, ale tvé prsty po tváři\\
+mi zvolna přejdou, každý zvlášť.\\
+\chorus{}Vím, že to pro mě uděláš.\\
+Já vím, že to pro mě uděláš.\\
+Všechno uděláš.
+}
+
+

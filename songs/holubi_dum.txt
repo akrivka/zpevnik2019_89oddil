@@ -1,0 +1,34 @@
+\toftagthis{schelinger}
+\song{Holubí dům}{Jiří Schelinger}{60pt}{0.93}{
+\crdheight=2.3ex
+\verse{1}{}\Em{}Zpí - \D{}vám \C[maj7]{}ptákům a \Hm[7]{}zvlášť holu\Em{}bům,\\
+stá\D{}val v \C[maj7]{}údolím \Hm[7]{}mém starý \Em{}dům. \emph{\normalsize \textbf{Fine}}\\
+\G{}Ptá\D{}ků \G{}houf zalé\D{}tal ke kro\G{}vům,\\
+\Em{}měl\ \ \D{}jsem \C[maj7]{}rád holu\Hm[7]{}bích křídel \Em{}šum.
+
+\vskip -2ex
+\verse{2}{}Vlídná dívka jim házela hrách,\\
+mávání perutí víří prach.\\
+Ptáci krouží a neznají strach,\\
+měl jsem rád starý dům, jeho práh.
+
+\vskip -2ex
+\chorus{}Hledám \Am[7]{}dům holu\D{}bí, kdopak z \G{}vás cestu \Em{}ví?\\
+Míval \Am[7]{}stáj roube\D{}nou, bílý \G{}štít.\\
+Kde je \Am[7]{}dům holu\D{}bí a ta \G{}dívka kde \Em{}spí?\\
+Vždyť to \Am[7]{}ví, že jsem \Hm{}chtěl pro ni \Em{}žít.
+
+\verse{3}{}Sdílný déšť vypráví okapům,\\
+bláhový, kdo hledá tenhle dům.\\
+Odrůstáš chlapeckým střevícům,\\
+měl jsem rád holubích křídel šum.
+
+\newpage
+\verse{4}{}Nabízej úplatou cokoli,\\
+nepojíš cukrových homolí.\\
+Můžeš mít třeba zrak sokolí,\\
+nespatříš ztracené údolí.\\
+\textbf{R: + 1. al Fine}\\
+}
+
+

@@ -1,0 +1,30 @@
+\toftagthis{nohavica}
+\song{Petěrburg}{Jaromír Nohavica}{12pt}{0.92}{
+\textls[-20]{\verse{1}\Am{}Když se snáší noc na střechy Petěrburgu, \F{}padá \E{}na mě \Am{}žal,\\
+\textls[-35]{zatoulaný pes nevzal si ani kůrku \F{}chleba, kterou \E{}jsem mu \Am{}dal.}
+
+\chorus{}\revrpt{} \C{}Lásku moji \Dm{}kníže I\E{}gor si bere,\\
+\F{}nad sklenkou \Ds[dim]{}vodky \hskip 0.5em \H[7]{}hraju si \E{}s revolverem,\\
+\Am{}havran usedá na střechy Petěrburgu, \F{}čert a\E{}by to \Am{}spral. \rpt{}
+
+\textsl{Mezihra (akordy sloka + 2$\times$ ref.)} 
+
+\verse{2}Nad obzorem letí ptáci slepí v záři červánků,\\
+moje duše, široširá stepi, máš na kahánku.
+
+\chorus{}\revrpt{} Mému žalu na světě není rovno,\\
+vy jste tím vinna, Naděždo Ivanovno,\\
+vy jste tím vinna, až mě zítra najdou s dírou ve spánku. \rpt{}\\}
+\noexport{
+~\\
+\hskip -17pt \textbf{\large Mezihra:}
+\vskip -2pt
+
+\begin{figure}[h]
+\leftskip -5pt
+\includegraphics[width=370pt, height=133pt]{res/peterburg.pdf}
+\vskip -15pt
+\end{figure}
+}
+}
+

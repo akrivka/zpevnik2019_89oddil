@@ -1,0 +1,42 @@
+\toftagthis{nohavica}
+\song{Pijte vodu}{Jaromír Nohavica}{65pt}{0.88}{
+\chorus{}\revrpt{} \C{}Pijte vodu, pijte pitnou vodu,\\
+pijte vodu a \G[7]{}nepijte \C{}rum. \rpt{}
+
+\vskip -1ex
+\verse{1}Jeden smutný ajznboňák\\
+pil na pátém nástupišti Air Cognac.\\
+Huba se mu slepila,\\
+diesel lokomotiva ho zabila.\\
+\textbf{R:}
+
+\vskip -1.5ex
+\verse{2} V rodině u Becherů\\
+pijou becherovku přímo ze džberů.\\
+Proto všichni Becheři\\
+mají trable s játrama a páteří.\\
+\textbf{R:}
+
+\vskip -1.5ex
+\verse{3}Pil som vodku značky Gorbatschow\\
+a potom povedal som všeličo a volačo.\\
+Vyfásol som za to tri roky,\\
+teraz pijem chlorované patoky.\\
+\textbf{R:}
+
+\vskip -1.5ex
+\verse{4}Jesteśmy chłopci z Warszawy,\\
+jeżdżimy pociągiem za robotą do Ostrawy.\\
+Cztery litry wódki a mnóstwo piw,\\
+po prostu bardzo fajny kolektyw.\\
+\textbf{R:}
+
+\vskip -1.5ex
+\verse{5}Jedna paní v Americe\\
+ztrapnila se převelice.\\
+Vypila na ex rum\\
+a poblila jim Bílý dům.\\
+\textbf{R:}\\
+}
+
+

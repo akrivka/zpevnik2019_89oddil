@@ -1,0 +1,26 @@
+\toftagthis{slovenske}
+\song{Reklama na ticho}{Team}{50pt}{1}{
+\verse{1}\Am{}Reklamu na ticho dnes v telke dávajú,\\
+každý z nás spozornie, \F{}len čo zbadá \G{}ju.\\
+Reklamu na ticho, ten súčasný hit,\\
+krásnym tichom z dovozu naplňte svoj byt. 
+
+\chorus{}\F{}Môžete \G{}ho zohnať \C{}len pod rukou,\\
+\F{}nádherné\G{} ticho \C{}hôr.\\
+\F{}Výberové \G{}ticho\C{} so zárukou,\\
+\F{}získa ho \G{}kto príde \Am{}skôr. 
+
+\verse{2}Pred Tuzákom stojí rad, dlhý, pomalý,\\
+v tlačenici musíš stáť -- ticho dostali,\\
+v konzervách a plechovkách od Coca Coly,\\
+také čerstvé ticho, ach, až to zabolí.\\
+\textbf{R:}
+
+\verse{*}\Am{}Reklama na \Em{}ticho \Am{}zo všetkých str\Em{}án znie,\\
+\Am{}vo farbe a \Em{}s hudbou -- \F{}je to úža\G{}sné.\\
+Decibely hluku to ticho znásobí,\\
+minulo sa ticho, nie sú zásoby.\\
+\textbf{R: $(2\times)$}
+}
+
+

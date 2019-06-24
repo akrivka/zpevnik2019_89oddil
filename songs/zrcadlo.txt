@@ -1,0 +1,29 @@
+\toftagthis{cernoch}
+\song{Zrcadlo}{Karel Černoch}{40pt}{0.95}{
+\chorus{}\G{}Tap tap \D{}ta dada\G{}\ldots{} \hskip 1em \D{} 
+
+\verse{1}\G{}Na svůj \D{}obraz se \G{}dívám\D{}, \hskip 1em \G{}soudím, \D{}že ránu \G{}mám, \D{}\\
+píseň o tváři zpívám a jak se tak dívám,\\
+už se nepoznám.\\
+\C{}Já-á-á-á \CHORD{--}{}už dvanáct \G{}dní svůj obraz \D{}nevšední,\\
+sleduji po \C{}ránu, stojí to \D{}za, no za ránu.\\
+\chorus{}Tap tap ta dada\ldots{}
+
+\verse{2}Nad svým obrazem zoufám, slzy ve vočích mám,\\
+chvíli si rozbít ho troufám a chvíli zas doufám,\\
+že kazí ho rám.\\
+Dá-á-ám si kafe do jedu a klapky na oči,\\
+a nohy do ledu, snad se to vo, no votočí.\\
+\chorus{}Tap tap ta dada\ldots{}
+
+\rec{Inzerát: Najmu muže, raději několik, s vlastním\\ krumpáčem. Značka: Střepy přinášejí štěstí!} 
+
+\verse{3} Nad svým obrazem zoufám, slzy ve vočích mám,\\
+chvíli si rozbít ho troufám a chvíli zas doufám,\\
+že kazí ho rám.\\
+Já-á-á-á sním doma o tváři, co dívkam zazáří,\\
+a nechci zrcadlo, teď mě to po, no popadlo.\\
+\chorus{}Tap tap ta dada\ldots{}\\
+}
+
+

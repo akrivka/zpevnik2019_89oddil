@@ -1,0 +1,30 @@
+\toftagthis{ceskekapely}
+\song{Velmi nesmělá}{Jablkoň}{30pt}{0.9}{
+\verse{1}\Am{}Potkali se v pondělí,\G{} \hskip 1em \Am{} \hskip 1em byli velmi nesmělí\G{} \hskip 1em \E{}\\
+\C{}a tak oba dělali,\G{} \hskip 1em \E{} \hskip 1em \Am{}jako by se neznali.\C{} \hskip 1em \E{} \hskip 1em \Am{}\\
+\verse{2}V úterý sebral odvahu, odhodlal se k pozdravu\\
+a pak v citové panice prchali oba k mamince. 
+
+\chorus{}\C{}Sema\E{}for popásá\Am{} chodce\F{}, motorky, \C{}auta, \G{}tramva\C{}je\\
+\C{}a všechny \E{}cesty dneska \Am{}vedou\F{} \hskip 0.8em \C{}do pekla i \G{}do rá\Am{}je,\\
+\C{}do pekla i \G{}do rá\C{}je.
+
+\verse{3}Ve středu spolu postáli, dívali se do dáli\\
+a do dáli se dívali i když už spolu nestáli.\\
+\verse{4}Ve čtvrtek přišel první zvrat, prohlásil že má ji rád\\
+a ona špitla do ticha, že na ni moc pospíchá.\\
+\textbf{R:} 
+
+\verse{5}V pátek to vzal útokem, jak tak šli krok za krokem,\\
+přesně v šestnáct dvacet pět zavadil loktem o loket.\\
+\verse{6}V sobotu ji chyt za ruku, hlavou jí kmitlo je to tu\\
+a jak hodiny běžely, drželi se drželi.\\
+\textbf{R:}
+
+\verse{7}V neděli už věděli, že jsou možná dospělí\\
+a tak při sedmém pokusu dal jí pusu na pusu.\\
+\verse{8}Když zas přišlo pondělí, tak příšerně se styděli,\\
+\revrpt{} že oba dva dělali, jakoby se neznali. \rpt{}\\
+}
+
+

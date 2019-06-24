@@ -1,0 +1,61 @@
+\toftagthis{anglicke}
+\song{Rolling in the Deep}{Adele}{15pt}{0.95}{
+\capo{3}
+\crdheight=2.2ex
+\verse{1}\Am{}There's a fire \Em{}starting in my heart,\\
+\G{}reaching a fever pitch and it's \Em{}bringing me out the \G{}dark\\
+Finally, I can see you crystal clear.\\
+Go ahead and sell me out and I'll lay your ship bare.
+
+\vskip -1.3ex
+See how I leave, with every piece of you\\
+Don't underestimate the things that I will do.\\
+There's a fire starting in my heart,\\
+Reaching a fever pitch and it's bringing me out the dark
+
+\vskip -1ex
+\verse{*}\F{}The scars of \G{}your love, remind me \Em{}of us.\\
+They keep me \F{}thinking that we almost had it all\\
+The scars of your love, they leave me breathless\\
+I can't help \E{}feeling\\
+
+\vskip -1ex
+\chorus{}We could have had it \Am{}all \hskip 1em \G{}\\
+(I wish you never had met me)\\
+Rolling in the \F{}deep\\
+(Tears are gonna fall, rolling in the deep)\\
+Your \G{}had my heart in\Am{}side of your \G{}hand\\
+(I wish you never had met me)\\
+And you \F{}played it to the beat\G{}\\
+(Tears are gonna fall, rolling in the deep)\\
+
+\clearpage
+\verse{2}Baby I have no story to be told, but I've heard\\
+one of you and I'm gonna make your head burn.\\
+Think of me in the depths of your despair.\\
+\scalebox{0.95}[1]{Making a home down there, as mine sure won't be shared.}
+
+\vskip -1.3ex
+\verse{*}The scars of\ldots + \textbf{R:}\\
+\chorus{}We could have had it \F{}all, \G{} rolling in the \Am{}Deep \G{}\\
+Your had my heart in\F{}side of your hand\\
+And you \G{}played it to the beat 
+
+\verse{3}\Am{}Throw yourself through ever open door (Whoa)\\
+Count your blessings to find what look for (Whoa-uh)\\
+Turn my sorrow into treasured gold (Whoa)\\
+And pay me back in kind- You reap just what you sow.
+
+\chorus{}(\Am{}I wish you \G{}never had met me)\\
+We could have had it \F{}all\G{}\\
+(Tears are gonna fall, rolling in the deep)\\
+We could have had it \Am{}all yeah \G{}\\
+\F{}It all, it all, it all\ldots
+
+\chorus{}We could have\ldots $(2\times)$\\
+\vspace{8pt}
+\ldots but you \F{}played it, you played it, you played it\\
+You played it \G{}to the \Am{}beat.\\
+}
+
+

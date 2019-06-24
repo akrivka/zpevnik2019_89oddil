@@ -1,0 +1,39 @@
+\toftagthis{folk}
+\song{Tři kříže}{Hop Trop}{60pt}{0.95}{
+\verse{1}\Dm{}Dávám sbohem \C{}břehům prokla\Am{}tejm,\\
+který \Dm{}v drápech má \C{}ďábel \Dm{}sám.\\
+\Dm{}Bílou přídí \C{}šalupa \uv{My \Am{}Grave}\\
+míří \Dm{}k útesům, \C{}který \Dm{}znám.
+
+\chorus{}Jen tři \F{}kříže z bí\C{}lýho kame\Am{}ní\\
+někdo \Dm{}do písku \C{}posklá\Dm{}dal.\\
+Slzy \F{}v očích měl a \C{}v ruce znave\Am{}ný\\
+lodní \Dm{}deník, co \C{}sám do něj \Dm{}psal.
+
+\verse{2}První kříž má pod sebou jen hřích,\\
+samý pití a rvačky jen.\\
+Chřestot nožů, při kterým přejde smích,\\
+srdce kámen a jméno \uv{Stan}.\\
+\textbf{R:}
+\newpage
+
+\verse{3}Já, Bob Green, mám tváře zjizvený,\\
+štěkot psa zněl, když jsem se smál.\\
+Druhej kříž mám a spím pod zemí,\\
+že jsem falešný karty hrál.\\
+\textbf{R:}
+
+\verse{4}Třetí kříž snad vyvolá jen vztek,\\
+Fatty Rogers těm dvoum život vzal.\\
+Svědomí měl, vedle nich si klek'\ldots{}
+
+\rec{Snad se chtěl modlit: \uv{Vím, trestat je lidský,\\
+ale odpouštět božský. Snad mi tedy Bůh odpustí.}}
+
+\chorus{}Jen tři kříže z bílýho kamení\\
+jsem jim do písku poskládal.\\
+Slzy v očích měl a v ruce znavený\\
+lodní deník, a v něm, co jsem psal.\\
+}
+
+

@@ -1,0 +1,21 @@
+\toftagthis{folk}
+\song{Husličky}{Vlasta Redl}{30pt}{1}{
+\verse{1}{}\revrpt{} \A{}Čí že ste, husličky, \D{}či - \A{}e, \Hm{}kdo vás tu \Fsm{}zanech\E{}al? \rpt{}\\
+\Hm{}Na trávě pová\A{}lané\D{}, \hskip 0.8em  \Hm{}na trávě \E{}pová\A{}lané,\D{}\\
+\Hm{}u paty \Fsm{}oře - \E{}cha?\Hm{} \hskip 2.2em \Fsm{} \hskip 2.5em \E{}
+
+\verse{2}{}\revrpt{} A \A{}kdože tu trávu tak \D{}zvá\A{}lal, \Hm{}aj modré \Fsm{}fia \hskip 0.4em - \hskip 0.4em \E{}ly, \rpt{}\\
+\Hm{}že ste, hu\E{}sli - \E[/G$\sharp$]{}čky, \hskip 1em \A{}sa - \A[/C$\sharp$]{}mé, \hskip 1em \D{}\\
+\Hm{}že ste, hu\E{}sli - \E[/G$\sharp$]{}čky, \hskip 1em \A{}sa - \A[/C$\sharp$]{}mé, \hskip 1em \D{}\\
+\Hm{}na světě \Fsm{}zosta - \E{}ly?\Hm{} \hskip 2.2em \Fsm{} \hskip 2.5em \E{}
+
+\verse{3}{}\revrpt{} A který tu mládenec usnul a co sa mu přišlo zdát, \rpt{}\\
+co sa mu enem zdálo, bože, co sa mu enem zdálo,\\
+že už vjec nechtěl hrát?
+
+\verse{4}{}\revrpt{} Zahrajte, husličky, samy, zahrajte zvesela, \rpt{}\\
+až sa tá bude trápit, až sa tá bude trápit,\\
+která ho nechtěla.\\
+}
+
+

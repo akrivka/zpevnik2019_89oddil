@@ -1,0 +1,29 @@
+\toftagthis{olympic}
+\song{Dej mi víc své lásky}{Olympic}{30pt}{0.89}{
+\verse{1}{}\Em{}Vymyslel jsem spoustu nápadů, a\G{}úú\\
+co \Em{}podporujou hloupou nála\D{}du, a\H[7]{}úú,\\
+\Em{}hodit klíče do kanálu, \A{}sjet po zadku \Am{}holou skálu,\\
+\Em{}v noci chodit \H[7]{}strašit do hra\Em{}du.
+
+\verse{2}{}Dám si dvoje housle pod bradu, aúú,\\
+v bíle plachtě chodím pozadu, aúú,\\
+úplně melancholicky, s citem pro věc, jako vždycky,\\
+vyrábím tu hradní záhadu, a\D[7]{}úú.
+
+\vskip -1ex
+\chorus{} \G{}Má drahá, dej mi víc, \H[7]{}má drahá, dej mi víc,\\
+\Em{}má drahá, \C{}dej mi víc své \G{}lásky, a\D[7]{}úú.\\
+\G{}Já nechci skoro nic, \H[7]{}já nechci skoro nic,\\
+\Em{}já chci jen \C{}pohladit tvé \G{}vlásky, a\H[7]{}úú!
+
+\newpage
+
+\verse{3}{}Nejlepší z těch divnejch nápadů, aúú,\\
+mi dokonale zvednul náladu, aúú,\\
+natrhám ti sedmikrásky, tebe celou s tvými vlásky\\
+zamknu si na sedm západů, aúú.\\
+\textbf{R:}
+
+\verse{4. = 3}{}\ldots{}+ aúú, aúú, aúú, aúú. 
+}
+

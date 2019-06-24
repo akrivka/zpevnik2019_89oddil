@@ -1,0 +1,42 @@
+\toftagthis{anglicke}
+\song{Tears in Heaven}{Eric Clapton}{70pt}{0.85}{
+\verse{1}\A{}Would you \E[/G$\sharp$]{} know my \Fsm{}name\\
+\D[/F$\sharp$] if \hskip 0.2em I \hskip 0.2em s\A[/E]aw you in \E{}heaven?\\
+Would it be the same\\
+if I saw you in heaven?
+
+\chorus{}\Fsm{}I must be \Cs[/F]{}strong,\A[7/E]{} and carry \Fs{}on,\\
+'cause I \Hm[7]{}know I don't be\E[7sus4]{}long\\
+here in hea\A{}ven.
+
+\verse{2}Would you hold my hand\\
+if I saw you in heaven?\\
+Would you help me stand\\
+if I saw you in heaven?
+
+\chorus{}I'll find my way, through night and day,\\
+'cause I know I just can't stay\\
+here in heaven.
+
+\verse{*}\C{}Time can \G[/H]{}bring you \Am{}down,\\
+time can \D[/F$\sharp$]{}bend your \G{}knee.\D[/F$\sharp$]{} \hskip 2.5em \Em{} \hskip 2em \D[/F$\sharp$]{} \hskip 2.5em \G{}\\
+Time can break your heart,\\
+have you begging, please,\\
+begging, please.\\
+\vskip 7pt
+(instrumental)\\
+\vskip 10pt
+
+\clearpage
+\chorus{}Beyond the door,\\
+there's peace I'm sure.\\
+And I know there'll be no more\\
+tears in heaven.
+
+\verse{3. = 1}\\
+\textbf{R: + }Cause I know I don't belong\\
+here in heaven.\\}
+
+
+
+

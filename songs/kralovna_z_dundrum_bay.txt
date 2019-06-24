@@ -1,0 +1,32 @@
+\toftagthis{nedvedi}
+\song{Královna z Dundrum Bay}{Bratři Nedvědi}{30pt}{1}{
+\verse{1}{}
+Kdo ji \Em{}prvně zřel, ten k ní \G{} zaho\D{}řel\\
+možná \G{}obdivem, \Em{}možná \D{}víc.\\
+Její \Em{}ladný krok, její \G{}oblý \D{}bok,\\
+nejhez\G{}čí ze všech \C{}kra\D{}sa\Em{}vic.\\
+\revrpt{} Já šel \G{} na statek, hned si \D{} o ní řek:\\
+Tu chci \G{}mít, pane \Em{}tu mi \D{}dej\\
+Divný \Em{}jméno má, každý \G{}z nás ji \D{} zná\\
+jako \Em{} Královnu z \C{}Dun\D{}drum \Em{} Bay \rpt\\
+~\\
+\verse{2}{}
+Bože rozmilý mi si užili,\\
+brzo nás v kraji každej znal.\\
+Jenže po pár dnech se ji zrychlil dech\\
+ a já doktora zavolal.\\ 
+\revrpt{} Dlouho stonala, než mi skonala,\\
+lehkou hlínu ji Pánbůh dej,\\
+vždyť to nebyla jenom kobyla,\\
+ale královna z Dundrum Bay. \rpt \\
+~\\
+\verse{3}{}
+Letos na jaře potkám koňaře,\\
+vede klisničku jako sen,\\
+zas ten ladný krok, zas ten oblý bok\\
+a já stál jako přimrazen.\\
+\revrpt{} Až mi v sobotu dají vejplatu,\\
+zeptám se zda je na prodej\\
+a pak budu pít na to, že smím mít,\\
+zase královnu z Dundrum Bay.\rpt \\
+}

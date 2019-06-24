@@ -1,0 +1,28 @@
+\toftagthis{vw}
+\song{Klobouk ve křoví}{J. Ježek / V+W}{100pt}{0.93}{
+\crdheight=2.2ex
+\verse{1}{}\C{}Vítr \Bb[9]{}vane \C{}pouští,\G[+7]{}\\
+\C{}po písku \Bb[9]{}žene klo\C{}bouk,\C[7]{}\\
+\Fm{}zahnal \G[7]{}ho do \C{}houští,\Am{}\\
+\Fm{}starý a \G[7]{}černý klo\C{}bouk.\G[7]{}
+
+\vskip -1ex
+\verse{2}{}Kdepak je ta hlava,\\
+která klobouk nosila?\\
+\F{}Byla čer\G[7]{}ná či \C{}plavá?\Am{}\\
+\Fm{}Komu a\G[7]{}si patři\C{}la? \Am{}
+
+\vskip -1ex
+\verse{3}{}\Em{}Kdo to v poušti \F{}zmizel?\\
+\Em{}Odkud šel a \A[7]{}kam?\\
+\G{}Jaký to měl \A[dim]{}svízel,\\
+\G{}že byl v \F[7]{}pou\Gb[7]{}šti \hskip 1em \G[7]{}sám?\G[+7]{}
+
+\vskip -1ex
+\verse{4}{}\C{}Jen za\Ab{}váté \C{}stopy,\G[+7]{}\\
+\C{}starý klo\Bb[9]{}bouk ve křo\A[7]{}ví.\\
+\Dm{}Nikdo nic \G[7]{}nepo\C{}chopí,\\
+\Fm{}nikdo se \Ab[7]{}nic \hskip 1em \Ab[7]{}ne - \G[7]{}do - \C{}ví. \hskip 0.3em \C[6]{}\\
+}
+
+

@@ -1,0 +1,42 @@
+\toftagthis{anglicke}
+\song{Leaving on a Jet Plane}{John Denver}{50pt}{1}{
+\verse{1}All my \C{}bags are packed, I'm \F{}ready to go,\\
+I'm \C{}standing here out\F{}side your door,\\
+I \C{}hate to wake you \F{}up to say good\G{}bye. 
+
+\verse{2}But the dawn is breaking, it's early morn,\\
+the taxi's waiting, he's blowing his horn,\\
+already, I'm so lonesome I could die. 
+
+\chorus{}So kiss me and smile for me,\\
+tell me that you'll wait for me,\\
+hold me like you'll never let me go. 
+
+'Cause I'm leaving on a jet plane,\\
+don't know when I'll be back again,\\
+oh, babe, I hate to go. 
+
+\verse{3}{}There's so many times I've let you down,\\
+so many times I've played around,\\
+I tell you now they don't mean a thing. 
+
+\verse{4}Every place I'll go I think of you,\\
+every song I sing I'll sing for you,\\
+when I come back,  I'll bring your wedding ring.\\
+\textbf{R:} 
+\clearpage
+\verse{5}{}Now the time has come to leave you,\\
+one more time let me kiss you,\\
+then close your eyes, I'll be on my way. 
+
+\verse{6} Dream about the days to come,\\
+when I won't have to leave alone,\\
+about the times, I won't have to say.\\
+\textbf{R: + $\downarrow$}
+
+I'm leaving on a jet plane,\\
+don't know when I'll be back again,\\
+oh, babe, I hate to go.\\
+}
+
+

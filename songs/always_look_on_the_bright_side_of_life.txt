@@ -1,0 +1,64 @@
+\toftagthis{anglicke}
+\song{Always Look on the Bright Side of Life}{Monty Python}{15pt}{1}{
+\verse{1}{}\D[13]{}Some \C[maj]{}things in life are \Cm[13]{}bad,\\
+they can \G[maj]{}really make you \C[maj]{}mad,\\
+\D[add9]{}other things just \Am[11]{}make you swear and \G[maj13]{}curse.\\
+When you're \C[maj]{}chewing on life's \Cm[13]{}gristle,\\
+don't \G[maj]{}grumble, give a \E[7]{}whistle,\\
+and \A[13]{}this'll help things turn out for the \D[13]{}best! And\ldots{}
+\smallskip
+
+\chorus{}\G{}Always \Em{}look on the \Am[7]{}bright \D[7]{}side of \G{}life!\Em{}\hskip 2.2em \Am[7]{}\hskip 2.8em \D[7]{}\\
+Always look on the light side of life!
+
+\verse{2}{}\textls[-25]{If \Am[7]{}life seems jolly \D[7]{}rotten, there's \G{}something you've for\Em{}gotten}\\
+and \Am[7]{}that's to laugh and \D[7]{}smile and dance and \G{}sing.\\
+When you're \Am[7]{}feeling in the \D[7]{}dumps, \G{}don't be, silly \Em{}chumps,\\
+\Am[7]{}just purse your lips and whistle -- that's the \D[7]{}thing.
+
+\chorus{}And always look on the bright side of life!\\
+Always look on the light side of life!
+\clearpage
+\verse{3}{}For life is quite absurd and death's the final word,\\
+you must always face the curtain with a bow.\\
+Forget about your sin -- give the audience a grin,\\
+enjoy it -- it's your last chance anyhow.
+
+\chorus{}So always look on the bright side of death!\\
+Just before you draw your terminal breath!
+
+\verse{4}{}Life's a piece of shit when you look at it,\\
+life's a laugh and death's a joke, it's true.\\
+You'll see it's all a show, keep 'em laughing as you go,\\
+just remember that the last laugh is on you.
+
+\chorus{}And always look on the bright side of life!\\
+Always look on the right side of life!\\
+\emph{ (Come on guys, cheer up!)}\\
+\A{}Always \Fsm{}look on the \Hm{}bright \E[7]{}side of \A{}life!\Fsm{} \hskip 2.5em  \Hm[7]{}\hskip 2.9em  \E[7]{}\\
+Always look on the bright side of life!\\
+\ldots
+\vfill
+\noexport{
+\hskip -20pt \textbf{Intro:}\\
+\leftskip 30pt
+\rightskip -10pt
+\hskip -50pt \begin{minipage}[t]{\textwidth} \chord{t 9}{x,p1,p2,p1,p4,n}{D13} \end{minipage}
+\hskip -15pt\begin{minipage}[t]{\textwidth}\chord{t 3}{x,p1,p3,p2,p3,p1}{Cmaj} \end{minipage}
+\hskip -15pt\begin{minipage}[t]{\textwidth}\chord{t 3}{x,p1,p3,p1,p2,p3}{Cmi13} \end{minipage}
+\hskip -15pt\begin{minipage}[t]{\textwidth}\chord{t 3}{p1,x,p2,p2,p1,x}{Gmaj} \end{minipage}
+\hskip -15pt\begin{minipage}[t]{\textwidth}\chord{t 3}{x,p1,p3,p2,p3,p1}{Cmaj} \end{minipage}
+\hskip -15pt\begin{minipage}[t]{\textwidth}\chord{t 5}{x,x,o,p1,p1,p1}{D9} \end{minipage}
+\hskip -15pt\begin{minipage}[t]{\textwidth}\chord{t 5}{x,x,o,p1,p4,p1}{Ami11} \end{minipage}\\
+\hskip -50pt\begin{minipage}[t]{\textwidth}\chord{t 3}{p1,x,p2,p2,p1,o}{Gmaj13} \end{minipage}
+\hskip -15pt\begin{minipage}[t]{\textwidth}\chord{t 3}{x,p1,p3,p2,p3,p1}{Cmaj} \end{minipage}
+\hskip -15pt\begin{minipage}[t]{\textwidth}\chord{t 3}{x,p1,p3,p1,p2,p3}{Cmi13} \end{minipage}
+\hskip -15pt\begin{minipage}[t]{\textwidth}\chord{t 3}{p1,x,p2,p2,p1,x}{Gmaj} \end{minipage}
+\hskip -15pt\begin{minipage}[t]{\textwidth}\chord{t}{o,p2,o,p1,p3,o}{E7} \end{minipage}
+\hskip -15pt\begin{minipage}[t]{\textwidth}\chord{t}{x,o,p2,o,p2,p2}{A13} \end{minipage}
+\hskip -15pt\begin{minipage}[t]{\textwidth}\chord{t 3}{x,p3,p2,p3,p1,x}{D13} \end{minipage}
+\vskip -20pt
+}
+}
+
+

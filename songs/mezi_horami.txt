@@ -1,0 +1,20 @@
+\toftagthis{cechomor}
+\song{Mezi horami}{Čechomor}{70pt}{1}{
+\capo{5}
+\verse{1}\revrpt{} \Em{}Mezi horami, lipka zelená, \rpt{}\\
+\revrpt{} \G{}zabili Janka, \D{}Janíčka, \Em{}Janka\\
+\Em{}miesto \D{}jele\Em{}ňa. \rpt{}
+
+\verse{2}\revrpt{} Keď ho zabili, zamordovali, \rpt{}\\
+\revrpt{}  na jeho hrobě, na jeho hrobě\\ 
+kříž postavili. \rpt{}
+
+\verse{3}\revrpt{} Ej, křížu, křížu, ukřižovaný, \rpt{}\\
+\revrpt{}  zde leží Janík, Janíček, Janík\\ 
+zamordovaný. \rpt{}
+
+\verse{4}\revrpt{} Tu šla Anička plakat Janíčka, \rpt{}\\
+\revrpt{}  hned na hrob padla a viac nevstala\\ 
+dobrá Anička. \rpt{}\\
+}
+

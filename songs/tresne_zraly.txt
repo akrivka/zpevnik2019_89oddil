@@ -1,0 +1,31 @@
+%\toftagthis{matuska}
+%\song{Třešně zrály}{Waldemar Matuška}{30pt}{0.85}{
+%\verse{1}\C{}Jó, třešně zrály, \G[7]{}zrovna třešně \C{}zrály,\\
+% \C{}sladký \E[7]{}třešně \Am{}zrály a \F{}teplej \G[7]{}vítr \C{}vál.\\
+%A já k horám v dáli, k modrejm horám v dáli,\\
+% sluncem, který pálí, tou dobou stádo hnal.\\
+%\chorus{}\C{}Jó, \G[7]{}třešně \Am{}zrály, \Dm[7]{}zrovna \G[7]{}třešně \C{}zrály,\\
+% \C{}sladký \E[7]{}třešně \Am{}zrá - \F{}ly a \Dm{}jak to \G[7]{}bylo \C{}dál? 
+%
+%\verse{2}Tam, jak je ta skála, ta velká bílá skála,\\
+% tak tam vám holka stála a bourák opodál.\\
+%A moc se na mě smála, zdálky už se smála,\\
+% i zblízka se pak smála a já se taky smál.\\
+%\textbf{R:}\\
+%\verse{3}Řekla, že mě má ráda, už dlouho mě má ráda,\\
+% dlouho mě má ráda, abych prej si ji vzal.\\
+%Ať nechám ty svý stáda, že léta pilně střádá,\\
+% jen abych ji měl rád a žil s ní jako král.\\
+%\textbf{R:}\\
+%\verse{4}Pokud je mi známo, já řek' jenom: \uv{Dámo,\\
+% milá hezká dámo, zač bych potom stál.\\
+% Ty můj typ nejsi, já mám svoji Gracie,\\
+% moji malou Gracie, a tý jsem srdce dal.}\\
+%\textbf{R:}\\
+%\verse{5}Jó, u tý skály dál třešně zrály,\\
+% modrý hory v dáli, teplej vítr vál.\\
+%A já od tý skály, od tý bílý skály,\\
+%v slunci, který pálí, jsem hnal svý stádo \C{}dá - \Ab{}á - \C{}ál.\\
+%
+%}
+

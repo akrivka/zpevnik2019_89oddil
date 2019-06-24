@@ -1,0 +1,38 @@
+\toftagthis{filmove}
+\song{Slunečný hrob}{Blue Effect}{35pt}{0.80}{
+\rec{Usínám a chtěl bych se vrátit\\
+o nějakej ten rok zpátky,
+bejt zase malým klukem,\\
+kterej si rád hraje a~který je s tebou.}
+
+\vskip -1ex
+\leftskip 70pt
+\verse{1}\E{}Zdá se \Fsm{}mi, \hskip 1em \Gsm{} je to \hskip 0.4em \Fsm{}moc let,\\
+já byl kluk, kterej chtěl\\
+znáti svět, s tebou jsem si hrál.\\
+\verse{*}\textbf{\sffamily G6 \hskip 0.5em F$\sharp$7 \hskip 0.5em Fmaj7}
+
+\verse{2}Vrátím se a chtěl bych rád\\
+být s tebou, zavzpomínat,\\
+\E{}mám tu \Fsm{}teď \hskip 1em \Gsm{} ale \hskip 1em \Fsm{}zprávu \E{}zlou\E{}. \hskip 1em \E[7]{} \hskip 1.8em \E[7]{}
+
+\chorus{}\Csm{}Su \hskip 0.3em - \hskip 0.3em \Dsm{}chá \hskip 1em \A{}hlína \Gsm{}ta - dy, \hskip 0.2em \Fsm{}\\
+bez kvítí, bez vody,\\
+\Gsm{} já na ni \Fsm{}poklekám,\\
+\Gsm{}vzpomínkou po\H{}cta se vzdává.
+
+\verse{3}Loučím se a něco však\\
+tam zůstalo z těch našich dnů,\\
+já teď vím, věrný zůstanu.\\
+\textbf{R:}
+
+\vskip -1ex
+\verse{4}Loučím se\dots
+
+\leftskip 35pt
+\rec{Nemohu spát, probouzím se a zase se nemohu ubránit\\ myšlence,vrátit se o nějakej ten rok zpátky, bejt zase\\
+malým klukem, kterej si rád hraje, který je s \emph{\E[9]{}}tebou.}
+}
+
+
+

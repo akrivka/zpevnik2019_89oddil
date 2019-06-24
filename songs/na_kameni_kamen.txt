@@ -1,0 +1,27 @@
+\toftagthis{brontosauri}
+\song{Na kameni kámen}{Brontosauři}{40pt}{0.95}{
+\verse{1}Jako \C{}suchej starej strom,\\
+jako \F[maj]{}vše ničící hrom, jak v poli \C{}tráva,\C{}\\
+připadá mi ten náš svět,\\
+plnej \F[maj]{}řečí a čím \Am{}víc, tím \G{}líp se \C{}mám.\C{}
+
+\chorus{}Budem \F[maj]{}o něco se rvát,\\
+až tu \Am{}nezůstane \G{}stát na kameni \C{}kámen.\C{}\\
+A jestli \F[maj]{}není žádnej Bůh,\\
+tak nás \Am{}vezme země, vzduch, \G{}no a potom \C{}ámen.\C{}
+
+\verse{2}A to všechno proto jen,\\
+že pár pánů chce mít den bohatší králů.\\
+Přes všechna slova, co z nich jdou,\\
+hrabou pro kuličku svou, jen pro tu svou.\\
+\textbf{R:}
+
+\verse{3}Možná jen se mi to zdá\\
+a po těžký noci přijde, přijde hezký ráno.\\
+Jaký bude, nevím sám,\\
+taky jsem si zvyk na všechno kolem nás.\\
+\textbf{R:}\\
+Na na ná na ná na ná\ldots
+}
+
+

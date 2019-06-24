@@ -1,0 +1,21 @@
+\toftagthis{filmove}
+\song{Milenci v texaskách}{Starci na chmelu}{20pt}{1}{
+\verse{1}\D{}Chodili spolu z čisté \Hm{}lásky \G{}a sedmnáct jim bylo \Hm{}let \hskip 1em \A[7]{}\\
+\D{}a do té lásky bez nad\Hm{}sázky \G{}se vešel celý širý \Hm{}svět.\\
+\G{}Ten svět v nich \Em{}ale viděl \Fsm{}pásky \G{}a jak by mohl nevi\A[7]{}dět,\\
+\D{}vždyť horovali pro te\Hm{}xasky \G{}a sedmnáct jim bylo \Hm{}let.
+
+\verse{2}A v jedné zvláště slabé chvíli, za noci silných úkladů,\\
+ti dva se spolu oženili bez požehnání úřadů.\\
+Ať vám to je či není milé, měla ho ráda, měl ji rád,\\
+odpusťte dívce provinilé, jestli vám o to bude stát.
+
+\verse{3}\D{}Ať vám to je či není \E[sus4/7]{}milé, \hskip 3em \G[maj]{} měla ho ráda, měl ji \H[sus2]{}rád\\
+a bylo by moc pošetilé pro život hledat jízdní řád.\\
+\textls[-9]{\G{}Tak jeden \Em[add9]{}mladík s jednou \Fsm{}slečnou \G{}se spolu octli na tra\A[7]{}ti,}\\
+\D{}kéž dojedou až na ko\E[sus4/7]{}nečnou, \hskip 1em \G[maj]{}kéž na trati se nez\H[sus2]{}tratí,\\
+\G[maj]{} kéž na trati se neztra\H[sus2]{}tí,\\
+\G[maj]{} kéž na trati se neztra\H[sus2]{}tí\ldots{}
+}
+
+

@@ -1,0 +1,55 @@
+\toftagthis{hapka}
+\song{Šaškové počmáraní}{Petr Hapka / Michal Horáček}{70pt}{1}{
+\verse{1}\C{}Koukněte na toho \H[7]{}fintila,\\
+\Dm{}pod krkem žlutého \G[7]{}motýla,\\
+\Dm{}zelený klobouček \G[7]{}do týla\\
+\D[7]{}šoupne si \G[7]{}na bílou \C{}pleš. \G[+]{}
+
+\verse{2}I když ten tralalák padá mi,\\
+hlavně že vyhrávám barvami,\\
+hlavně že vyhrávám barvami,\\
+\D[7]{}zase jsem \G[7]{}šťastnej jak \C{}veš.\C[7]{}
+
+\chorus{}Co po mně \F{}chceš, pravdu či \Fm{}lež?\\
+Zkus ty dvě \C{}rozeznat a pak se \C[7]{}směj,\\
+barevný \F{}svět láme mi \Fm{}hřbet,\\
+\Em{}přesto chci být \Eb[dim]{}šašek \hskip 0.7em \Dm[7]{}počmára\G[7]{}nej.
+
+\verse{3}Ucho mi hryžou jak oplatku,\\
+s rozběhem kopou mě do zadku,\\
+tvrděj, že všechno je v pořádku,\\
+když mi daj' mizernej plat.
+
+\clearpage
+\verse{4}Když ale koukám se na lidi,\\
+všechno tak černě zas nevidím,\\
+všechno tak černě zas nevidím,\\
+ještě se dovedem smát.
+
+\chorus{}Ne že se snad není co bát,\\
+úzkost má tlapy jak Cassius Clay,\\
+ten věčný strach na miskách vah,\\
+převážit chce šašek počmáranej.
+
+\verse{5}Kampak chcem ve věku rozumu\\
+strkat prý své nosy na gumu,\\
+určitě od rumu z konzumu\\
+tak strašně červené jsou.
+
+\verse{6}Ptám se však tebe, náš osude,\\
+co bude, až tady nebude,\\
+co bude, až tady nebude,\\
+dojemně pitomá show.
+
+\chorus{}Bláhová show, šaškové jdou\\
+barevnou naději vytřískat z ní,\\
+hledáme brod uprostřed vod,\\
+my věční šaškové počmáraní.
+
+\verse{7}Ptám se však tebe, náš osude,\\
+co bude, až tady nebude,\\
+co bude, až tady nebude,\\
+dojemně pitomá show.\\
+}
+
+

@@ -1,0 +1,20 @@
+\toftagthis{plihal}
+\song{Ráda se miluje}{Karel Plíhal}{20pt}{1}{
+\vskip 15pt
+\chorus{}\Am{}Ráda se miluje,\G{} ráda \C{}jí, \F{}ráda si \Em{}jenom tak \Am{}zpívá,\\
+\Am{}vrabci se na plotě\G{} háda\C{}jí, \F{}kolik že \Em{}času jí \Am{}zbývá. 
+
+\verse{1}{}\F[maj]{}Než vítr dostrká \C[maj]{}k útesu \F[maj]{}tu její legrační \C{}bá\E{}rku\\
+a \Am{}Pámbu si ve svým\G{}note\C{}su \F{}udělá \Em{}jen další \Am{}čárku.\\
+\textbf{R: } 
+
+\verse{2}{}Psáno je v nebeské režii, a to hned na první stránce,\\
+že naše duše nás přežijí v jinačí tělesný schránce.\\
+\textbf{R: } 
+
+\verse{3}{}Úplně na konci paseky, tam, kde se ozvěna tříští,\\
+sedí šnek ve snacku pro šneky -- snad její podoba příští.\\
+\textbf{R: }\\
+}
+
+

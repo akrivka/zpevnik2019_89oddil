@@ -1,0 +1,27 @@
+\toftagthis{nohavica}
+\song{Zítra ráno v pět}{Jaromír Nohavica}{20pt}{1}{
+\verse{1}Až mě \Am{}zítra ráno v pět, \C{}ke zdi postaví,\\
+ješ\F{}tě si napos\G[7]{}led dám \C{}vodku na zdra\A[7]{}ví,\\
+z očí \Dm{}pásku strhnu \G[7]{}si, to abych \C{}viděl\C[/H]{} na ne\Am{}be\\
+a \Dm{}pak vzpomenu \E[7]{}si, \hskip 0.5em \Am{}lásko, na te\A[7]{}be,\hskip 0.2em\Dm{}\hskip 2.1em \G[7]{} \hskip 1.3em \C{} \hskip 0.8em \C[/H]{}\hskip 2em \Am{}\\
+a \Dm{}pak vzpomenu \E[7]{}si na te\Am{}be.
+
+\verse{2}Až zítra ráno v pět přijde ke mně kněz,\\
+řeknu mu, že se splet, že mně se nechce do nebes,\\
+že žil jsem, jak jsem žil, a stejně tak i dožiju\\
+a co jsem si nadrobil, to si i vypiju,\\
+a co jsem si nadrobil, si vypiju.
+
+\verse{3}Až zítra ráno v pět poručík řekne: \uv{Pal!},\\
+škoda bude těch let, kdy jsem tě nelíbal,\\
+ještě slunci zamávám, a potom líto přijde mi,\\
+že tě, lásko, nechávám samotnou tady na zemi,\\
+že tě, lásko, nechávám na zemi.
+
+\verse{4}Až zítra ráno v pět prádlo půjdeš prát\\
+a seno obracet, já u zdi budu stát,\\
+tak přilož na oheň a smutek v sobě skryj,\\
+prosím, nezapomeň, nezapomeň a žij,\\
+na mě nezapomeň a žij.\\
+}
+

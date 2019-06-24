@@ -1,0 +1,55 @@
+\toftagthis{nohavica}
+\song{Ladovská zima}{Jaromír Nohavica}{30pt}{1}{
+\capo{5}
+\verse{1}
+\C[add9]{}Za vločkou vločka\G[6]{} z oblohy padá,\\
+\D[sus2/F$\sharp$]{}chvilinku počká\G[6]{} a potom taje.\\
+Na staré sesli sedí pan Lada,\\
+obrázky kreslí zimního kraje.
+
+\chorus{}Ladovská zima za okny je\\
+a srdce jímá bílá nostalgie,\\
+ladovská zima, děti a sáně,\\
+a já jdu s nima do chrámu Páně.\\
+Bim bam bim bam bim bam\\
+bim bam bim bam bim.
+
+\rec{To mokré bílé svinstvo padá mi za límec,\\
+už čtvrtý měsíc v jednom kuse furt prosinec.\\
+Večer to odhážu, namažu záda,\\
+ráno se vzbudim a zas kurva padá.\\
+Děcka majú zmrzlé kosti,\\
+sáňkujú už jenom z povinnosti.\\
+Mrzne jak sviňa, třicet pod nulu,\\
+auto ani neškytne, hrudky se dělají v Mogulu.\\
+Kolony aut, krok, sun, krok,\\
+bo silničáři, tak jak každý rok,\\
+jsou překvapeni velice,\\
+že sníh zasypal jim silnice.\\
+Pendolino stojí kdesik u Polomi,\\
+zamrzly mu všecky CD-ROMy.\\
+A policajti? Ti to jistí z dálky,\\
+zalezlí do Aralky.}\\
+\textbf{R:}
+
+\rec{Na Vysočině zavřeli Dé jedničku,\\
+kamiony hrály na honičku,\\
+tzv. rallye Letní gumy,\\
+v tym kopcu u Meziříčí,\\
+spěchali s melounama a teď jsou v… (však víte kde).\\
+Na ČT1 Studio sníh,\\
+Voldanová sedí na saních.\\
+A v Praze kalamita jak na Sibiři,\\
+tři centimetry sněhu a u Muzea čtyři.\\
+Jak v dálce vidím zasněžený Říp,\\
+říkám si: Praotče Čechu, tys byl ale strašný cyp.\\
+Kdyby jsi popošel ještě o pár kilometrů dále,\\
+tak jsem se teďka mohl kdesi v teple v plavkách válet.\\
+Místo toho aby se člověk bál zajít do Tesca na nákupy,\\
+jak jsou tam na tych rovných střechách sněhu kupy.\\
+Do toho všeho jak mám zmrzlý nos aj líca,\\
+tak ještě z rádia provokatér Nohavica.\\}
+\textbf{R:}
+}
+
+

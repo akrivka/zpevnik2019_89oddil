@@ -1,0 +1,24 @@
+\toftagthis{buty}
+\song{Nad stádem koní}{Buty}{18pt}{1}{
+\verse{1}\D{}Nad stádem \textls[-35]{\A[sus4]{}}koní\hskip 0.3em - \hskip 0.3em \A{}í\hskip 0.6em \Em{} podkovy \G{}zvoní, zvoní,\\
+černý vůz vlečou a slzy tečou a já volám,\\
+\textls[-10]{tak neplač, můj kamaráde, náhoda je blbec, když krade.}\\
+Je tuhý jak veka a řeka ho splaví, máme ho rádi,\\
+no tak \C{}co, tak \G{}co, tak \A[sus4]{}co? \hskip 1.8em \A{}
+
+\verse{2}Vždycky si přál, až bude popel, i s kytarou\\
+vodou ať plavou, jen žádný hotel s křížkem nad hlavou.\\
+Až najdeš místo, kde je ten pramen a kámen, co praská,\\
+budeš mít jisto -- patří sem popel a každá láska,\\
+no tak co, tak co, tak co?
+
+\verse{3}Nad stádem koní podkovy zvoní, zvoní,\\
+černý vůz vlečou a slzy tečou a já šeptám,\\
+vysyp ten popel, kamaráde, do bílé vody, vody,\\
+vyhasnul kotel a náhoda je štěstí od podko\G{}vy\D{}.\hskip 0.6em \G{} \hskip 0.7em \D{} \hskip 0.6em \G{}
+
+\revrpt{}\G{} Vysyp ten \D{}popel, \A{}kamará\G{}de, \G{}do bílé \D{}vody, \A{}vo\G{}dy,\\
+\G{}vyhasnul \D{}kotel a \A{}náhoda je\Em{} štěstí \Em{}od podko\G{}vy\D{}.\hskip 0.6em \G{} \hskip 0.7em \D{} \hskip 0.6em \G{} \rpt{} $^{3\times}$\\
+}
+
+

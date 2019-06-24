@@ -1,0 +1,33 @@
+\toftagthis{ceskekapely}
+\song{Hrobař}{Premier}{70pt}{0.92}{
+\verse{1}{}V \G{}mládí jsem se učil hrobařem,\\
+\Em{}jezdit s hlínou, jezdit s trakařem,\\
+\C{}kopat hroby byl můj ide\D{}ál. 
+
+\verse{2}{}Jezdit s hlínou, jezdit s vozíkem,\\
+s černou rakví, bílým pomníkem,\\
+toho bych se nikdy nenadál.
+
+\verse{3}V mládí jsem se\dots
+
+\verse{4}Jezdit s hlínou\dots
+
+\verse{5}{}Že do módy přijde kremace,\\
+černý hrobař bude bez práce,\\
+toho bych se nikdy nenadál. 
+
+\verse{6}{}Kolem projel vůz milionáře,\\
+záblesk světel pad' mi do tváře,\\
+marně skřípěj' kola brzdící. 
+
+\verse{7}{}Stoupám vzhůru, stoupám ke hvězdám,\\
+tam se s černou rakví neshledám,\\
+sbohem, bílé město zářící. 
+
+\verse{8}{}Sbohem, moje město,\\
+vzpomínat budu přesto\\
+jak jsem poznal tvůj smích a tvůj pláč!\\
+Na na na\ldots{}\\
+
+}
+

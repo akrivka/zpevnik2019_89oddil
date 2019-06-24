@@ -1,0 +1,29 @@
+\toftagthis{nohavica}
+\song{Dokud se zpívá}{Jaromír Nohavica}{22pt}{1}{
+\verse{1}{}\C{}Z Těšína \Em{}vyjíždí \Dm[7]{}vlaky co \F{}čtvrthodi\C{}nu,\Em{} \hskip 2.1em  \Dm[7]{} \hskip 2.8em  \G[7]{}\\
+\C{}včera jsem \Em{}nespal a \Dm[7]{}ani dnes \F{}nespoči\C{}nu,\Em{} \hskip 2.1em  \D[7]{} \hskip 2.8em  \G[7]{}\\
+\F{}svatý \G{}Medard, můj \C{}patron, ťuká \Am{}si na če\G{}lo, \G{}\\
+ale \F{}dokud se \G{}zpívá, \F{}ještě se \G{}neumře\C{}lo. \Em{} \hskip 2.1em  \Dm[7]{} \hskip 2.8em  \G[7]{}
+
+\verse{2}{}Ve stánku koupím si housku a slané tyčky,\\
+srdce mám pro lásku a hlavu pro písničky,\\
+ze školy dobře vím, co by se dělat mělo,\\
+ale dokud se zpívá, ještě se neumřelo. 
+
+\verse{3}{}Do alba jízdenek lepím si další jednu,\\
+vyjel jsem před chvílí, konec je v nedohlednu,\\
+za oknem míhá se život jak leporelo,\\
+ale dokud se zpívá, ještě se neumřelo. 
+
+\verse{4}{}Stokrát jsem prohloupil a stokrát platil draze,\\
+houpe to, houpe to na housenkové dráze,\\
+i kdyby supi se slítali na mé tělo,\\
+tak dokud se zpívá, ještě se neumřelo. 
+
+\verse{5}{}Z Těšína vyjíždí vlaky až na kraj světa,\\
+zvedl jsem telefon a ptám se: \uv{Lidi, jste tam?}\\
+A z veliké dálky do uší mi zaznělo,\\
+\revrpt{} že dokud se zpívá, ještě se neumřelo. \rpt{}\\
+}
+
+

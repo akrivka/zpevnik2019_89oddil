@@ -1,0 +1,42 @@
+\toftagthis{nedvedi}
+\song{Stánky}{Nedvědi}{55pt}{1}{
+\verse{1}\D{}U stánků \G{}na levnou krásu,\\
+\D{}postávaj' a \Gm{}smějou se času\\
+\D{}s cigaretou a \A[7]{}s holkou, co nemá kam j\D{}ít.
+
+\verse{2}Skleniček pár a pár tahů z trávy,\\
+uteče den, jak večerní zprávy,\\
+neuměj' žít a bouřej' se a neposlouchaj'.
+
+\chorus{}\D[7]{} Jen\G{} zahlídli svět, maj' \A[7]{}na duši vrásky,\\
+tak \D{}málo je, tak \Gm{}málo je lásky,\\
+\D{}ztracená víra \A[7]{}hrozny z vinic neposbír\D{}á.
+
+\verse{3}U stánků na levnou krásu,\\
+postávaj' a ze slov a hlasů\\
+poznávám, jak málo jsme jim stačili dát.\\
+\textbf{R: $(2\times)$}\\
+}
+
+
+\song{Stín katedrál}{Karel Svoboda}{40pt}{1}{
+\verse{1}\A{}Stín \D{}katedrál, \A{}půl nebe s bůhví \G{}čím, \D{}jé \E{}jé,\\
+\A{}svůj \D{}ideál, \A{}sen, co si \H[7]{}dávám \E{}zdát.\E[7]{}\\
+Z úsměvů šál, dům nebo básní rým, jéjé\\
+jé, co ti dál, mám, řekni, dárkem dát.
+
+\chorus{}\C{}Přej si, co \D{}chceš, zlatý \G{}důl nebo \D{}věž,\\
+sladkou \C{}sůl, smutný \D{}ráj, suchý \G{}déšť. \G{}\\
+\C{}Ber, tady \D{}máš mořskou \G{}pláň nebo \D{}pláž,\\
+hudbu \C{}sfér, jenom \D{}ber se mnou \E{}též, \Hm[7]{}jé \hskip 1.8em \E[7]{}jé.
+
+\verse{2}\A{}Můj \D{}ideál, \A{}víš, to co já mám \G{}rád, \D{}jé \E{}jé,\\
+\A{}stín \D{}katedrál, \A{}sen, co si \H[7]{}k ránu \D{}dá - \E[7]{}vám \A{}zdát.\\
+\textbf{R:}
+
+\verse{3} Můj ideál, víš \dots
+
+\revrpt{} \H[7]{}Sen, co se \E{}nám bude \A{}zdát. \rpt{}\\
+}
+
+

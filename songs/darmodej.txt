@@ -1,0 +1,56 @@
+\toftagthis{nohavica}
+\song{Darmoděj}{Jaromír Nohavica}{25pt}{1}{
+\vskip 10pt
+\crdheight=2.9ex
+\verse{1}{}\Am{}Šel včera městem \Em{}muž a šel po hlavní \Am{}třídě,\Em{}\\
+\Am{}šel včera městem \Em{}muž a já ho z okna \Am{}viděl,\Em{}\\
+\C{}na flétnu chorál \G{}hrál, znělo to jako \Am{}zvon\\
+a byl v tom všechen \Em{}žal, ten krásný dlouhý \F{}tón,\\
+a já jsem náhle \Ds[dim]{}věděl: Ano, to je \E[7]{}on, to je \Am{}on. 
+
+\verse{2}{}Vyběh' jsem do ulic jen v noční košili,\\
+v odpadcích z popelnic krysy se honily\\
+a v teplých postelích lásky i nelásky\\
+tiše se vrtěly rodinné obrázky,\\
+a já chtěl odpověď na svoje otázky, otázky. 
+
+\chorus{}\Am{}Na na \Em{}na\ldots{}\C{} \hskip 1em \G{} \hskip 1em \Am{} \hskip 2em \F{} \hskip 1em \Ds[dim]{} \hskip 3em \E[7]{} \hskip 2.5em \CHORD{(2$\times$)}{}
+
+\verse{3}{}Dohnal jsem toho muže a chytl za kabát,\\
+měl kabát z hadí kůže, šel z něho divný chlad,\\
+a on se otočil a oči plné vran\\
+a jizvy u očí, celý byl pobodán,\\
+a já jsem náhle věděl, kdo je onen pán, onen pán. 
+
+\verse{4}{}Celý se strachem chvěl, když jsem tak k němu došel,\\
+a v ústech flétnu měl od Hieronyma Bosche,\\
+stál měsíc nad domy jak čírka ve vodě,\\
+jak moje svědomí, když zvrací v záchodě,\\
+a já jsem náhle věděl: to je Darmoděj, můj Darmoděj. 
+
+\chorus{}Můj Darmoděj, vagabund osudů a lásek,\\
+jenž prochází všemi sny, ale dnům vyhýbá se,\\
+můj Darmoděj, krásné zlo, jed má pod jazykem,\\
+když prodává po domech jehly se slovníkem. 
+
+\verse{5}{}Šel včera městem muž, podomní obchodník,\\
+šel, ale nejde už, krev skápla na chodník,\\
+já jeho flétnu vzal a zněla jako zvon\\
+a byl v tom všechen žal, ten krásný dlouhý tón,\\
+a já jsem náhle věděl: ano, já jsem on, já jsem\ldots{}  
+
+\chorus{}Váš Darmoděj, vagabund osudů a lásek,\\
+jenž prochází všemi sny, ale dnům vyhýbá se,\\
+váš Darmoděj, krásné zlo, jed mám pod jazykem,\\
+když prodávám po domech jehly se slovníkem.\\
+\noexport{
+~\\
+\textbf{Intro:}\\
+\vskip -15pt
+\begin{figure}[h!]
+\includegraphics[width=365pt, height=100pt ]{res/darmodej.pdf}
+\end{figure}
+}
+}
+
+

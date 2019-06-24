@@ -1,0 +1,54 @@
+\toftagthis{vw}
+\song{David a goliáš}{J. Ježek / V+W}{10pt}{0.99}{
+\crdheight=2.3ex
+\verse{1}{}\C{}Lidi na li\Am{}di jsou jako \F{}san\G[7]{}ě, \hskip 1em
+\C{}člověk na člo\Am{}věka jako \F{}kat\G[7]{},\\
+\C{}podívejte \A[7]{}se na ně, \Dm{}musíte \G[7]{}naří\C{}kat.\H[7]{}\\
+\Em{}Obr do pidimužíka \A{}myd\H[7]{}lí, \hskip 0.8em \Em{}domnívaje se, že vyhra\A{}je,\H[7]{}\\
+\G{}klidně \Em{}seďme \Am{}na žid\D[7]{}li, \hskip 0.8em \G{}čtěme bibli, \G[7]{}tam to všechno je.
+
+\verse{2}{}\C{}Samuelo\Am{}va kniha nám \Dm[7]{}poví - \G[7]{}dá,\\
+\C{}jak na žida \Am{}přišla veli\Dm[7]{}ká bí - \G[7]{}da,\\
+\C{}jak ti bídní \Am{}Filištíni \F{}válku vést ne\Fm{}byli líní,\\
+\C{}až potkali \Ab[7]{}Davi\G[7]{}da. 
+
+\verse{3}{}\C{}David šel do \Am{}války volky, \Dm[7]{}nevol - \G[7]{}ky,\\
+\C{}z velké dálky \Am{}nesl bratrům \Dm[7]{}homol - \G[7]{}ky,\\
+\C{}v pochodu se \Am{}cvičil v hodu, \F{}dal si pro strý\Fm{}čka Příhodu\\
+\C{}tři šutry do \G[7]{}tobol\C{}ky.
+
+\verse{*}{}\uv{Hej, \Ab{}hej, kam se \C{}valej, vždyť jsou \D[7]{}malej!}\\
+Takhle \G[7]{}Goliáš ho \E[7]{}provokuje,  \Dm[7]{}David slušně \G[7]{}salutuje.
+
+\verse{4}{}\C{}Když mu \Am{}ale obr plivnul \Dm[7]{}do očí,\G[7]{}\\
+\C{}David se o\Am{}točí, prakem \Dm[7]{}zato - \G[7]{}čí,\\
+\C{}když začínáš, \Am{}no tak tu máš, \F{}byl jsi velkej \Fm{}já měl kuráž\\
+\C{}a jakej byl \D[7]{}Go - \G[7]{}li - \C{}áš!
+
+~\\
+\hskip 5em \emph{(pokračování dle verze z roku 1952)}\\
+\leftskip 45pt
+\rec{Vcelku, to co jsme dnes slyšeli, to není nic nového,\\
+to je stará příhoda, ale zajímavá věc,\\
+ono to má pokračování:}
+
+
+\textbf{\textsf{Akordy jako ve 2.,3.,*.,4.}}\\
+\verse{5}{}Jestli masy nebudou dost masívní\\
+a zůstanou ještě pár let pasívní,\\
+stanou se pak tyto masy asi už na věčné časy\\
+radioaktívní.\\
+\verse{6}{}Víte, co je zapotřebí nápadů,\\
+jak se zbavit nukleárních odpadů,\\
+víte-li, co zla natropí bez kontroly izotopy\\
+tisíc let po dopadu.\\
+\verse{*}{}Ba jó, my to víme a tvrdíme,\\
+mějme hlavy v písku, jako pštrosi,\\
+nejvejš nám to spálí šosy.\\
+\verse{7}{}Jenže lidem nejde jenom o šosy,\\
+ale o krk a o značný obnosy,\\
+a proto by měly masy, říct své slovo všemi hlasy,\\
+dřív než nás smrt pokosí!\\
+}
+
+

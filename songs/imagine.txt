@@ -1,0 +1,31 @@
+\toftagthis{anglicke}
+\song{Imagine}{John Lennon}{85pt}{0.88}{
+\verse{1}\C{}Imagine there's \C[maj]{}no heaven\F{},\\
+it's easy if you try,\\
+no hell below us,\\
+above us only sky.\\
+\verse{*}\F{} Imagine a\Am{}ll the peo\Dm{}ple \hskip 1em \Dm[/C]{}\\
+\G{}living for to\G[7]{}day. 
+
+\verse{2}Imagine there's no countries,\\
+it isn't hard to do,\\
+no greed or hunger,\\
+and no religion too,\\
+\verse{*}Imagine all the people\\
+living life in peace 
+
+\chorus{}\F{}You may \G{}say I'm a \C{}dreamer,\E[7]{}\\
+but I'm not the only one,\\
+I hope someday you'll join us\\
+\F{}and the \G{}world will live as \C{}one! 
+
+\verse{3}Imagine no possessions,\\
+I wonder if you can,\\
+nothing to kill or die for,\\
+a brotherhood of man.\\
+\verse{*}Imagine all the people\\
+sharing all the world.\\
+\textbf{R:}
+}
+
+

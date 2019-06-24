@@ -1,0 +1,29 @@
+\toftagthis{anglicke}
+\song{Stand By Me}{Ben E. King}{30pt}{1}{
+\verse{1}When the \A{}night has come\Fsm{} and the land is dark\\
+and the \D{}moon is the \E{}only light we'll \A{}see,\\
+no I won't be afraid, oh, I won't be afraid,\\
+just as long as you stand, stand by me.
+
+\chorus{}So darling, darling,\\
+stand by me, oh stand by me,\\
+oh stand, stand by me, stand by me.
+
+\verse{2}If the sky that we look upon should tumble and fall,\\
+all the mountains should crumble to the sea,\\
+I won't cry, I won't cry, no, I won't shed a tear,\\
+just as long as you stand, stand by me.
+
+\chorus{}And darling, darling,\\
+stand by me, oh stand by me,\\
+oh stand now, stand by me, stand by me.
+
+\chorus{}So darling, darling,\\
+stand by me, oh stand by me,\\
+oh stand now, stand by me, stand by me.\\
+Whenever you're in trouble won't you stand by me,\\
+oh stand by me, oh won't you stand now, stand,\\
+stand by me\\
+}
+
+

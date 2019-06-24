@@ -1,0 +1,43 @@
+\toftagthis{nohavica}
+\song{Jdou po mně jdou}{Jaromír Nohavica}{55pt}{1}{
+~\\
+\verse{1}{}Býval jsem \D{}chudý jak \G{}kostelní \D{}myš,\\
+\D{}na půdě \Fsm{}půdy jsem \Hm{}míval svou \A{}skrýš,\\
+\revrpt{} \G{}pak jednou v \D{}létě \A{}řek' jsem si \Hm{}bať,\\
+\G{} svět facku\D{}je tě a \G{}tak mu to \D{}vrať. \rpt{}
+
+\verse{2}{}Když mi dát nechceš, já vezmu si sám,\\
+zámek jde lehce a adresu znám,\\
+\revrpt{} zlato jak zlato, dolar či frank,\\
+tak jsem šel na to do National Bank. \rpt{}
+
+\chorus{}Jdou po mně, \D{}jdou, \G{}jdou, \D{}jdou,\\
+\D{}na každém \Fsm{}rohu ma\G{}jí fotku \A{}mou,\\
+\G{}kdyby mě \D{}chytli, \A{}jó, byl by \Hm{}ring,\\
+\G{}tma jako v \D{}pytli je v \C{}celách Sing-\G{}sing,\\
+\A{}jé \D{}jéé\G{}. \hskip 0.8em \D{} \hskip 1em \CHORD{--}{}
+
+\verse{3}{}Ve státě Iowa byl od poldů klid,\\
+chudičká vdova mi nabídla byt,\\
+\revrpt{} jó, byla to kráska, já měl peníze,\\
+tak začla láska jak z televize. \rpt{}
+
+\verse{4}{}Však půl roku nato řekla mi: \uv{Dost,\\
+tobě došlo zlato, mně trpělivost,\\
+\revrpt{} sbal svých pár švestek a běž si, kam chceš,}\\
+tak jsem na cestě a chudý jak veš. \rpt{}\\
+\textbf{R:}
+
+\verse{5}{}Teď ve státě Utah žiju spokojen,\\
+pípu jsem utáh' a straním se žen,\\
+\revrpt{} jó, kladou mi pasti a do pastí špek,\\
+já na ně mastím, jen ať mají vztek. \rpt{}
+
+\chorus{}Jdou po mně \D{}jdou, \G{}jdou, \D{}jdou,\\
+\D{}na nočních \Fsm{}stolcích ma\G{}jí fotku \A{}mou,\\
+\G{}kdyby mě \D{}klofly, \A{}jó, byl by \Hm{}ring,\\
+\G{}být pod pan\D{}toflí je \C{}hůř než v Sing-\G{}sing.\\
+\A{}jé \D{}jéé\G{}. \hskip 0.8em \D{} \hskip 1em \CHORD{--}{}
+}
+
+

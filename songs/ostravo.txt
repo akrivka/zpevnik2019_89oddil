@@ -1,0 +1,36 @@
+\toftagthis{nohavica}
+\song{Ostravo}{Jaromír Nohavica}{30pt}{1}{
+\verse{1}
+\Am{}Ostravo \E{}Ostravo \\
+město mezi městy \\
+\Am{}hořké \E{}moje štěstí \\
+\Am{}Ostravo Ostra\E{}vo\\
+černá hvězdo nad hla\Am{}vou \\
+ 
+\verse{2}
+\F{}Pámbů rozdal \\
+jiným \C{}městům všecku krásu \\
+\Dm{}parníky na řekách \\
+a \E{}dámy všité do atlasu \\
+\Am{}Ostravo srdce rudé\E{}\\
+zpečetěný osude\Am{} \\
+ 
+\setlength{\columnsep}{0cm}
+\begin{multicols}{2}
+\verse{3}
+Ostravo Ostravo \\
+kde jsem oči nechal \\
+když jsem k tobě spěchal \\
+Ostravo Ostravo \\
+černá hvězdo\\
+nad hlavou\\
+
+\verse{4}
+Ať mě moje nohy \\
+nesly kam mě nesly \\
+ptáci na obloze \\
+jenom jednu cestu kreslí \\
+Ostravo, srdce rudé \\
+zpečetěný osude \\
+\end{multicols}
+}

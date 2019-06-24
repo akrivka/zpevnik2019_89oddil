@@ -1,0 +1,27 @@
+\toftagthis{buty}
+\song{Mám jednu ruku dlouhou}{Buty}{65pt}{0.85}{
+\crdheight=2.2ex
+\hskip 3em \revrpt{} \E{}Na \Csm{}nananana \A{}ná \E{}ná \rpt{}
+
+\verse{1}{}\E{}Najdem si \Csm{}místo, \Gsm{}kde se dobře \Fsm{}kouří,\\
+kde horké slunce do nápojů nepíchá,\\
+\H{}kde vítr \H[/A]{}snáší \E{}šmolky ptačích \A{}hovínek\\
+\H{}okolo \A{}nás a \H{}říká\ldots{}
+
+\verse{2}{}Můžeme zkoušet, co nám nejvíc zachutná,\\
+tak klidně se dívat jestli někdo nejde,\\
+někdo, kdo ví, že už tady sedíme,\\
+a řekne: \uv{Nazdar, kluci.}\\
+\chorus{}\revrpt{} \E{}Mám \Csm{}jednu ruku \A{}dlou\E{}hou. \rpt{}
+
+\verse{3}{}\A{}Posaď se \Fsm{}k nám, \Csm{}necháme tě \Hm{}vymluvit\\
+a vzpomenout si na ty naše úkoly.\\
+\E{}Tu ruku nám \Hm{}dej a \A{}odpočívej \D{}v pokoji \E{} \hskip 1em \E{} \\
+\A{}tam na tom \Fsm{}místě, \Csm{}kde se dobře \Hm{}není. \E{} \hskip 1em \Fermataup{4}
+
+\chorus{}\revrpt{} \A{}Na, \Fsm{}nananana \D{}ná \A{}ná \rpt{} $^{4\times}$\\
+\revrpt{} \Am{}Na nananana \rpt{} $^{3\times}$  \D{}ná \A{}ná\\
+\revrpt{} \A{}Mám \Fsm{}jednu ruku \D{}dlou\A{}hou. \rpt{} $^{4\times}$\\
+}
+
+

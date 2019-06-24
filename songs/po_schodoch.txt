@@ -1,0 +1,25 @@
+\toftagthis{slovenske}
+\song{Po schodoch}{Richard Müller}{35pt}{1}{
+\verse{1}\Am{}Výťah opäť nechodí, tak \G{}zdolať 13 poschodí\\
+\F{}zostáva mi \G{}znova po svo\Am{}jich.\\
+Na schodoch čosi šramotí a neón kde tu nesvieti,\\
+ešte že sa po tme nebojím.
+
+\verse{2}Počuť hlasné stereo aj výstrahy pred neverou\\
+ktosi čosi vŕta v paneloch.\\
+Tatramatky ródeo zas mieša sa tu s operou,\\
+\F{}všetko počuť \G{}cestou po scho\Am{}doch.\Em{}
+
+\chorus{}\revrpt{} Cestou \Am{}po schodoch, \Em{}po schodoch,\\
+\F{}poznávam \G{}poschodia,\\
+poznám \Am{}po schodoch, \Em{}po zvukoch,\\
+\F{}čo sme kto \Em{}za ľu\Am{}dia. \rpt{}
+
+\verse{3}Štekot smutnej kólie, za premárnené prémie\\
+vyhráža sa manžel rozvodom.\\
+Disko, tenis, árie, kritika televízie,\\
+oddnes chodím iba po schodoch.\\
+\textbf{R:}
+}
+
+

@@ -1,0 +1,27 @@
+\toftagthis{filmove}
+\song{Kujme pikle}{Šíleně smutná princezna}{80pt}{1}{
+\capo{3}
+\verse{1}\Em{}Kujme \Em[/F$\sharp$]{}pikle, \hskip 1em \Em[/G]{}kujme \hskip 0.5em \Em[/F$\sharp$]{}pikle,\\
+\Em{}obvy - \Em[/G]{}klé \hskip 0.5em i \hskip 0.5em  \Am[/F$\sharp$]{}neobvy - \H[7]{}klé.\\
+Kujme pikle, pikle kujme,\\
+snad se pikle s piklí ujme.\\
+\Am{}Budeme \Em{}pikliti\\
+\Am{}za krá\Am[/F$\sharp$]{}lovské \hskip 1em \H[7]{}ti - ti - \Em{}ti. \hskip 1em \H[7]{}
+
+\verse{2}Kujme pikle, kujme pikle,\\
+správná pikle lidi zvikle.\\
+Kujme pikle, pikle kujme,\\
+intrikujme, spekulujme.\\
+Lepšího nic není\\
+nad pořádný piklení.
+
+\verse{3}Hledá vězně, však my víme,\\
+a my jí to překazíme.\\
+V tom vám musím odporovat,\\
+my to budem podporovat.\\
+\revrpt{} \Am{}Vlákáme ji \Em{}do sítí\\
+a \H[7]{}budem dále \Em{}pikliti. \rpt{} $^{3\times}$\\
+}
+
+
+

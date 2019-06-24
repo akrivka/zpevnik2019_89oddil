@@ -1,0 +1,21 @@
+\toftagthis{anglicke}
+\song{What a Wonderful World}{Louis Armstrong}{20pt}{1}{
+\verse{1}I see \C{}trees of \Em{}green,\F{} red roses \Em{}too,\\
+\Dm[7]{}I see them \C{}bloom,\E[7]{} for me and \Am{}you,\\
+and I \Ab{}think to myself:\Dm[7]{} \uv{What a \G[7]{}wonderful wo\C{}rld.}\C[+]{} \hskip 1.5em \F[maj7]{} \hskip 3em \G[7]{}\\
+\verse{2} I see skies of blue and clouds of white,\\
+the bright blessed day, the dark sacred night\\
+and I think to myself: \uv{What a wonderful wo\C{}rld}\F{} \hskip 0.8em \F{} \hskip 0.8em \C{}
+
+\verse{*}The \G[7]{}colors of the rainbow, so \C{}pretty in the sky,\\
+are \G[7]{}also on the faces of \C{}people goin' by.\\
+I see \Am{}friends shaking \G[/H]{}hands, saying:\Am[/C]{} \uv{How do you \G{}do?}\\
+\Am[/C]{}They're really \Cs[dim]{}saying: \uv{\Dm[7]{}I \hskip 2em \Cs[dim]{}love\hskip 1.7em \G[7]{}you.} 
+
+\verse{3}I hear babies cry, I watch them grow,\\
+they'll learn much more than I'll ever know,\\
+and I think to myself: \uv{What a wonderful wo\C{}rld\Em[7b5]{}.}\\
+\A[7]{}Yes, I \Dm[7]{}think to myself:\Dm[7/G]{} \uv{What a \G[7]{}wonderful \C{}world.}\F[6]{} \hskip 1.2em \C{}\\
+}
+
+

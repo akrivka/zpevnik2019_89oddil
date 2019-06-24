@@ -1,0 +1,14 @@
+\toftagthis{folk}
+\song{To tá Heľpa}{lidová}{30pt}{1}{
+\verse{1}\Am{}To ta \Dm{}Heľpa, \Am{}to ta \Dm{}Heľpa, \Am{}to je \E{}pekné \Am{}mesto.\\
+A v tej Heľpe, a v tej Heľpe švárnych chlapcov je sto.\\
+\revrpt{} \F{}Koho je sto, \C{}toho je sto, \G{}nie po mojej \C{}vôli\E{},\\
+\Am{}ľen za \Dm{}jedným, \Am{}ľen za \Dm{}jedným, \Am{}srdiečko \E{}ma \Am{}bolí. \rpt{}
+
+\verse{2}Za Janíčkom, za Palíčkom, krok by nespravila,\\
+za Ďuríčkom, za Mišíčkom, Dunaj preskočila.\\
+\revrpt{} Dunaj, Dunaj, Dunaj, Dunaj, aj to širé more,\\
+ľen za jedným, ľen za jedným, počešenie moje. \rpt{}\\
+}
+
+

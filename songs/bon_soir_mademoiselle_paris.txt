@@ -1,0 +1,18 @@
+\toftagthis{olympic}
+\song{Bon soir, mademoiselle Paris}{Olympic}{70pt}{1}{
+\verse{1}{}\Em{}Mám \H[7]{}v kapse jeden \Em{}frank,\\
+jsem \D[7]{}nejbohatší z \G{}bank nad Sei\H[7]{}nou.\\
+Mám víc než krupiér,\\
+stíny Sacre-Coeur nade mnou. 
+
+\chorus{}\C{}Láska je \D{}úděl \G{}tvůj,\\
+\Am{}Pán Bůh tě \H[7]{}opat\Em{}ruj.\\
+\revrpt{} Bon so\C{}ir, mademoi\D{}selle Pa\Em{}ris. \rpt 
+
+\verse{2}{}Znám bulvár Saint Michelle,\\
+tam jsem včera šel s Marie-Claire.\\
+Vím, jak zní z úst krásných žen,\\
+slůvka \uv{Car je taime, oh mon cher}.\\
+\textbf{R:}
+}
+

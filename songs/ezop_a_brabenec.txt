@@ -1,0 +1,20 @@
+\toftagthis{vw}
+\song{Ezop a brabenec}{J.Ježek / V+W}{20pt}{1}{
+\verse{1}{}\C{}Jednou \Em{}z lesa \Am{}domů se \Am[7]{}nesa \hskip 0.5em \F{}mou\G[7]{}drý \C{}Ezop\G[7]{}\\
+\C{}potkal \Em{}brabce, \Am{}který bra\Am[7]{}bence \F{}má\G[7]{}lem \A[7]{}sezob.\\
+\Dm{}Brabenec se \E{}chechtá, \Dm{}Ezop se ho \D[7]{}hned \G[7]{}ptá,\\
+\C{}čemu \Em{}že se \Am{}na trávě \Am[7]{}v lese \F{}prá\G{}vě \Dm{}řeh - \G[7]{}tá.
+
+\verse{2}{}\uv{\C{}Já,} povídá \G[7]{}brabenec, \uv{se taky \C{}rád\Bb{} hlasitě \A[7]{}chechtám,\\
+chech\D[7]{}tám, když pupe\Ab[7]{}nec kyse\G[7]{}linou lep\C{}tám\D[7]{}. \hskip 1.2em \Dm[7]{} \hskip 2.8em \G[7]{}\\
+\C{}Vím,} totiž ten \G[7]{}brabenec, \uv{mraveneč\C{}ník\Bb{} že se mě \A[7]{}neptá,\\
+ne\D[7]{}ptá, pozře mě \Ab[7]{}ať se chech\G[7]{}tám nechech\C{}tám\Dm{}.} \hskip 1.3em \G[7]{} \hskip 1.6em \C{}
+
+\verse{3}{} \Ab{}Kampak by to \Eb[7]{}došlo třeba s \Ab{}pouhou ponra\Eb[7]{}vou,\\
+\G{}kdyby měla \D[7]{}plakat, že je \Dm{}ptačí potra\G[7]{}vou.\\
+~\\
+\verse{4}{}\C{}Ty, ač nejsi \G[7]{}brabenec, se taky \C{}rád\Bb{} hlasitě \A[7]{}chechtej,\\
+chech\D[7]{}tej a na svou \Ab[7]{}bídu si \G[7]{}nezarep\C{}tej.\\
+}
+
+

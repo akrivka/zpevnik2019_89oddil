@@ -1,0 +1,27 @@
+\toftagthis{anglicke}
+\song{Help!}{The Beatles}{20pt}{0.89}{
+\crdheight=2.3ex
+\verse{*}{}\Hm{}Help! I need somebody, \G{}help! Not just anybody,\\
+\E{}help! You know I need someone, \A[7]{}help!
+
+\verse{1}{}\A{}When I was younger, so much \Csm{}younger than today,\\
+\Fsm{}I never needed anybody's \D{}help in \G{}any \A{}way.\\
+But now these days are gone I'm \Csm{}not so self assured,\\
+\textls[-25]{\Fsm{}now I find I've changed my mind I've \D{}opened \G{}up the \A{}door.}
+
+\chorus{}\Hm{}Help me if you can I'm feeling down\\
+and I \G{}do appreciate you being 'round,\\
+\E{}help me get my feet back on the ground,\\
+won't you \A{}please, please help me?
+
+\verse{2}{}And now my life has changed in oh so many ways,\\
+my independence seems to vanish in the haze.\\
+But every now and then I feel so insecure,\\
+I know that I just need you like I've never done before.\\
+\textbf{R:}
+
+\verse{3}When I was younger\ldots\\
+\textbf{R:} \ldots{} please, please help \Fsm{}me, help me, help \A[6]{}me, ooh\ldots{}\\
+}
+
+

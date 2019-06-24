@@ -1,0 +1,27 @@
+\toftagthis{ceskekapely}
+\song{Zejtra mám}{Ready Kirken}{30pt}{1}{
+\verse{1}Zejtra \G{}mám, zejtra \Hm{}mám svůj \Em{}den, \hskip 0.7em \D{}\\
+zejtra se mi \C{}splní moje tajný \Em{}přání, můj \Am{}sen. \hskip 0.7em \D{}\\
+Dlouho tě znám, dlouho tě znám, mám tě rád,\\
+uvidím tě zas, uslyším tvůj hlas, možná.
+
+\verse{2}Zejtra mám, zejtra mám svůj den,\\
+asi to tak bude, je to cejtit všude, je to cejtit všude,\\
+všude tam, kam se podívám, něco z tebe mám,\\
+tak se mi \C{}zdá, tak se mi \Em{}zdá,\\
+že už asi \A{}zejtra nebudu \D{}sám.
+
+\chorus{}Nebudu \C{}sám, nebudu \H[7]{}sám, 
+zejtra tě \Em{}máááá\G{}ám,\\
+\Em{}máááá\A{}ám, \Em{}mááááá\A{}m, \H[7]{}jééé.
+
+\verse{3}Zejtra mám, zejtra mám svůj den,\\
+zejtra se mi splní moje tajný přání, můj sen.\\
+Všude tam, kam se podívám, něco z tebe mám,\\
+poslední den, jednou vyspím se jen\\
+a pak už nikdy nebudu sám.\\
+\textbf{R: $(2\times)$}\\
+}
+
+
+

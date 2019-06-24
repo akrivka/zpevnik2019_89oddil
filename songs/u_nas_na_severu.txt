@@ -1,0 +1,39 @@
+\toftagthis{nohavica}
+\song{U nás na severu}{Jaromír Nohavica}{70pt}{1}{
+\verse{1}\Em{}V Bělském lese \Am{}toulají se \H[7]{}mamu\Em{}ti,\\
+\G{}když je neo\D[7]{}solíš, tak jsou \G{}bez \C{}chu\H[7]{}ti,\\
+\G{}nevěřil bys, \D[7]{}kolik to dá \G{}ro - \C{}bo - \H[7]{}ty\\
+\Em{}zavařovat \Am{}na kyselo \H[7]{}chobo\Em{}ty.
+
+
+\chorus{}Ďura \Am{}světa v každém směru,\\
+co si \Em{}myslíš, na to seru,\\
+nemluv, \H[7]{}bo mě mory beru,\\
+tak se \Em{}žije tady na se\E[7]{}veru.
+
+Větry fučí ze všech směrů,\\
+když není máslo, jíme Heru,\\
+furt dva metry od maléru,\\
+tak se \Em{}žije \hskip 0.5em \H[7]{}tu u \Em{}nás.\\
+Ná na nána \dots
+
+\verse{2}Všude kolem ve světě jsou mobily,\\
+u nás nevyroste ani obilí,\\
+psi se živí výhonkama přesliček,\\
+každá rodina má deset dětiček\\
+\textbf{R:}
+
+\verse{3}V centru vedle sochy T.G. Masaryka\\
+ze země jak na Islandu voda stříká.\\
+Malí, velcí, tlustí, tencí, různé rasy,\\
+zadarmo si tady všichni myjou vlasy.\\
+\textbf{R:}
+
+\verse{4}Z Karolíny je vidět do Evropy,\\
+pod Radhoštěm potkáš aj lidoopy,\\
+po výplatě je tu velmi divoko,\\
+Praha daleko a Pánbůh vysoko.\\
+\textbf{R:}
+}
+
+

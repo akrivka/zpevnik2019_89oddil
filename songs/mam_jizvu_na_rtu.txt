@@ -1,0 +1,78 @@
+\toftagthis{nohavica}
+\song{Mám jizvu na rtu}{Jaromír Nohavica}{35pt}{0.83}{
+\crdheight=2.3ex
+\hskip 1em \revrpt{} \textsf{\bfseries Cadd9\ \ Gsus2/H\ \   Fsus2\ \ Gsus4 } \rpt{}
+
+\verse{1}{}\C[sus2]{}Jsem příliš starý na to, abych věřil v revoluci,\\
+\G[sus4]{}a svoji velkou hlavu \G{}těžko skryju \G[sus4]{}pod kapuci\\
+\Am[7]{}a nechutná mi, když se \F[sus2]{}vaří předvařená rýže,\\
+\C[sus2]v náprsní kapse nosím\G[sus4]{} Ventinol \G{}na potíže.
+
+\vskip -2ex
+\chorus{}\Am[7]{}Jak to tak vidím, asi těžko projdu \Am[7/E]{}uchem jehly\\
+\F[sus2]{}a lesem běhám tak, a\C[sus2]{}by mě vlci nedoběhli,\\
+\Dm[7]{}a kdyby se někdo z vás na anděla \C[/E]{}ptal,\\
+tak \C[sus2]{}mám jizvu na rtu,\G[sus4]{} když při mně stál.
+
+\verse{2}{}Sako mám od popílku, na kravatě saze,\\
+mé hrubé prsty neumí uzly na provaze\\
+a když mi občas tečou slzy, hned je polykám\\
+a tančím jen tak rychle, jak hraje muzika.
+
+\vskip -2ex
+\chorus{}Mé oči mnohé viděly a ruce mnohé měly\\
+a srdce stydělo se, když salvy slávy zněly,\\
+a kdyby se někdo z vás na anděla ptal,\\
+tak mám jizvu na rtu, když při mně stál.
+
+\verse{3}{}Mluvil jsem s prezidenty, potkal jsem vrahy,\\
+nahý jsem na svět přišel a odejdu nahý,\\
+v patnácti viděl jsem, jak kolem jely ruské tanky,\\
+a v padesáti nechával si věštit od cikánky.
+
+\vskip -2ex
+\chorus{}A dříve, než mě přijme svatý Petr u komise,\\
+básníkům české země chtěl bych uklonit se\\
+a kdyby se někdo z vás na anděla ptal,\\
+tak mám jizvu na rtu, když při mně stál.
+
+\verse{4}{}V Paříži četl jsem si ruskou verzi L'Humanité\\
+a z bible zatím pochopil jen věty nerozvité,\\
+v New Yorku chyt' jsem koutek od plastových lžiček,\\
+ale nejlepší káva je v Hypernově U Rybiček.
+
+\vskip -2ex
+\chorus{}Trumfové eso v mariáši hážu do talónu\\
+a chtěl bych vidět Baník, jak poráží Barcelonu\\
+a kdyby se někdo z vás na anděla ptal,\\
+tak mám jizvu na rtu, když při mně stál.
+
+\verse{5}{}Někteří lidi mají fakt divné chutě,\\
+ale já, lásko má, stále stejně miluju tě,\\
+když hážeš bílé křemenáče na cibulku,\\
+když zvedáš prst jako dirigentskou hůlku.
+
+\vskip -2ex
+\chorus{}A i když mě to táhne tam a tebe občas jinam,\\
+na špatné věci pro ty dobré zapomínám\\
+a kdyby se někdo z vás na anděla ptal,\\
+tak mám jizvu na rtu, když při mně stál,\\
+\ldots{} když při mně stál\ldots{} on při mně stál.\\
+\noexport{
+\vfill
+\begin{figure}[h!]
+\leftskip 5pt
+\includegraphics[width=345pt, height=60pt ]{res/jizvu.pdf}
+\end{figure}
+\leftskip 40pt
+\rightskip 10pt
+\hskip -50pt \begin{minipage}[t]{\textwidth} \chord{t}{x,p3,p5,p5,p3,p3}{Csus2} \end{minipage}
+\hskip -15pt\begin{minipage}[t]{\textwidth}\chord{t}{p3,x,o,o,p1,p3}{Gsus4} \end{minipage}
+\hskip -15pt\begin{minipage}[t]{\textwidth}\chord{t}{p3,x,o,o,o,p3}{G} \end{minipage}
+\hskip -15pt\begin{minipage}[t]{\textwidth}\chord{t}{x,o,p2,o,p1,p3}{Ami7} \end{minipage}
+\hskip -15pt\begin{minipage}[t]{\textwidth}\chord{t}{p1,x,p3,o,p1,p3}{Fsus2} \end{minipage}
+\hskip -15pt\begin{minipage}[t]{\textwidth}\chord{t}{o,x,p2,o,p1,o}{C/E} \end{minipage}\\
+}
+}
+
+

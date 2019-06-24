@@ -1,0 +1,32 @@
+\toftagthis{anglicke}
+\song{Sweet Home Alabama}{Lynyrd Skynyrd}{25pt}{0.93}{
+\verse{1}\D{}Big \C{}wheels keep on \G{}turning,\G{}\\
+carry me home to see my kin.\\
+Singing songs about the Southland,\\
+I miss Alabamy once again and I think it's a sin.
+
+\verse{2}Well I heard mister Young sing about her,\\
+well, I heard old Neil put her down.\\
+Well, I hope Neil Young will remember,\\
+a Southern man don't need him around anyhow.
+
+\chorus{}Sweet home Alabama,\\
+where the skies are so blue.\\
+Sweet Home Alabama,\\
+\D{}Lord, I'm \C{}coming home to \G{}you. \F{} \hskip 1em \C{}
+
+\verse{3}In Birmingham they love the governor, \F{}boo \C{}hoo \D{}hoo!\\
+Now we all did what we could do,\\
+now Watergate does not bother me,\\
+does your conscience bother you? Tell the truth.\\
+\textbf{R:}
+
+\verse{4}Now Muscle Shoals has got the Swampers\\
+and they've been known to pick a song or two,\\
+Lord, they get me off so much,\\
+they pick me up when I'm feeling blue,\\
+now how about you?\\
+\textbf{R: $(2\times)$}
+}
+
+

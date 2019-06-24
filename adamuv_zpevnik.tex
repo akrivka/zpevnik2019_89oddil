@@ -1,0 +1,53 @@
+\documentclass[two-side, 15pt]{article} 
+\usepackage{adamuv_zpevnik}
+
+\begin{document}
+\incgraph[documentpaper,
+  overlay={\node[red] at (page.center) ;}]
+  [width=\paperwidth,height=\paperheight]{obal/zpevnik_obal.png}
+
+%% full list of songs
+\etocruledstyle{\textbf{\large\ \uppercase{Obsah}\ }}
+\nexttocwithtags{}{}
+\doublespacing
+\tableofcontents
+\singlespacing
+\clearpage
+
+%% document settings
+\Large % do not remove! Otherwise titles will get messed up -_-
+\fontsize{14pt}{2ex} \selectfont
+\setlength{\parskip}{2ex} % vertical space between paragraphs
+\crdheight=2.5ex
+
+
+%% --------------  SONGS --------------------
+\input{songs/andel.txt}
+\input{songs/batalion.txt}
+\input{songs/bon_soir_mademoiselle_paris.txt}
+\input{songs/dej_mi_vic_sve_lasky.txt}
+\input{songs/hallelujah.txt}
+\input{songs/holubi_dum.txt}
+\input{songs/house_of_the_rising_sun.txt}
+\input{songs/hrobar.txt}
+\input{songs/jdem_zpatky_do_lesu.txt}
+\input{songs/jozin_z_bazin.txt}
+\input{songs/kdyz_me_brali_za_vojaka.txt}
+\input{songs/knockin'_on_heaven's_door.txt}
+\input{songs/kometa.txt}
+\input{songs/kozel.txt}
+\input{songs/kralovna_z_dundrum_bay.txt}
+\input{songs/mezi_horami.txt}
+\input{songs/misko_raper.txt}
+\input{songs/na_kolena.txt}
+\input{songs/nad_stadem_koni.txt}
+\input{songs/nagasaki_hirosima.txt}
+\input{songs/ostravo.txt}
+\input{songs/pohoda.txt}
+\input{songs/poveste_ho_vejs.txt}
+\input{songs/rytir.txt}
+\input{songs/sally_gray.txt}
+\input{songs/severni_vitr.txt}
+\input{songs/tri_krize.txt}
+\input{songs/zafukane.txt}
+\end{document}

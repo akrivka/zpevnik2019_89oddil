@@ -1,0 +1,58 @@
+\toftagthis{anglicke}
+\song{Hollywood Hills}{Sunrise Avenue}{20pt}{1}{
+\capo{4}
+\vskip 2ex
+\verse{1}Now this \G{}is not the time or the place for brokenh\D[sus4/F$\sharp$]{}earted,\\
+cause this is the end of the \Em[7]{}rainbow,\\
+where no one can be\C[add9]{} \hskip 1em too \hskip 1em \Em[7]{}sad. \hskip 1em \D[sus4/F$\sharp$]{}\\
+No, I don't wanna leave but I must keep moving ahead,\\
+cause my life belongs to the other side,\\
+behind the great ocean's waves.
+
+\chorus{}\G{} Bye, bye, Hollywood Hill\G[/H]{}s, I'm gonna\\
+\D{} miss you, wherever I g\D[/F$\sharp$]{}o, I'm gonna\\
+\Em[7]{} come back to \Em[7/H]{}walk these streets again,\\
+\C[add9]{} bye, bye, Hollywood Hi\D{}lls for\G{}ever.
+
+\verse{2}Thank you for the morning walks on the sweet sunset\\
+and for the hot night moments,\\
+for the fantasy in my bed.\\
+\scalebox{0.95}[1]{I take a part of you with me now and you won't get it back}\\
+and a part of me will stay here,\\
+you can keep it forever, \Em{}dear. Woo\A[7sus4]{}aooooo...\C[add9]{}
+
+\clearpage
+\leftskip 40pt
+\chorus{}Bye, bye, Hollywood Hills, I'm gonna\\
+miss you, wherever I go, I'm gonna\\
+come back to walk this streets again,\\
+remember that we had fun together. 
+
+Bye, bye, rodeo girls, I'm gonna\\
+love you, wherever I go, I'm gonna\\
+come back, so we can play together,\\
+bye, bye Hollywood Hills forever. 
+
+\verse{3}Long distance love doesn't work,\\
+all the miles in between get in your head.\\
+No, I don't wanna go, I don't wanna go.
+
+\chorus{}Bye, bye, Hollywood Hills, I'm gonna\\
+miss you, wherever I go, I'm gonna\\
+come back to walk these streets again,\\
+bye, bye\ldots
+
+\chorus{}Bye, bye, Hollywood Hills, I'm gonna\\
+miss you, wherever I go, I'm gonna\\
+come back to walk these streets again,\\
+remember that we had fun together.
+
+Bye, bye, rodeo girls, I'm gonna\\
+love you, wherever I go, I'm gonna\\
+come back, so we can play together,\\
+bye, bye, Hollywood Hills forever.
+
+Hollywood Hills forever,\\
+Hollywood Hills forever\\}
+
+

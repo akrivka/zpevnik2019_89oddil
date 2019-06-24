@@ -1,0 +1,19 @@
+\toftagthis{matuska}
+\song{Eldorádo}{Waldemar Matuška}{30pt}{1}{
+\verse{1}{}\Am{}V dálných \G{}dálkách zámo\Am{}ří ční prý \G{}zlaté poho\Am{}ří,\\
+\Am{}přícho\C{}zího pohos\D{}tí \hskip 0.2em \Dm{}nádhe\C{}rou a hojno\G{}stí. \E[7]{}
+
+\verse{2}{}Dík těm svůdným pověstím zástupy šly za štěstím,\\
+chátra i ti bohatí s vírou, že se vyplatí\ldots{}
+
+\chorus{}\Am{}Jít a hledat Eldo\G{}rádo zbave\C{}né vší \D{}bídy člově\G{}čí,\E[7]{}\\
+\Am{}jít a hledat Eldo\G{}rádo, kde je \C{}láska, \D{}mír a bezpe\Em{}čí. 
+
+\verse{3}{}\Hm{}Báchor\A{}ce té uvě\Hm{}ří  dávno \A{}už jen někte\Hm{}ří,\\
+\Hm{}spíš než \D{}zlatonosný \E{}štít \Em{}nám dnes \D{}rozum káže \A{}jít \Fs[7]{}\ldots 
+
+\chorus{}\Hm{}Jít a hledat Eldo\A{}rádo zbave\D{}né vší \E{}bídy člově\A{}čí,\Fs[7]{}\\
+\Hm{}jít a hledat Eldo\A{}rádo, kde je \D{}láska, \E{}mír a bezpe\Fsm{}čí.\\
+}
+
+

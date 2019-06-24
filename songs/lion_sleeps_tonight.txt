@@ -1,0 +1,22 @@
+\toftagthis{anglicke}
+\song{Lion Sleeps Tonight}{The Tokens}{60pt}{1}{
+\capo{1}
+~\\
+\verse{1}\E{}In the jungle, the \A{}mighty jungle,\\
+the \E{}lion sleeps to\H{}night.\\
+In the jungle, the quiet jungle,\\
+the lion sleeps tonight.
+
+\verse{2}Near the village, the peaceful village,\\
+the lion sleeps tonight.\\
+near the village, the quiet village,\\
+the lion sleeps tonight.
+
+\verse{3}Hush my darling, don't fear my darling,\\
+the lion sleeps tonight.\\
+Hush my darling, don't fear my darling,\\
+the lion sleeps tonight.\\
+}
+
+
+% NEW SONGS

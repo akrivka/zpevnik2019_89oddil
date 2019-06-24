@@ -1,0 +1,20 @@
+\toftagthis{anglicke}
+\song{Knockin' on Heaven's Door}{Bob Dylan}{50pt}{1}{
+\verse{1}{}\G{}Mama, \D{}take this badge of \Am{}me,\\
+\G{}I can't \D{}use it any\C{}more.\\
+It's getting dark, too dark to see,\\
+feels like I'm knockin' on heaven's door.
+
+\chorus{}Knock, knock, knockin' on heaven's door\\
+Knock, knock, knockin' on heaven's door\\
+Knock, knock, knockin' on heaven's door\\
+Knock, knock, knockin' on heaven's door\\
+~\\
+\verse{2}{}Mama, put my guns in the ground,\\
+I can't shoot them anymore.\\
+That cold black cloud is comin' down,\\
+feels like I'm knockin' on heaven's door.\\
+\textbf{R: $(2\times)$}
+}
+
+

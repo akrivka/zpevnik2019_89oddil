@@ -1,0 +1,29 @@
+\toftagthis{olympic}
+\song{Jasná zpráva}{Olympic}{60pt}{1}{
+\verse{1}{}\C{}Skončili jsme, jasná zpráva,\\
+\Am{}proč o tebe \F{}zakopávám \G{}dál?\\
+\Dm{}Projít bytem \F{}já abych se \C{}bál.
+
+\verse{2} Dík tobě se vidím zvenčí,\\
+připadám si starší, menší, sám.\\
+Kam se kouknu, kousek tebe mám.
+
+\chorus{}\Am{}Pěnu s vůní \Em{}jablečnou, \Am{}vyvanulý \Em{}sprej,\\
+\Am{}telefon, cos \C{}ustřihla mu \G{}šnůru.\\
+Knížku krásně zbytečnou, co má lživý děj,\\
+píše se v ní, jak se lítá vzhůru,\\
+lítá \Dm{}vzhůru, ve dvou \G{}vzhůru.
+
+\verse{3}{}Odešlas mi před úsvitem,\\
+mám strach bloudit vlastním bytem sám.\\
+Kam se kouknu, kousek tebe mám.\\
+\textbf{R:}
+
+\verse{4}{}Skončili jsme, jasná zpráva,\\
+není komu z okna mávat víc,\\
+jasná zpráva, rub, co nemá líc.\\
+\textbf{R:}
+
+}
+
+

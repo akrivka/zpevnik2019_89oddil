@@ -1,0 +1,47 @@
+\toftagthis{anglicke}
+\song{Lemon Tree}{Fool's Garden}{30pt}{1}{
+\verse{1}{}I'm \Dm{}sittin' here in the \Am{}boring room,\\
+it's just another rainy Sunday afternoon,\\
+I'm wasting my time, I got nothing to do,\\
+I'm hangin' around, I'm waitin' for you\\
+but \Gm{}nothing ever happens\Am{} -- and I \Dm{}wonder.
+
+\verse{2}{}I'm drivin' around in my car,\\
+I'm drivin' too fast, I'm drivin' too far,\\
+I'd like to change my point of view,\\
+I feel so lonely, I'm waiting for you\\
+but nothing ever happens -- and I wonder.
+
+\chorus{}I \F{}wonder how, \C{}wonder why\\
+\Dm{}yesterday you told me 'bout the \Am{}blue blue sky\\
+and \Bb{}all that I can \C{}see\\
+is just a yellow \F{}lemon tree\C{}.\\
+I'm \F{}turnin' my head \C{}up and down,\\
+i'm \Dm{}turnin' turnin' turnin' turnin' \Am{}turnin' around\\
+and \Bb{}all that I can \H[dim]{}see\\
+is just a yellow \C{}lemon tree\C[7]{}.
+
+Ta, da da didap\ldots{}
+
+\verse{3}{}I'm sittin' here, I miss the power,\\
+I'd like to go out, takin' a shower\\
+but there's a heavy cloud inside my head,\\
+I feel so tired, put myself into bed\\
+Where nothing ever happens -- and I wonder.
+
+\verse{*}{}\A{}Isolation \Dm{}is not good for me,\\
+\C{}isolation -- \F{}I don't want to \A{}sit on a lemon tree.
+
+\verse{4}{}I'm steppin' around in a desert of joy,\\
+baby, anyhow I get another toy\\
+and everything will happen -- and you'll wonder.\\
+\textbf{R: + $\downarrow$}
+
+I \F{}wonder how, \C{}wonder why\\
+\Dm{}yesterday you told me 'bout the \Am{}blue blue sky\\
+and \Bb{}all that I can \C{}see\\
+and \Bb{}all that I can \C{}see\\
+and \Bb{}all that I can \C{}see\\
+is just a yellow \F{}lemon tree.\\
+}
+

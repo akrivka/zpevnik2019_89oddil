@@ -1,0 +1,33 @@
+\toftagthis{ceskekapely}
+\song{Nejlíp jim bylo}{Mňága a Žďorp}{20pt}{1}{
+\capo{2}
+\verse{1}
+Nejlíp jim \C{}bylo\F[maj7]{}\\
+\C{}když \F[maj7]{}nevěděli co dě\C{}lají\F[maj7]{} \hskip 3.2em \C{} \hskip 1em \F[maj7]{}\\
+jenom se \G{}potkali 
+\F{}a neznělo to \C{}špatně\F[maj7]{} \hskip 3.2em \C{} \hskip 1em \F[maj7]{}
+
+Tak se snažili a opravdu si užívali,\\
+jenom existovali a čas běžel skvěle.
+
+\chorus{}
+\F{}Nechám si projít \C{}hlavou
+\G{}kam všechny věci \Am{}plavou,\\
+\F{}jestli je všechno jen \C{}dech,
+\G{}tak jako kdysi v noci\\
+\Am{}spolu potmě na schodech\C{} \hskip 1em \F[maj7]{}
+
+\verse{2}
+Pak se ztratili
+a chvílema se neviděli,\\
+jenom si telefonovali
+a byli na tom bledě.
+
+A když se vrátili
+už dávno nehořeli,\\
+jenom dál usínali,
+chvíli spolu, chvíli vedle sebe.\\
+\textbf{R: $(3\times)$}\\
+}
+
+

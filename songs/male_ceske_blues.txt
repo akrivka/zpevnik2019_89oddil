@@ -1,0 +1,39 @@
+\toftagthis{nohavica}
+\song{Malé české blues}{Jaromír Nohavica}{40pt}{1}{
+\verse{1}{}Koupil jsem \Dm{}kozu, nemám kozu,\\
+včera mi \G{}pošla na virozu,\\
+kdybych koupil \Bb{}kozla, taky by mi \A{}chcip,\\
+takový jsem \Dm{}cyp. \hskip 0.3em \A{}Do prdele práce!
+
+\verse{2}{}Třešeň v rohu zahrady roky mi nesla,\\
+letos úroda na polovinu klesla,\\
+že prý špačci, já ti dám špačci,\\
+snědí spoluobčané. Do prdele práce!
+
+\verse{3}{}Dřu jak mezek ve zbrojovce,\\
+ve volném čase za barákem chovám ovce,\\
+Neuwirt chová rybky v akváriu,  má na kontě mega\\
+a já nic. Do prdele práce!
+
+\verse{4}{}Moje stará, škoda slov,\\
+takový malý Suvorov,\\
+jak mi liskne tak to třiskne jak když o traverzu\\
+buchne těžký kov. Do prdele práce!\\
+\clearpage
+\verse{5}{}Starší dcera robí v Londonderry,\\
+mladší čeká děcko, ale neví s kerym,\\
+synek sedí, bo byl hlupy,\\
+nechal se chytit. Do prdele práce!
+
+\verse{6}{}Topolánek, jasné jak facka,\\
+jezdí v plavkách do Chorvatska,\\
+já tak možu na horní splav do Lidečka,\\
+tečka. Do prdele práce!
+
+\verse{7}{}Na posraného i hovno padá,\\  
+tady je těžká jaká smysluplná rada,\\
+nejlepší bude odložit bendžo a zajít na jedno.\\
+Do restaurace --  tak já jdu.\\
+}
+
+

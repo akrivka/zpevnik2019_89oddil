@@ -1,0 +1,49 @@
+\toftagthis{kabat}
+\song{Ďábel a syn}{Kabát}{25pt}{1}{
+\verse{1}{}\Dm{}Sedím a koukám, jak \C{}zvrácenej podzim\\
+\Am{}stromům svlíká jejich \G{}šat,\\
+poslouchám ptáky a jenom tak kouřím,\\
+malinko chce se mi spát.\\
+Padá mi hlava, pak cejtím, jak někdo\\
+lehce mě za ruku vzal,\\
+blázen či voják, jak maškara divná tam \Am{}stál\ldots{}\\
+já pozval ho \Dm{}dál 
+
+\verse{2}{}Měl špinavej kabát a v ruce flétnu,\\
+oči jak z mrtvejch by vstal,\\
+na botách bahno snad celýho světa,\\
+tuhletu píseň mi hrál.\\
+Tu píseň, co zpívám, a vůbec vám nevím,\\
+kde na ni akordy vzal,\\
+jak jsem tam seděl a koukal a kouřil, to já\ldots{}\\
+teprv ji psal.  
+
+\verse{3}{}Povídá: \uv{Hochu, vracím se z flámu,\\
+hráli jsme karty se zdá,\\
+partii pokera o budoucí vládu,\\
+dík bohu vyhrál jsem já.\\
+Já měl z pekla štěstí a nebo pár trumfů\\
+v rukávu -- podvod, já vím,\\
+chcete mě soudit, tak dejte mě na kříž, jsem váš\ldots{}\\
+ďábel a syn.}  
+
+\verse{4}{}Pak pomalu mluvil a ničil mě silou,\\
+co od věků v sobě už má,\\
+drtil mě pravdou a pouštěl mi žilou,\\
+na závěr jen povídá:\\
+\uv{Bůh stvořil lásku a žal, taky bolest\\
+a já jenom ubohej chtíč,\\
+fandím vám lidem, nevím proč nemáš mě rád\ldots{}}\\
+já poslal ho pryč.  
+
+\verse{5}{}Sedím a koukám, jak zvrácenej podzim\\
+stromům svlíká jejich šat,\\
+přemejším o tom, co s náma bude\\
+a malinko chce se mi spát.\\
+Padá mi hlava, pak cejtim, jak někdo\\
+lehce mě za ruku vzal,\\
+blázen či voják, jak maškara divná tam stál\ldots{}\\
+tak pozvem ho dál.\\
+}
+
+

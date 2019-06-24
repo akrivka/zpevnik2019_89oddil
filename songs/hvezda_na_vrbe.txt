@@ -1,0 +1,26 @@
+\toftagthis{filmove}
+\song{Hvězda na vrbě}{K. Mareš / J. Šteidl}{25pt}{1}{
+\verse{1}\Em{}Kdo \G{}se \Am{}večer\Em{} hájem \Am{}vrací,\F{} ten ať \Em{}klopí\G[7]{} zra\C{}ky, \Em{}\\
+ať \G{}je \Am{}nikdy\Em{} neo - \Am{}brací\Dm{} k vr\G[7]{}bě \hskip 0.5em \Em{}křivola\E{}ký.\A{} \hskip 1em \C{} \hskip 1em \Em{}\\
+Ji\G{}nak \Am{}jeho \Em{} oči \hskip 0.5em \Am{}zjistí,\F{} i když \Em{}se to\G[7]{} nez\C{}dá,\Em{}\\
+že\G{} na \Am{}vrbě \Em{} kromě \Am{}listí, \Dm{} visí \hskip 0.5em \F{}malá hvěz\Am{}da.
+
+\chorus{}Vidě\C{}li jsme jednou v \F{}lukách,
+plakat \C{}na tý vrbě \F{}kluka,\\
+který \Dm{}pevně věřil \Bb[7]{}tomu,
+že ji \D[7]{}sundá z toho \G[7]{}stromu.\Em{}
+
+\verse{2}Kdo o hvězdy jeví zájem, zem když večer chladne,\\
+ať jde klidně přesto hájem, hvězda někdy spadne.\\
+Ať se pro ni rosou brodí a pak vrbu najde si,\\
+a \G{}pro \Am{}ty co\Em{} kolem \Am{}chodí\Dm{} na tu \F{}větev\F{} zavě\Am{}sí.
+
+\optVerse{-35pt}{27pt}{20pt}{
+\verse{3}Kdo se večer\ldots\\
+\textbf{R:}
+
+\verse{4}Kdo o hvězdy\ldots
+}
+}
+
+

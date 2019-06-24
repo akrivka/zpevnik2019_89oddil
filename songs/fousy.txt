@@ -1,0 +1,39 @@
+\toftagthis{ceskekapely}
+\song{Fousy}{Poletíme?}{60pt}{1}{
+\verse{1}Když se \C{}zeptáte, proč nosím plnofous,\\
+jestli mě třeba pes do brady \D{}kous,\\
+jestli \F{}mám tam vyráž\C{}ku,\\
+a nebo \Dm{}něco schová\C{}vám,\\
+tak vám \D{}jak odpověď tohle zazpí\G{}vám:
+
+\verse{2}Mít fous mi přijde normální,\\
+nemít fous – nenormální,\\
+kašlu na trendy, takhle jsem se narodil,\\
+bůh mě stvořil, abych takhle chodil.
+
+\verse{3}Za fousy mě z mámy vytáhli,\\
+i ve škole mně fousy nechali,\\
+první holku jsem sbalil fousem\\
+ostatní už na fous čekaly.
+
+\chorus{}Fousy, fousy, fousy, fousy, fous\ldots
+
+\verse{4}Podle fousů se lidi poznají,\\
+fousy fousům fousy mávají,\\
+člověk bez fousů je jako kocour bez fousů,\\
+jako kaktus bez fousů, jako Mikuláš bez fousů.\\
+\textbf{R:}
+
+\verse{5}Jednou mně mé fousy zešednou,\\
+budou se fousit chůzi šoulavou,\\
+a pak buďte si jistí za co mě spustí,\\
+v díru v zemi vykopanou.
+
+\verse{6}V nebi všichni svatí fousatí,\\
+mě mezi fousaté posadí,\\
+a budem pak fousy zdravit ty, co si\\
+užívají věčné holení na věčnosti.\\
+\textbf{R: (2$\times$)}
+}
+
+

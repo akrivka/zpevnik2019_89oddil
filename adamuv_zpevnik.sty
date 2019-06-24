@@ -1,0 +1,57 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{zpevnik}[2019/06/08]
+
+%%% ENCODING
+\usepackage[utf8]{inputenc}
+\usepackage[czech]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{incgraph,tikz}
+
+%%% FONTS (changed)
+\usepackage[no-math]{fontspec}
+\newfontfamily\skautfont{SKAUT-Bold}
+% \newfontfamily\themixfont{TheMixC5-4_SemiLight.otf}[
+\setmainfont{TheMixC5-4_SemiLight.otf}[
+Path = /usr/share/fonts/skaut/,
+BoldFont = TheMixC5-7_Bold.otf,
+ItalicFont = TheMixC5-4iSemilightIta.otf,
+BoldItalicFont = TheMixC5-7iBoldItalic.otf]
+
+%%% PAGE DIMENSIONS
+\usepackage[top=25pt, bottom=33pt, left=30pt, right=30pt]{geometry}
+\geometry{a5paper}
+\pagestyle{empty} % no header nor footer
+\pagenumbering{gobble} % suppress page numbering on first page
+
+% MISCELLANEOUS
+\usepackage{graphicx} % support the \includegraphics command and options
+\usepackage{setspace} % spacing between lines
+\usepackage{microtype} % micro-typographic font refinement
+\usepackage{paralist} % very flexible & customisable lists (eg. enumerate/itemize, etc.)
+\usepackage{subfig} % make it possible to include more than one captioned figure/table in a single float
+\usepackage{truncate} %for truncating song titles in ToC
+\usepackage{xfrac} % better fractions, E.G. 3/4 etc.
+\usepackage[parfill]{parskip} % Activate to begin paragraphs with an empty line rather than an indent
+\usepackage{needspace}
+
+% CHORDS & MUSIC
+\usepackage{gtrcrd} % chords above lyrics
+\usepackage{gchords} % chord diagrams
+\usepackage{musixtex} % typeset music notation
+
+% TABLE OF CONTENTS
+\usepackage{tableof} % for tagged table of contents
+\usepackage{etoc} % for customized typesetting of tocs
+% introduce sectioning element `song'
+\etocsetlevel{song}{1}
+% define ToC line style for song
+% \etocsetstyle{<levelname>}{<start>}{<prefix>}{<contents>}{<finish>}
+\etocsetstyle{song}{} 
+{\leavevmode\leftskip 0pt\relax}
+{\hskip 4pt{\etocname}\nobreak\hfill\nobreak\par}{}
+
+% CUSTOM MACROS
+\input{macros.tex}
+\input{chords_adjustments.tex}
+
+

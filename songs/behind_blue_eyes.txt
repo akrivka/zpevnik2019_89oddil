@@ -1,0 +1,29 @@
+\toftagthis{anglicke}
+\song{Behind Blue Eyes}{The Who (verze od Limp Bizkit)}{40pt}{0.95}{
+\verse{1}{}\Em{}No one knows what it's \G{}like to be the \D[sus2]{}bad man,\\
+to be the \C[add9]{}sad man, be\A[sus2]{}hind blue eyes.\\
+And no one knows what it's like to be hated,\\
+to be fated to telling only lies.
+
+\chorus{}But my \C{}dre\D{}ams, they aren't as \G{}empty,\\
+as my \C{}conscience\D{} seems to \E{}be.\\
+I have \Hm{}hours, only \C{}lonely,\\
+my love is \D{}vengeance that's never \A[sus2]{}free. 
+
+\verse{2}{}No one knows what it's like to feel these feelings,\\
+like I do, and I blame you.\\
+No one bites back as hard on their anger,\\
+none of my pain and woe can show through.\\
+\textbf{R:} 
+
+\verse{3}{}No one knows what it's like to be mistreated,\\ 
+to be defeated, behind blue eyes.\\
+No one know how to say that they're sorry\\
+and don't worry, I'm not telling lies.\\
+\textbf{R:} 
+
+\verse{4}{}No one knows what its like to be the bad man,\\
+to be the sad man, behind blue eyes.\\
+}
+
+

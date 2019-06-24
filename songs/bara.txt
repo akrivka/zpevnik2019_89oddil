@@ -1,0 +1,29 @@
+\toftagthis{kabat}
+\song{Bára}{Kabát}{50pt}{1}{
+\H{} \hskip 1em \E{} \hskip 1em \Gsm{} \hskip 2.5em \Csm{} \hskip 2.5em \A{} \hskip 1em \E{} \hskip 1em \Gsm{} \hskip 2.5em \Fsm{}\\
+\verse{1}\Gsm{}Jenom se \Csm{}ptej, kolem \E{}plameny tančí,\\
+tak \H{}proč je tady divnej \A{}chlad? \A{}\\
+Nepospíchej, kdo tě zavede zpátky\\
+a kdo při tobě bude stát? 
+
+\chorus{}Víš, já \E{}mám spoustu \Gsm{}známejch v pod\Csm{}zemí\\
+a divá Bá\A{}ra se mnou spí\ldots{}\\
+Když je \E{}noc, všechno krás\Gsm{}ný zdá se \Csm{}mi,\\
+to jsme my \A{}dávno prokle\Gsm{}tý. 
+
+\verse{2}Ještě je čas, jak tě nestvůra kouše,\\
+tak schovej nohy do peřin.\\
+Okolo nás je toho tolik co zkoušet,\\
+na jedno zdraví nevěřím.\\
+\textbf{R:}
+
+\verse{3}Kdopak tě zval? Vem si do dlaně růži,\\
+sevři ji a krve pij.\\
+Tak pojď jenom dál, obleč si moji kůži,\\
+vysaj mě a použij\\
+\textbf{R:}
+}
+
+
+
+
